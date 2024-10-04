@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "targetScore": 1000,
+    "maxEnergy": 1000,
+    "heroMoveSpeed": 300,
+    "fishingLineSpeed": 1,
+    "fishingNetSpeed": 1,
+    "baseConsumption": 5,
+    "progressiveConsumption": 0,
+    "catchAmountGap": 15,
+    "reviveEnergy": 200
+  }
+]

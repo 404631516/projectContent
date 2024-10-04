@@ -1,0 +1,22 @@
+{
+  "backMenu": "返回選單",
+  "back": "返回",
+  "signIn": "登入",
+  "confirm": "確認",
+  "cancel": "取消",
+  "warning": "警告",
+  "errorMsg": "錯誤訊息",
+  "message": "訊息",
+  "QuizInfo": "資訊區",
+  "QuizRule": "遊戲規則",
+  "QuizInfoContent": "規則說明",
+  "Question": "題",
+  "Score": "score",
+  "Close": "close",
+  "signPage": "登入頁面",
+  "account": "帳號",
+  "pwd": "密碼",
+  "pleaseAccount": "請輸入帳號",
+  "pleasePwd": "請輸入密碼",
+  "suceesSign": "登入成功"
+}

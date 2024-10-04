@@ -1,0 +1,10 @@
+.backend-wrapper {
+  .el-tabs__header {
+    margin: 1.5vh 22vw !important;
+  }
+  .tab-wrapper {
+    .el-tabs__active-bar {
+      display: none !important;
+    }
+  } 
+}

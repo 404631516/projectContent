@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nameKey": "shoot_bomb_1",
+    "name": "毛線",
+    "contentKey": "shoot_bomb_content_1",
+    "energy": 26,
+    "sprite": "shoot_bomb_1_s",
+    "attack": 25,
+    "width": 16,
+    "height": 18,
+    "url": "3m_bomb_01.png"
+  },
+  {
+    "id": 2,
+    "nameKey": "shoot_bomb_2",
+    "name": "木頭",
+    "contentKey": "shoot_bomb_content_2",
+    "energy": 104,
+    "sprite": "shoot_bomb_2_s",
+    "attack": 50,
+    "width": 16,
+    "height": 18,
+    "url": "3m_bomb_02.png"
+  },
+  {
+    "id": 3,
+    "nameKey": "shoot_bomb_3",
+    "name": "風火輪",
+    "contentKey": "shoot_bomb_content_3",
+    "energy": 195,
+    "sprite": "shoot_bomb_3_s",
+    "attack": 75,
+    "width": 16,
+    "height": 18,
+    "url": "3m_bomb_03.png"
+  },
+  {
+    "id": 4,
+    "nameKey": "shoot_bomb_4",
+    "name": "妖獸",
+    "contentKey": "shoot_bomb_content_4",
+    "energy": 650,
+    "sprite": "shoot_bomb_4_s",
+    "attack": 150,
+    "width": 16,
+    "height": 18,
+    "url": "3m_bomb_04.png"
+  }
+]

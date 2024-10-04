@@ -1,0 +1,237 @@
+// 英雄頭像區
+
+// 滑動列表
+.slide-card-list {
+  .slide-pos {
+    padding: 15px 20px;
+    width: 100%;
+    height: auto;
+    overflow: auto;
+    background-color: #4b4b4b;
+    .card-item {
+      margin: 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      // 英雄解鎖進度卡
+      .item-wrapper {
+        position: relative;
+        .item-block {
+          position: relative;
+          .hero-state {
+            cursor: pointer;
+            position: absolute;
+            bottom: 15px;
+            left: calc(50% - 110px);
+            width: 220px;
+            height: 32px;
+            line-height: 32px;
+            background-color: #47d800d9;
+            box-shadow: 0px 3px 6px #000000e0;
+            border: 2px solid #ffffff;
+            border-radius: 30px;
+            color: #fff;
+            font-size: 19px;
+            text-align: center;
+            &.online {
+              cursor: default;
+              width: 224px;
+              height: 36px;
+              line-height: 36px;
+              background-color: #000000cc;
+              color: #ffde39;
+              border: none;
+              box-shadow: none;
+            }
+          }
+          .isLocked {
+            position: absolute;
+            top: 0;
+            // right: 10px;
+            p {
+              cursor: pointer;
+              width: 290px;
+              height: 359px;
+              line-height: 359px;
+              border-radius: 30px;
+              background-color: #00000050;
+              color: #2ceaec;
+              font-size: 40px;
+              font-weight: bold;
+              text-align: center;
+            }
+          }
+          &.isSelect {
+            margin-top: -15px;
+            padding: 10px 5px;
+            border: 5px solid #7dff47;
+            border-radius: 25px;
+          }
+        }
+        .hero-button {
+          position: absolute;
+          padding: 0;
+          top: -8px;
+          left: 0;
+          width: 58px;
+          height: 58px;
+          border-radius: 58px;
+          background-color: #000000cc;
+          border: none;
+          img {
+            width: 58px;
+            height: 58px;
+          }
+        }
+      }
+    }
+  }
+  @media (max-width: 1024px) {
+    .slide-pos {
+      .card-item {
+        padding: 0;
+        // 英雄解鎖進度卡
+        .item-wrapper {
+          .item-block {
+            .hero-state {
+              position: absolute;
+              bottom: 10px;
+              left: calc(50% - 75px);
+              width: 150px;
+              height: 32px;
+              line-height: 32px;
+              &.online {
+                width: 150px;
+                height: 32px;
+                line-height: 32px;
+              }
+            }
+            .isLocked {
+              right: 6px;
+              p {
+                width: 193px;
+                height: 251px;
+                line-height: 251px;
+                border-radius: 15px;
+              }
+            }
+          }
+          .hero-button {
+            width: 45px;
+            height: 45px;
+            border-radius: 45px;
+            img {
+              width: 45px;
+              height: 45px;
+            }
+          }
+        }
+      }
+    }
+  }
+  &.cardlist-phonestyle {
+    .slide-pos {
+      .card-item {
+        padding: 0;
+        .item-wrapper {
+          .item-block {
+            .isLocked {
+              right: 8px;
+              p {
+                width: 168px;
+                height: 220px;
+                line-height: 220px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+// 英雄相關彈窗(如: 首抽)
+.box-wapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #00000080;
+}
+
+.box-top {
+  position: relative;
+  .close-btn {
+    color: #bfbfbf;
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 32px;
+    text-align: right;
+  }
+}
+
+.box-bottom {
+  .btn-style-1 {
+    cursor: pointer;
+    margin-bottom: 26px;
+    width: 203px;
+    height: 37px;
+    line-height: 37px;
+    box-shadow: 0px 5px 10px #0000004d;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    background: linear-gradient(to bottom, #ffd943, 50%, #ff6600);
+    &.cancel {
+      color: #4b4b4b;
+      background: white;
+      margin-right: 34px;
+    }
+  }
+}
+
+.popup-box {
+  background-color: #4b4b4b;
+  position: relative;
+  width: 535px;
+  height: auto;
+  overflow: auto;
+  animation: popIn 0.4s;
+  animation-name: popIn;
+  h2 {
+    color: #666666;
+    font-size: 36px;
+    line-height: 48px;
+    padding: 13px 0;
+  }
+  .box-middle {
+    flex-direction: column;
+    margin: 0 auto 30px;
+    min-height: 180px;
+    p {
+      font-size: 24px;
+      color: #666666;
+      span {
+        color: #2ceaec;
+      }
+    }
+    img {
+      margin: 30px auto;
+      width: 290px;
+      height: 359px;
+    }
+  }
+  &.confirmbox-phonestyle {
+    .box-middle {
+      img {
+        margin: 30px auto;
+        width: 178px;
+        height: 220px;
+      }
+    }
+  }
+}

@@ -1,0 +1,243 @@
+/* phones */
+@media (max-width: 575.98px) {
+  .planet-wrapper .hero-avatar-wrapper .level-area {
+    font-size: 20px !important;
+  }
+  .planet-wrapper .hero-avatar-wrapper .hero-text .small {
+    font-size: 16px !important;
+    line-height: 14px !important;
+  }
+  .planet-wrapper .hero-avatar-wrapper .hero-text p {
+    font-size: 16px !important;
+  }
+  .planet-wrapper .hero-avatar-wrapper .hero-text .small {
+    font-size: 16px !important;
+    line-height: 14px !important;
+  }
+  .planet-wrapper .hero-avatar-wrapper .hero-text p {
+    font-size: 16px !important;
+  }
+  .planet-wrapper .pointlist-wrapper .point-info-bottom {
+    bottom: -5vw !important;
+  }
+  .planet-wrapper .pointlist-wrapper ol li .point-box {
+    padding: 0 10vw !important;
+  }
+  .planet-wrapper .pointlist-wrapper ol li .point-box .point-info-bottom {
+    width: 20vw !important;
+  }
+  .planet-wrapper .pointlist-wrapper ol li .point-box .point-bg {
+    width: 20vw;
+  }
+  .planet-wrapper .pointlist-wrapper ol li .point-box .friend-box .prompt {
+    width: 8vw;
+    height: 8vw;
+  }
+  .planet-wrapper .pointlist-wrapper ol li .point-box .friend-box .friend-img {
+    height: 10vw !important;
+  }
+  .planet-wrapper .pointlist-wrapper ol li .point-box .friend-box .friend-img span {
+    font-size: 10px;
+  }
+  .planet-wrapper .pointlist-wrapper ol li .point-box .friend-box .friend-img::after {
+    width: 7vw !important;
+    height: 7vw !important;
+  }
+  .planet-wrapper .friend-pos {
+    position: relative;
+    top: -2vw;
+  }
+  .planet-wrapper .planetlist-bottom > .bottom-box .weapon-area {
+    display: none !important;
+  }
+  .planet-wrapper .planetlist-bottom > .bottom-box .el-row--flex {
+    display: table-row-group !important;
+  }
+  .planet-wrapper .planetlist-bottom > .bottom-box .weapon-title {
+    width: 100%;
+    height: 10vw;
+    line-height: 10vw;
+  }
+
+  .el-message-box__wrapper {
+    top: 40vh !important;
+  }
+
+  .menu-warpper .el-drawer__open .el-drawer.ltr {
+    width: 100% !important;
+  }
+
+  .game-card-wrapper {
+    padding: 0;
+  }
+
+  .game-detail-wrapper .world-contest-banner {
+    height: 40vw !important;
+  }
+  .game-detail-wrapper .content-area h2 {
+    font-size: 16px !important;
+  }
+  .game-detail-wrapper .content-area .dare-box {
+    width: 90% !important;
+    padding: 2vw;
+    margin: 2vh auto !important;
+  }
+  .game-detail-wrapper .content-area .dare-box .dare-wrapper {
+    width: 98%;
+    border-radius: 6vw !important;
+    background-size: cover !important;
+  }
+  .game-detail-wrapper .content-area .dare-box .dare-wrapper .title-area {
+    font-size: 24px;
+    height: auto !important;
+  }
+  .game-detail-wrapper .content-area .hero-bar .hero-avatar-wrapper {
+    width: 90%;
+  }
+  .game-detail-wrapper .content-area .hero-bar .hero-avatar-wrapper .hero-text .small {
+    font-size: 14px;
+  }
+  .game-detail-wrapper .content-area .hero-bar .hero-avatar-wrapper .hero-text p {
+    font-size: 16px;
+  }
+  .game-detail-wrapper .content-area .hero-bar .hero-avatar-wrapper .level-area {
+    font-size: 24px;
+  }
+  .game-detail-wrapper .content-area .hero-bar .hero-avatar-wrapper .btn-area {
+    margin: 1vh 10vw 0 0;
+  }
+  .game-detail-wrapper .content-area .rank-box {
+    width: 90% !important;
+  }
+  .game-detail-wrapper .content-area .rank-box .myrank-box {
+    font-size: 16px !important;
+    overflow: auto;
+  }
+  .game-detail-wrapper .content-area .rank-box .rank-new .rank-body .list {
+    font-size: 16px;
+  }
+  .game-detail-wrapper .content-area .note-adl-area {
+    width: 70%;
+    font-size: 16px;
+  }
+
+  .backend-wrapper .tab-content {
+    overflow: auto;
+    margin-bottom: 10vh;
+  }
+  .backend-wrapper .tab-area {
+    margin: 2vw;
+  }
+  .backend-wrapper .game-card-wrapper .el-card,
+.backend-wrapper .game-card-wrapper .add-card {
+    height: auto;
+  }
+  .backend-wrapper .add-box {
+    height: 35vh;
+  }
+  .backend-wrapper .add-box .add-card {
+    height: 35vh;
+  }
+
+  .h5-box .game-answer .item-box .item-pos {
+    width: 85%;
+  }
+  .h5-box .game-answer .item-box .item-pos .btn-1 {
+    font-size: 14px;
+  }
+  .h5-box .game-answer .item-box .item-pos .btn-1 > span.set0::after, .h5-box .game-answer .item-box .item-pos .btn-1 > span.set1::after, .h5-box .game-answer .item-box .item-pos .btn-1 > span.set2::after, .h5-box .game-answer .item-box .item-pos .btn-1 > span.set3::after {
+    font-size: 24px;
+  }
+
+  .game-rueslt-warpper .el-dialog__header {
+    font-size: 20px;
+  }
+
+  .devil-board-wrapper .boss-info p {
+    font-size: 14px !important;
+  }
+  .devil-board-wrapper .boss-area p span {
+    font-size: 14px !important;
+  }
+
+  .game-info-wrapper li .contest-time {
+    font-size: 14px !important;
+  }
+
+  .trans-msg-warpper .arrow {
+    height: 6vh;
+    font-size: 38px !important;
+  }
+
+  .note-adl-area .text-note {
+    display: none;
+  }
+
+  .game-rueslt-warpper .rueslt-body li {
+    font-size: 18px !important;
+  }
+  .game-rueslt-warpper .el-dialog__body {
+    padding: 0 !important;
+  }
+  .game-rueslt-warpper .el-dialog__body .rueslt-body {
+    margin-top: 5vw;
+    font-size: 16px !important;
+  }
+
+  .adledu-wrapper .topic-box .img-box img {
+    width: 100% !important;
+    object-fit: cover !important;
+  }
+  .adledu-wrapper .item-pos img {
+    width: 100% !important;
+    object-fit: cover !important;
+  }
+
+  .list-msg-warpper .el-dialog {
+    width: 100% !important;
+  }
+  .list-msg-warpper .rank-wrapper .rank-body .list li.no_1 {
+    background: none !important;
+  }
+  .list-msg-warpper .rank-wrapper .rank-footer .myrank-box li {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .flash-shop-wapper .price-list {
+    padding: 4vw 12vw !important;
+  }
+  .flash-shop-wapper .price-list .flex-row.no-wrap {
+    flex-wrap: wrap !important;
+    justify-content: flex-start !important;
+  }
+  .flash-shop-wapper .el-dialog .flash-shop-footer .place-props-area {
+    margin-top: 0 !important;
+  }
+  .flash-shop-wapper .el-dialog .flash-shop-footer .btn-box {
+    position: absolute !important;
+    bottom: -25vw;
+  }
+
+  .weapon-warpper .el-dialog {
+    width: 100%;
+  }
+  .weapon-warpper .weapon-item {
+    width: 22vw;
+    height: 22vw;
+  }
+  .weapon-warpper .weapon-place-area .weapon-area {
+    padding: 4vw !important;
+  }
+  .weapon-warpper .weapon-content-area .weapon-content {
+    width: 100%;
+  }
+  .weapon-warpper .weapon-buy-area .top-info {
+    height: auto !important;
+    padding: 5vw !important;
+  }
+  .weapon-warpper .weapon-buy-area .top-info > .flex-row.no-wrap {
+    flex-wrap: wrap !important;
+  }
+}

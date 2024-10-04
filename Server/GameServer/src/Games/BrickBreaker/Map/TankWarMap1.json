@@ -1,0 +1,56 @@
+{ "compressionlevel":-1,
+ "height":7,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[12, 14, 14, 12, 14, 14, 12,
+            14, 2, 2, 2, 2, 2, 14,
+            10, 2, 1, 9, 1, 2, 11,
+            1, 2, 9, 13, 9, 2, 1,
+            11, 2, 11, 9, 11, 2, 8,
+            14, 2, 2, 2, 2, 2, 14,
+            12, 14, 8, 1, 10, 14, 12],
+         "height":7,
+         "id":1,
+         "name":"GridLayer",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":7,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[19, 19, 19, 19, 19, 19, 19,
+            19, 19, 19, 19, 19, 19, 19,
+            19, 19, 19, 19, 19, 19, 19,
+            19, 19, 19, 19, 19, 19, 19,
+            19, 19, 19, 19, 19, 19, 19,
+            19, 19, 19, 19, 19, 19, 19,
+            19, 19, 19, 19, 19, 19, 19],
+         "height":7,
+         "id":4,
+         "name":"UnlockBlockLayer",
+         "opacity":0,
+         "type":"tilelayer",
+         "visible":true,
+         "width":7,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":7,
+ "nextobjectid":57,
+ "orientation":"orthogonal",
+ "renderorder":"left-up",
+ "tiledversion":"1.8.4",
+ "tileheight":64,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"Tileset.tsx"
+        }],
+ "tilewidth":64,
+ "type":"map",
+ "version":"1.8",
+ "width":7
+}

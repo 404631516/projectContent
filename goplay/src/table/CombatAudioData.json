@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nameKey": "heroMelee",
+    "url": "heroMelee.mp3"
+  },
+  {
+    "id": 2,
+    "nameKey": "heroRanged",
+    "url": "heroRanged.mp3"
+  },
+  {
+    "id": 3,
+    "nameKey": "heroMagic",
+    "url": "heroMagic.mp3"
+  },
+  {
+    "id": 4,
+    "nameKey": "heroMagicHit",
+    "url": "heroMagicHit.mp3"
+  },
+  {
+    "id": 5,
+    "nameKey": "enemyMelee",
+    "url": "enemyMelee.mp3"
+  },
+  {
+    "id": 6,
+    "nameKey": "enemyRanged",
+    "url": "enemyRanged.mp3"
+  },
+  {
+    "id": 7,
+    "nameKey": "enemyMagic",
+    "url": "enemyMagic.mp3"
+  },
+  {
+    "id": 8,
+    "nameKey": "enemyMagicHit",
+    "url": "enemyMagicHit.mp3"
+  },
+  {
+    "id": 9,
+    "nameKey": "aura",
+    "url": "aura.mp3"
+  },
+  {
+    "id": 10,
+    "nameKey": "endangerTeammate",
+    "url": "endangerTeammate.mp3"
+  },
+  {
+    "id": 11,
+    "nameKey": "self",
+    "url": "self.mp3"
+  },
+  {
+    "id": 12,
+    "nameKey": "selfTeam",
+    "url": "selfTeam.mp3"
+  }
+]

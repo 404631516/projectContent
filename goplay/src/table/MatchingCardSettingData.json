@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "targetMatchCount": 12,
+    "cardMatchScore": 100,
+    "maxEnergyAmount": 1000,
+    "reviveEnergy": 200,
+    "cardNotMatchLossEnergy": -1,
+    "avoidNotMatchPenaltyQuota": 4,
+    "baseConsumption": 2,
+    "progressiveConsumption": 5,
+    "matchCountGap": 8,
+    "cardMatchGainEnergy": 25,
+    "totalGameTimeSec": 180,
+    "nextWavePromptSecond": 5,
+    "notMatchWaitSecond": 0.25,
+    "initViewSecond": 1,
+    "clickCardMinusLockSecond": 2
+  }
+]

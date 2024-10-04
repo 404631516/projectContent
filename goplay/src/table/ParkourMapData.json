@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "leftHalfNameKey": "LevelForestPattern1_1",
+    "rightHalfNameKey": "LevelForestPattern1_2"
+  },
+  {
+    "id": 2,
+    "leftHalfNameKey": "LevelForestPattern2_1",
+    "rightHalfNameKey": "LevelForestPattern2_2"
+  },
+  {
+    "id": 3,
+    "leftHalfNameKey": "LevelForestPattern3_1",
+    "rightHalfNameKey": "LevelForestPattern3_2"
+  },
+  {
+    "id": 4,
+    "leftHalfNameKey": "LevelForestPattern4_1",
+    "rightHalfNameKey": "LevelForestPattern4_2"
+  },
+  {
+    "id": 5,
+    "leftHalfNameKey": "LevelForestPattern5_1",
+    "rightHalfNameKey": "LevelForestPattern5_2"
+  },
+  {
+    "id": 6,
+    "leftHalfNameKey": "LevelForestPattern6_1",
+    "rightHalfNameKey": "LevelForestPattern6_2"
+  },
+  {
+    "id": 7,
+    "leftHalfNameKey": "LevelForestPattern7_1",
+    "rightHalfNameKey": "LevelForestPattern7_2"
+  },
+  {
+    "id": 8,
+    "leftHalfNameKey": "LevelForestPattern8_1",
+    "rightHalfNameKey": "LevelForestPattern8_2"
+  },
+  {
+    "id": 9,
+    "leftHalfNameKey": "LevelForestPattern9_1",
+    "rightHalfNameKey": "LevelForestPattern9_2"
+  },
+  {
+    "id": 10,
+    "leftHalfNameKey": "LevelForestPattern10_1",
+    "rightHalfNameKey": "LevelForestPattern10_2"
+  }
+]

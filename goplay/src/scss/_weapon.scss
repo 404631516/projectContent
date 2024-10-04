@@ -1,0 +1,111 @@
+// 生物兵器item 統一
+.weapon-item {
+  position: relative;
+  width: 7vw;
+  height: 7vw;
+  margin: 0.6vw;
+  border-radius: 10px;
+  background-color: #000c;
+  border: 3px solid #fff;
+  padding-bottom: 2px;
+  &.small {
+    width: 4.8vw;
+    height: 4.8vw;
+  }
+  .icon-pos {
+    position: absolute;
+    z-index: 3;
+    top: -2vh;
+    left: -1vw;
+    width: 3vw;
+    height: 3vw;
+    img {
+      width: 100%;
+      height: 100%;
+    }
+  }
+  .info-pos {
+    position: absolute;
+    z-index: 3;
+    bottom: 1.5vh;
+    left: 0;
+    width: 100%;
+    height: 4vh;
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      width: 100%;
+      height: 5vh;
+      background-color: #000;
+      opacity: 0.6;
+    }
+    li {
+      position: relative;
+      z-index: 4;
+      color: #ffdd00;
+      font-weight: bold;
+      font-size: 18px;
+      padding-left: 1.2vw;
+      
+      &:nth-child(2) {
+        color: #2ceaec;
+      }
+      .img-box {
+        width: 1vw;
+        height: auto;
+        > img {
+          width: 100%;
+          height: 100%;
+          vertical-align: middle;
+        }
+      }
+    }
+  }
+  .title-area {
+    position: absolute;
+    z-index: 3;
+    top: 1vh;
+    left: 1vw;
+    color: #fff;
+    width: 100%;
+    height: auto;
+    p {
+      font-size: 20px;
+    }
+    .weapon-name {
+      position: absolute;
+      top: -3vh;
+      left: -0.8vw;
+      width: 100%;
+      height: auto;
+    }
+  }
+  .weapon-img {
+    position: relative;
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+    .text {
+      position: absolute;
+      z-index: 2;
+      width: 100%;
+      height: 100%;
+      font-size: 20px;
+      text-align: center;
+      color: #2ceaec;
+    }
+    // 解鎖遮色片
+    .mask {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      background: #000;
+      opacity: 0.6;
+    }
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+}

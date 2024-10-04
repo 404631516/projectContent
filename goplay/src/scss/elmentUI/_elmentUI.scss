@@ -1,0 +1,703 @@
+@import '../common/mixin';
+$msg-bg-color: #ffffff;
+$msg-brd-btm: 1px solid #808080;
+$msg-brd-radius: 30px;
+$msg-title-color: #ffde39;
+$msg-text-color: #ffde39;
+// 全局訊息框
+.el-message-box {
+  background-color: #fff;
+  border: none !important;
+  border-radius: $msg-brd-radius !important;
+  font-size: 20px !important;
+  .el-message-box__header {
+    margin: 0px 15px;
+  }
+  .el-message-box__title {
+    color: #666666;
+    font-size: 28px;
+    font-weight: 700;
+    text-align: center;
+  }
+  .el-message-box__message {
+    padding: 2vw;
+    p {
+      font-size: 24px;
+      color: #808080;
+    }
+  }
+  .el-message-box__content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+
+  .el-button--small {
+    width: 30%;
+    @include btn_style-11;
+    &.el-button--primary {
+      @include btn_style-2;
+    }
+  }
+  .el-button--small.el-button--primary.red-button {
+    background: #ff7777 !important;
+  }
+  .el-message-box__btns {
+    text-align: center !important;
+    margin-bottom: 1vw;
+  }
+}
+
+// 提示內容窗
+.el-popover {
+  background-color: #060606d2 !important;
+  border: none !important;
+  color: #fff !important;
+}
+
+.el-popper[x-placement^='top'] .popper__arrow::after {
+  border-top-color: #060606d2 !important;
+}
+
+.el-popover__title {
+  color: #fff !important;
+}
+
+// 遊戲轉場訊息框
+.trans-msg-warpper {
+  .el-dialog__wrapper {
+    .el-dialog {
+      box-shadow: none;
+    }
+    &.start-area {
+      .el-dialog {
+        margin-top: 20vw !important;
+        height: auto;
+        background-color: #55e650cc;
+      }
+      .el-dialog__header {
+        padding: 0;
+      }
+      .el-dialog__body {
+        font-size: 139px;
+        line-height: 139px;
+        padding: 0;
+        color: #fff;
+        -webkit-text-stroke: 2px black;
+        font-weight: bold;
+      }
+    }
+    &.time-area {
+      .el-dialog {
+        margin-top: 25vh !important;
+        height: 300px;
+        background: rgb(213 81 156 / 50%) 0% 0% no-repeat padding-box;
+      }
+      .el-dialog__header {
+        position: relative;
+        margin: 0 auto;
+        width: 60%;
+        font-size: 68px;
+        border-bottom: 1px solid #fff;
+        span {
+          display: inline-block;
+          background-size: contain !important;
+          background-repeat: no-repeat !important;
+          width: 93px;
+          min-height: 83px;
+          vertical-align: bottom;
+        }
+      }
+      .el-dialog__body {
+        font-size: 44px;
+        color: #f1d103;
+      }
+    }
+    &.outhero-area {
+      .el-dialog {
+        margin-top: 25vh !important;
+        height: 175px;
+        background-color: rgb(14 14 14 / 20%);
+      }
+      .el-dialog__body {
+        width: 100%;
+        height: 175px;
+        font-size: 22px;
+        line-height: 139px;
+        color: #fff;
+        .text-area {
+          width: 80%;
+          .hero-img {
+            width: 69px;
+            height: 70px;
+            background-size: contain !important;
+            background-repeat: no-repeat !important;
+          }
+          dl {
+            width: 141px;
+            height: auto;
+          }
+          dt {
+            font-size: 22px;
+            height: 22px;
+          }
+          dd {
+            font-size: 41px;
+            height: 41px;
+          }
+        }
+        // background-color:  #D5519CCC;
+      }
+    }
+  }
+  .el-dialog {
+    width: 100%;
+    height: 300px;
+  }
+  color: #fff;
+}
+
+// 遊戲結果訊息框
+.game-rueslt-warpper {
+  background: #000000cc 0% 0% no-repeat padding-box;
+  .el-dialog__wrapper {
+    backdrop-filter: blur(5px);
+  }
+  .el-dialog {
+    width: 60%;
+    height: 512px !important;
+    box-shadow: none;
+    background: transparent !important;
+  }
+  .el-dialog__header {
+    color: $msg-title-color;
+    font-size: 108px;
+    .fail {
+      color: #fff;
+    }
+    .icon {
+      width: 517px;
+      height: 124px;
+      background-size: contain !important;
+      background-repeat: no-repeat !important;
+    }
+    .border {
+      margin-top: 15px;
+      width: 700px;
+      border-bottom: 1px solid #ffffff;
+    }
+  }
+  .el-dialog__body {
+    padding: 15px 20px;
+    .rueslt-body {
+      color: #fff;
+      font-size: 32px;
+      li {
+        text-align: left;
+        &.score-area {
+          span {
+            color: #e6a23c;
+          }
+        }
+        span {
+          font-size: 46px;
+          padding: 0 10px;
+          &.award-1 {
+            display: inline-block;
+            width: 100px;
+            height: 100px;
+            background-position: center;
+            background-size: contain !important;
+            background-repeat: no-repeat !important;
+            font-size: 46px;
+            padding: 0 10px;
+          }
+        }
+        &:nth-child(1) {
+          span {
+            color: $msg-text-color;
+          }
+        }
+        &:nth-child(2) {
+          span {
+            color: #2ceaec;
+          }
+        }
+        &:nth-child(3) {
+          span {
+            color: $msg-text-color;
+            &.img {
+              display: inline-block;
+              width: 33px;
+              height: 30px;
+              background-size: contain !important;
+              background-repeat: no-repeat !important;
+              padding: 0 !important;
+              margin-left: 20px;
+            }
+          }
+          .award-area {
+            span {
+              color: #2ceaec;
+              font-size: 32px;
+            }
+            span.img {
+              width: 6vw;
+              height: 6vw;
+              background-position: center !important;
+            }
+          }
+        }
+        &:nth-child(4) {
+          span {
+            color: #e6a23c;
+          }
+        }
+      }
+    }
+  }
+  .el-dialog__footer {
+    .el-button {
+      @include btn_style-2;
+      height: 42px;
+      width: 220px;
+      font-size: 24px;
+      line-height: 37px;
+    }
+  }
+}
+
+// 麵包屑
+.breadcrumb-warpper {
+  .el-breadcrumb {
+    .el-breadcrumb__item {
+      line-height: 55px;
+      font-size: 18px;
+    }
+  }
+  &.breadcrumb-phonestyle {
+    margin-left: 9px;
+    .el-breadcrumb {
+      width: 82px;
+      display: flex;
+      flex-direction: column;
+      .el-breadcrumb__item {
+        line-height: 55px;
+      }
+    }
+  }
+}
+
+// 首頁學習成果分析輪播圖
+.chart-wapper {
+  .el-carousel {
+    width: 360px;
+    height: 300px;
+    .el-carousel__container {
+      height: 237px;
+    }
+    .el-carousel__button {
+      width: 15px;
+      height: 15px;
+      border-radius: 15px;
+    }
+  }
+}
+
+.el-progress__text {
+  display: none !important;
+}
+
+// 遊戲結果清單訊息框
+.list-msg-warpper {
+  .el-dialog .help-dialog {
+    background: transparent !important;
+  }
+  .el-dialog .answer-information {
+    background: transparent !important;
+  }
+  .el-dialog {
+    width: 60%;
+    box-shadow: none;
+    background: #ffffff !important;
+    border-radius: 30px;
+    padding: 1vw 0;
+  }
+  .el-dialog__header {
+    padding: 0;
+  }
+  .el-dialog__body {
+    padding: 0.5vw 0vw 80px 0vw;
+  }
+  .el-dialog__footer {
+    padding: 10px 100px;
+  }
+  .btn-box {
+    .el-button {
+      width: 30%;
+      margin: auto 1vw;
+      border-radius: 30px;
+      font-size: 18px;
+      font-weight: bold;
+    }
+  }
+  .img-notice {
+    position: relative;
+    left: -10px;
+    top: 40px;
+    width: 54px;
+    height: 54px;
+  }
+}
+
+// 表單格式
+.form-wrapper {
+  .el-form-item__label {
+    color: #666666;
+  }
+  .el-select {
+    width: 100%;
+  }
+  .el-checkbox {
+    color: #a5a5a5;
+  }
+}
+
+// 上傳圖片組件
+.upload-wrapper {
+  .el-upload__tip {
+    color: #fff;
+  }
+}
+
+// 題庫組件
+.quiz-wrapper {
+  .el-table {
+    background-color: transparent !important;
+  }
+  .el-radio__label {
+    display: block;
+    font-size: 0;
+    line-height: 0;
+    text-indent: -9999px;
+  }
+  .el-table th > .cell {
+    color: #808080;
+  }
+  .el-dialog {
+    background-color: $msg-bg-color;
+    border-radius: $msg-brd-radius;
+    .el-dialog__header {
+      color: $msg-title-color;
+      font-size: 28px;
+      text-align: center;
+    }
+    .el-dialog__body {
+      .el-table {
+        background-color: #555;
+      }
+    }
+  }
+  .el-pager li {
+    background-color: $msg-bg-color;
+    color: #ebeef5;
+    &.active {
+      color: $msg-title-color;
+    }
+  }
+  .el-pagination button:disabled,
+  .el-pagination .btn-next,
+  .el-pagination .btn-prev {
+    background-color: transparent;
+    color: #ebeef5;
+  }
+}
+
+// 輪播
+.banner-wrapper {
+  background: rgb(251, 251, 251);
+  width: 100%;
+  height: auto;
+  .content-area {
+    height: 500px !important;
+  }
+  .el-carousel {
+    height: 500px;
+    overflow: hidden;
+  }
+  .el-carousel__container {
+    height: 500px;
+  }
+  .el-carousel__item:nth-child(2n) {
+    background-color: #99a9bf;
+  }
+  .el-carousel__item:nth-child(2n + 1) {
+    background-color: #d3dce6;
+  }
+}
+
+// load 組件
+.el-icon-loading:before {
+  font-size: 40px !important;
+  color: $msg-title-color !important;
+}
+
+.el-loading-spinner .el-loading-text {
+  font-size: 24px !important;
+  color: $msg-title-color !important;
+}
+
+// 答題續命
+.answer-msg-warpper {
+  width: 100%;
+  height: 100%;
+  .el-dialog {
+    position: initial;
+    width: 100%;
+    height: auto !important;
+    background-color: transparent !important;
+  }
+}
+
+// 遊戲說明
+.gamehelp-msg-warpper {
+  .el-dialog {
+    width: 100%;
+    height: auto !important;
+    margin-top: 0 !important;
+    background: transparent !important;
+  }
+}
+
+// 科目選單和星際論壇
+.course-menu,
+.filter-bar,
+.content-select,
+.world-wrapper {
+  // width: 100%;
+  .filter-area,
+  .select-item {
+    width: 100%;
+    .el-select {
+      width: 100%;
+    }
+    .el-input__inner {
+      font-weight: 700;
+      width: 100%;
+      background: #f3edd5;
+      color: #666666;
+      font-size: 22px;
+      padding: 0px 25px 0px 10px;
+      &::placeholder {
+        color: #666666;
+      }
+    }
+    .el-input__suffix {
+      right: 1px;
+      .el-select__caret {
+        font-size: 21px;
+        color: #3a3836;
+      }
+      .el-input__icon {
+        &::before {
+          color: #dfbf73;
+          content: '\e790';
+        }
+      }
+    }
+    .el-select-dropdown {
+      background: #fff;
+      border: 0px;
+      color: #666666;
+      .el-select-dropdown__item {
+        font-size: 22px;
+        padding: 0 10px;
+        margin: 0 10px;
+        border-radius: 5px;
+        &.selected {
+          color: #666666;
+          background: #f3edd5;
+        }
+        &:hover {
+          background: #f3edd5;
+        }
+        &.hover {
+          background-color: #f3edd5;
+        }
+      }
+      .el-select-dropdown__item .hover {
+        background-color: transparent;
+      }
+    }
+    .el-popper {
+      .popper__arrow {
+        display: none;
+      }
+    }
+  }
+}
+
+// 答題遊戲的課程手機版
+.course-btnlist {
+  .el-carousel {
+    width: 360px;
+    height: 370px;
+    .el-carousel__container {
+      height: 300px;
+    }
+    .el-carousel__button {
+      width: 15px;
+      height: 15px;
+      border-radius: 15px;
+    }
+  }
+}
+
+// 進度條對話框
+.progress-tooltip {
+  background: #fff !important;
+  // border:1px solid #000;
+  box-shadow: 0px 3px 6px #00000080;
+  font-size: 25px !important;
+  span {
+    color: #fdc221;
+  }
+  .popper__arrow {
+    border-top-color: #fff !important;
+  }
+  .popper__arrow:after {
+    border-top-color: #fff !important;
+  }
+}
+
+// 星際論壇彈窗
+.interstellar-forum,
+.help-message-dialog {
+  .el-dialog__wrapper {
+    .el-dialog {
+      background: #ffffff;
+      border-radius: 30px;
+      .el-dialog__header {
+        .el-dialog__title {
+          color: #666666;
+          font-size: 36px;
+        }
+        .el-dialog__headerbtn {
+          font-size: 25px;
+          top: 15px;
+          right: 25px;
+          .el-dialog__close {
+            color: #bfbfbf;
+            font-weight: bold;
+          }
+        }
+      }
+      .el-dialog__body {
+        padding: 10px 25px 30px;
+        div {
+          color: #a5a5a5;
+          font-size: 25px;
+          margin: 50px 0px 40px;
+          text-align: center;
+        }
+      }
+      .el-dialog__footer {
+        .dialog-footer {
+          width: 100%;
+          display: flex;
+          justify-content: space-evenly;
+          button {
+            width: 45%;
+            height: 35px;
+            border-radius: 20px;
+            font-size: 24px;
+            cursor: pointer;
+            border-color: transparent;
+            box-shadow: 0px 5px 10px #0000004d;
+          }
+          .cancel {
+            background: #ffffff;
+            box-shadow: 0px 3px 6px #00000033;
+            color: #878787;
+          }
+          .confirm {
+            background: linear-gradient(to right, #ffd943, 50%, #ff9d5b);
+            color: #fff;
+          }
+        }
+      }
+    }
+  }
+}
+
+// 答題遊戲的課程手機版
+.course-btnlist {
+  .el-carousel {
+    width: 360px;
+    height: 370px;
+    .el-carousel__container {
+      height: 300px;
+    }
+    .el-carousel__button {
+      width: 15px;
+      height: 15px;
+      border-radius: 15px;
+    }
+  }
+}
+
+.input-column-wrapper {
+  background-color: #fff;
+  border: none !important;
+  border-radius: $msg-brd-radius !important;
+  font-size: 20px !important;
+  .el-message-box__header {
+    margin: 0px 15px;
+  }
+  .el-message-box__title {
+    color: #666666;
+    font-size: 28px;
+    font-weight: 700;
+    text-align: center;
+  }
+  .el-message-box__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  .el-message-box__message {
+    padding: 0;
+    padding-top: 20px !important;
+    p {
+      font-size: 26px;
+      color: #808080;
+    }
+  }
+  .el-message-box__input {
+    width: 80%;
+    .el-input {
+      font-size: 20px;
+    }
+  }
+  .el-button--small {
+    width: 30%;
+    @include btn_style-6;
+    &.el-button--primary {
+      @include btn_style-2;
+    }
+  }
+  .el-message-box__btns {
+    text-align: center !important;
+    margin-bottom: 1vw;
+  }
+}
+
+.el-pager li {
+  font-size: 20px;
+}
+.el-select-dropdown.el-popper.reward li {
+  font-size: 20px;
+}

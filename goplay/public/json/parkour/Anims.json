@@ -1,0 +1,11 @@
+{
+  "anims": [
+    {
+      "key": "AnimHurt",
+      "frames": "BoomFX",
+      "frameRate": 24,
+      "hideOnComplete": true,
+      "showOnStart": true
+    }
+  ]
+}

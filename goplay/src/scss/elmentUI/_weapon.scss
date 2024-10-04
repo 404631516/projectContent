@@ -1,0 +1,94 @@
+$msg-bg-color: #ffffff;
+$msg-title-color: #666666;
+$msg-text-color: #a5a5a5;
+
+// 生物兵器彈窗
+.weapon-warpper {
+  .el-dialog {
+    width: 54%;
+    height: auto !important;
+    background-color: #fff !important;
+    border-radius: 30px;
+    .el-pager li {
+      background: transparent;
+      color: #a5a5a5;
+      &.active {
+        color: #d69f05;
+      }
+    }
+  }
+  .el-dialog__body {
+    padding: 0px;
+  }
+  .el-dialog__header {
+    color: $msg-title-color;
+    font-size: 24px;
+    h2 {
+      font-size: 42px;
+    }
+  }
+  .el-pagination {
+    .btn-next,
+    .btn-prev {
+      background: transparent;
+      color: #a5a5a5;
+    }
+  }
+  // 關閉按鈕
+  .el-icon-close {
+    &::before {
+      font-weight: bold;
+      font-size: 36px;
+      color: #bfbfbf;
+    }
+  }
+}
+
+// 生物兵器顯示item 內容窗
+.weapon-content {
+  .el-popover {
+    background-color: #060606fa !important;
+    border: none;
+    color: #fff !important;
+  }
+}
+// 生物兵器 詳細面板資訊
+.weapon-item-content-wrapper {
+  border: none !important;
+  border-radius: 30px !important;
+  font-size: 32px !important;
+  .el-dialog__header {
+    position: relative;
+    text-align: center;
+    margin: 0 15px;
+    color: $msg-title-color;
+    font-weight: bold;
+    border-bottom: 1px solid #808080;
+    // Dialog 關閉按鈕
+    .close-btn {
+      position: absolute;
+      top: 1.5vw;
+      right: 1vw;
+      color: #bfbfbf;
+      cursor: pointer;
+      font-weight: bold;
+      font-size: 32px;
+      z-index: 100;
+    }
+  }
+  .el-dialog {
+    min-height: auto !important;
+    background-color: $msg-bg-color;
+    border-radius: 30px;
+  }
+}
+// 平板
+@media (max-width: 768px) {
+  .weapon-item-content-wrapper {
+    .el-dialog__header {
+      .close-btn {
+        top: 2vw;
+      }
+    }
+  }
+}

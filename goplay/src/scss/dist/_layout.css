@@ -1,0 +1,343 @@
+@keyframes popIn {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5);
+    opacity: 0;
+  }
+  50% {
+    animation-timing-function: cubic-bezier(0.47, 0, 0.745, 0.715);
+  }
+  100% {
+    transform: scale3d(1, 1, 1);
+    animation-timing-function: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    opacity: 1;
+  }
+}
+.style-type-1 {
+  background: #fff;
+  box-shadow: 0 3px 15px 0 rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+.mask-opt-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+  z-index: 10;
+  transition: 1s all;
+  background-color: rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(5px);
+}
+
+.topnav-warpper {
+  position: fixed;
+  width: 100%;
+  min-height: 60px;
+  line-height: 60px;
+  background: #fff;
+  box-shadow: 0px 3px 6px #00000073;
+}
+.topnav-warpper .nav-left {
+  width: 100%;
+  height: 60px;
+}
+.topnav-warpper .nav-left .menu-btn {
+  float: left;
+  margin-left: 15px;
+  width: 60Px;
+  height: 60px;
+  line-height: 60px;
+  background: #2C2C2C;
+  border-radius: 0 !important;
+  border: none !important;
+}
+.topnav-warpper .nav-left .menu-btn span {
+  width: 29Px;
+  height: 17Px;
+  background-size: cover !important;
+}
+.topnav-warpper .nav-right {
+  width: 100%;
+  height: 60px;
+}
+.topnav-warpper .nav-right .user-area {
+  float: right;
+  height: 60px;
+}
+.topnav-warpper .nav-right .user-area .button-area .user-info span {
+  width: 100%;
+}
+.topnav-warpper .nav-right .user-area .button-area .user-info span img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  object-position: center;
+}
+.topnav-warpper .nav-right .user-area .button-area .user-info span .no-hero {
+  width: 100px;
+  text-align: center;
+}
+.topnav-warpper .nav-right .user-area .button-area .user-info span p {
+  width: calc(100% - 50px);
+}
+.topnav-warpper .nav-right .user-area .button-area .sign-out {
+  background: #FF7777;
+  width: 90px;
+}
+.topnav-warpper .nav-right .user-area .el-button {
+  width: 236px;
+  height: 47px;
+  line-height: 47px;
+  box-shadow: 0px 8px 12px #00000066;
+  border: 1px solid #727272;
+  border-radius: 60px;
+}
+.topnav-warpper .nav-right .user-area .el-button span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.topnav-warpper .clear-fix {
+  clear: both;
+}
+.topnav-warpper.topnav-phonestyle .nav-left {
+  display: flex;
+}
+
+.rank-wrapper {
+  height: 100%;
+}
+.rank-wrapper .rank-top {
+  background-color: #EEA73D;
+  margin: auto 2vw;
+  font-size: 32px;
+  height: 62px;
+  line-height: 62px;
+  color: #fff;
+  text-shadow: 0px 2px 4px #000000A6;
+  border-radius: 30px;
+}
+.rank-wrapper .rank-top span.rank-icon {
+  display: inline-block;
+  width: 45px;
+  height: 50px;
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+  margin-right: 0.5vw;
+}
+.rank-wrapper .rank-body {
+  min-height: 320px;
+  margin: 1vw 2vw;
+  overflow: auto;
+}
+.rank-wrapper .rank-body .list {
+  position: relative;
+  margin: 0 auto;
+  width: 90%;
+  font-size: 20px;
+  color: #fff;
+  padding: 1vw 2vw;
+}
+.rank-wrapper .rank-body .list li {
+  width: 30vw;
+  height: 80px;
+  line-height: 80px;
+  border-bottom: 1px solid #B2B2B2;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.rank-wrapper .rank-body .list li.no_1 {
+  color: #F2BA0F;
+  font-size: 30px;
+  background-repeat: no-repeat !important;
+}
+.rank-wrapper .rank-body .list li.no_2 {
+  font-size: 27px;
+}
+.rank-wrapper .rank-body .list li.no_3 {
+  color: #FFF;
+  font-size: 24px;
+}
+.rank-wrapper .rank-body .list li.name_1 {
+  font-size: 42px;
+}
+.rank-wrapper .rank-body .list li.name_2 {
+  font-size: 35px;
+}
+.rank-wrapper .rank-body .list li.point_1 {
+  font-size: 42px;
+}
+.rank-wrapper .rank-body .list li span {
+  display: inline-block;
+  color: #FFDE39;
+  margin-right: 10px;
+}
+.rank-wrapper .rank-footer {
+  background-color: #EEA73D;
+  margin: auto 2vw;
+  font-size: 32px;
+  height: 62px;
+  line-height: 62px;
+  color: #fff;
+  text-shadow: 0px 2px 4px #000000A6;
+  border-radius: 30px;
+}
+.rank-wrapper .rank-footer .myrank-box {
+  position: relative;
+  margin: 1vw auto 0;
+  width: 90%;
+  height: auto;
+  font-size: 20px;
+  color: #fff;
+  padding: 0 2vw;
+  color: #fff;
+}
+.rank-wrapper .rank-footer .myrank-box li {
+  width: 30vw;
+  height: 80px;
+  text-align: center;
+}
+.rank-wrapper .rank-footer .myrank-box li span {
+  display: inline-block;
+  color: #FFDE39;
+  margin-right: 10px;
+}
+
+.game-card-wrapper {
+  height: 100%;
+  width: 1026px;
+  margin: auto;
+  margin-bottom: 3vw;
+}
+.game-card-wrapper .card-box {
+  margin: 15px;
+  width: 205px;
+}
+.game-card-wrapper .card-box .img-area {
+  position: relative;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  width: 100%;
+  height: 164px;
+}
+.game-card-wrapper .card-box .img-area .tag-name {
+  position: absolute;
+  left: 0;
+  top: 15px;
+  display: inline-block;
+  width: 70%;
+  height: 35px;
+  line-height: 35px;
+  color: #fff;
+  background-color: #D8741C;
+  clip-path: polygon(0% 0%, 100% 0, 96% 100%, 0% 100%);
+  border-top-right-radius: 5px;
+}
+.game-card-wrapper .card-box .img-area .tag-name.green {
+  background-color: #11C7A2;
+}
+.game-card-wrapper .card-box .img-area .tag-name.red {
+  background-color: #DE4866;
+}
+.game-card-wrapper .card-box .img-area .tag-name.purple {
+  background-color: #9553C8;
+}
+.game-card-wrapper .card-box .img-area .tag-name.orange {
+  background-color: #D8741C;
+}
+.game-card-wrapper .card-box .img-area .tag-name i {
+  display: inline-block;
+  position: absolute;
+  left: 20px;
+  top: 5px;
+  background-size: contain !important;
+  width: 9px;
+  height: 26px;
+}
+.game-card-wrapper .card-box .img-area .state-area {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 28px;
+  line-height: 28px;
+}
+.game-card-wrapper .card-box .img-area .state-area.green {
+  background-color: #90E53D;
+}
+.game-card-wrapper .card-box .img-area .state-area.yellow {
+  background-color: #FFD83E;
+}
+.game-card-wrapper .card-box .img-area .state-area.gray {
+  background-color: #888888CC;
+}
+.game-card-wrapper .card-box .img-area .state-area.light-blue {
+  background-color: #56e0e5d9;
+}
+.game-card-wrapper .card-box .img-area .state-area.red {
+  background-color: #DE4866;
+}
+.game-card-wrapper .card-box .join-p {
+  width: 100%;
+  height: 28px;
+  line-height: 28px;
+  background-color: #353739;
+  color: #fff;
+}
+.game-card-wrapper .card-box .join-p span {
+  color: #FFDE39;
+}
+.game-card-wrapper .card-box dl {
+  margin-top: 1vw;
+}
+.game-card-wrapper .card-box dl dt {
+  color: #FFDE39;
+}
+.game-card-wrapper .card-box dl dd {
+  padding: 10px 5px;
+  color: #fff;
+}
+
+.world-wrapper,
+.backend-wrapper,
+.create-wrapper,
+.profile-wrapper {
+  background-color: #2c2c2c;
+  height: 100%;
+  overflow: auto;
+}
+.world-wrapper .world-content,
+.world-wrapper .tab-content,
+.backend-wrapper .world-content,
+.backend-wrapper .tab-content,
+.create-wrapper .world-content,
+.create-wrapper .tab-content,
+.profile-wrapper .world-content,
+.profile-wrapper .tab-content {
+  background: #2c2c2c;
+  overflow: auto;
+}
+
+.weapon-item-content-wrapper .el-dialog__header {
+  position: relative;
+}
+.weapon-item-content-wrapper .el-dialog__header .close-btn {
+  position: absolute;
+  top: 1.5vw;
+  right: 1vw;
+  color: #fff;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 20px;
+  z-index: 100;
+}
+
+@media (max-width: 768px) {
+  .weapon-item-content-wrapper .el-dialog__header .close-btn {
+    top: 2vw;
+  }
+}

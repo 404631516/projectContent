@@ -1,0 +1,22 @@
+{
+    "anims": [
+        {
+            "key": "BlastCenterIdle",
+            "frames": "BlastCenterSprite",
+            "frameRate": 8,
+            "repeat": -1
+        },
+        {
+            "key": "BlastLinkIdle",
+            "frames": "BlastLinkSprite",
+            "frameRate": 8,
+            "repeat": -1
+        },
+        {
+            "key": "BlastEndIdle",
+            "frames": "BlastEndSprite",
+            "frameRate": 8,
+            "repeat": -1
+        }
+    ]
+}

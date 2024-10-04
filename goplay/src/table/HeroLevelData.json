@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "heroLevel": 10,
+    "defenseWeaponLevel": 0,
+    "planetWarLevel": 1
+  },
+  {
+    "id": 2,
+    "heroLevel": 30,
+    "defenseWeaponLevel": 1,
+    "planetWarLevel": 1
+  },
+  {
+    "id": 3,
+    "heroLevel": 50,
+    "defenseWeaponLevel": 2,
+    "planetWarLevel": 2
+  },
+  {
+    "id": 4,
+    "heroLevel": 70,
+    "defenseWeaponLevel": 3,
+    "planetWarLevel": 3
+  },
+  {
+    "id": 5,
+    "heroLevel": 90,
+    "defenseWeaponLevel": 4,
+    "planetWarLevel": 4
+  },
+  {
+    "id": 6,
+    "heroLevel": 110,
+    "defenseWeaponLevel": 5,
+    "planetWarLevel": 5
+  },
+  {
+    "id": 7,
+    "heroLevel": 130,
+    "defenseWeaponLevel": 5,
+    "planetWarLevel": 5
+  },
+  {
+    "id": 8,
+    "heroLevel": 150,
+    "defenseWeaponLevel": 5,
+    "planetWarLevel": 5
+  },
+  {
+    "id": 9,
+    "heroLevel": 170,
+    "defenseWeaponLevel": 5,
+    "planetWarLevel": 5
+  },
+  {
+    "id": 10,
+    "heroLevel": 190,
+    "defenseWeaponLevel": 5,
+    "planetWarLevel": 5
+  },
+  {
+    "id": 11,
+    "heroLevel": 200,
+    "defenseWeaponLevel": 5,
+    "planetWarLevel": 5
+  }
+]

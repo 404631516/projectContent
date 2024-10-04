@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nameKey": "gemsBomb_1",
+    "name": "杯子蛋糕",
+    "contentKey": "gemsBomb_content_1",
+    "energy": 150,
+    "itemFunction": 1,
+    "url": "gemsBomb_01.png"
+  },
+  {
+    "id": 2,
+    "nameKey": "gemsBomb_2",
+    "name": "彩色風暴",
+    "contentKey": "gemsBomb_content_2",
+    "energy": 500,
+    "itemFunction": 2,
+    "url": "gemsBomb_02.png"
+  },
+  {
+    "id": 3,
+    "nameKey": "gemsBomb_3",
+    "name": "白骨十字鏢",
+    "contentKey": "gemsBomb_content_3",
+    "energy": 450,
+    "itemFunction": 3,
+    "url": "gemsBomb_03.png"
+  },
+  {
+    "id": 4,
+    "nameKey": "gemsBomb_4",
+    "name": "狼牙爆",
+    "contentKey": "gemsBomb_content_4",
+    "energy": 250,
+    "itemFunction": 4,
+    "url": "gemsBomb_04.png"
+  },
+  {
+    "id": 5,
+    "nameKey": "gemsBomb_5",
+    "name": "蜘蛛禮盒",
+    "contentKey": "gemsBomb_content_5",
+    "energy": 430,
+    "itemFunction": 5,
+    "url": "gemsBomb_05.png"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "defaultSeverity": "warning",
+  "extends": ["tslint:recommended"],
+  "jsRules": {},
+  "linterOptions": {
+    "exclude": ["node_modules/**", "cypress"]
+  },
+  "rules": {
+    "indent": [true, "spaces", 2],
+    "interface-name": false,
+    "no-consecutive-blank-lines": false,
+    "object-literal-sort-keys": false,
+    "ordered-imports": false,
+    "quotemark": [true, "single"],
+    "quotes": [
+      2,
+      "single",
+      {
+        "avoidEscape": true
+      }
+    ],
+    "no-console": false,
+    "no-bitwise": false,
+    "jsdoc-format": [false, "check-multiline-start"],
+    "variable-name": [true, "allow-leading-underscore"],
+    "member-ordering": false,
+    "member-access": [false],
+    "max-classes-per-file": false,
+    "one-line": false,
+    "trailing-comma": [
+      true,
+      {
+        "singleline": "never"
+      }
+    ],
+    "max-line-length": [
+      true,
+      {
+        "limit": 120,
+        "ignore-pattern": "^import [^,]+ from |^export | implements"
+      }
+    ],
+    "object-literal-key-quotes": [true, "as-needed"]
+  },
+  "rulesDirectory": []
+}

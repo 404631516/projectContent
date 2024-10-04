@@ -1,0 +1,154 @@
+{
+  "apps": [
+    {
+      "name": "gameServer1",
+      "cwd": ".",
+      "script": "GameServer/dist/src/app.js",
+      "args": [
+        8081
+      ],
+      "node_args": [],
+      "log_date_format": "MM-DD HH:mm:ss.SSS",
+      "autorestart": false,
+      "exec_mode": "cluster",
+      "env": {
+          "LANG": "en_US.UTF-8"
+      }
+    },
+    {
+      "name": "gameServer2",
+      "cwd": ".",
+      "script": "GameServer/dist/src/app.js",
+      "args": [
+        8082
+      ],
+      "node_args": [],
+      "log_date_format": "MM-DD HH:mm:ss.SSS",
+      "autorestart": false,
+      "exec_mode": "cluster",
+      "env": {
+          "LANG": "en_US.UTF-8"
+      }
+    },
+    {
+      "name": "gameServer3",
+      "cwd": ".",
+      "script": "GameServer/dist/src/app.js",
+      "args": [
+        8083
+      ],
+      "node_args": [],
+      "log_date_format": "MM-DD HH:mm:ss.SSS",
+      "autorestart": false,
+      "exec_mode": "cluster",
+      "env": {
+          "LANG": "en_US.UTF-8"
+      }
+    },
+    {
+      "name": "gameServer4",
+      "cwd": ".",
+      "script": "GameServer/dist/src/app.js",
+      "args": [
+        8084
+      ],
+      "node_args": [],
+      "log_date_format": "MM-DD HH:mm:ss.SSS",
+      "autorestart": false,
+      "exec_mode": "cluster",
+      "env": {
+          "LANG": "en_US.UTF-8"
+      }
+    },
+    {
+      "name": "gameServer5",
+      "cwd": ".",
+      "script": "GameServer/dist/src/app.js",
+      "args": [
+        8085
+      ],
+      "node_args": [],
+      "log_date_format": "MM-DD HH:mm:ss.SSS",
+      "autorestart": false,
+      "exec_mode": "cluster",
+      "env": {
+          "LANG": "en_US.UTF-8"
+      }
+    },
+    {
+      "name": "gameServer6",
+      "cwd": ".",
+      "script": "GameServer/dist/src/app.js",
+      "args": [
+        8086
+      ],
+      "node_args": [],
+      "log_date_format": "MM-DD HH:mm:ss.SSS",
+      "autorestart": false,
+      "exec_mode": "cluster",
+      "env": {
+          "LANG": "en_US.UTF-8"
+      }
+    },
+    {
+      "name": "gameServer7",
+      "cwd": ".",
+      "script": "GameServer/dist/src/app.js",
+      "args": [
+        8087
+      ],
+      "node_args": [],
+      "log_date_format": "MM-DD HH:mm:ss.SSS",
+      "autorestart": false,
+      "exec_mode": "cluster",
+      "env": {
+          "LANG": "en_US.UTF-8"
+      }
+    },
+    {
+      "name": "gameServer8",
+      "cwd": ".",
+      "script": "GameServer/dist/src/app.js",
+      "args": [
+        8088
+      ],
+      "node_args": [],
+      "log_date_format": "MM-DD HH:mm:ss.SSS",
+      "autorestart": false,
+      "exec_mode": "cluster",
+      "env": {
+          "LANG": "en_US.UTF-8"
+      }
+    },
+    {
+      "name": "gameServer9",
+      "cwd": ".",
+      "script": "GameServer/dist/src/app.js",
+      "args": [
+        8089
+      ],
+      "node_args": [],
+      "log_date_format": "MM-DD HH:mm:ss.SSS",
+      "autorestart": false,
+      "exec_mode": "cluster",
+      "env": {
+          "LANG": "en_US.UTF-8"
+      }
+    },
+    {
+      "name": "gameServer10",
+      "cwd": ".",
+      "script": "GameServer/dist/src/app.js",
+      "args": [
+        8090
+      ],
+      "node_args": [],
+      "log_date_format": "MM-DD HH:mm:ss.SSS",
+      "autorestart": false,
+      "exec_mode": "cluster",
+      "env": {
+          "LANG": "en_US.UTF-8"
+      }
+    }
+  ]
+}

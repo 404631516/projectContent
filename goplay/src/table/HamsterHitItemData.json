@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nameKey": "hamster_hit_1",
+    "name": "連打兩次的道具",
+    "contentKey": "hamster_hit_content_1",
+    "spriteKey": "specialHit",
+    "hits": 2,
+    "energy": 50,
+    "url": "hamster_hit_01.png"
+  },
+  {
+    "id": 2,
+    "nameKey": "hamster_hit_2",
+    "name": "連打三次的道具",
+    "contentKey": "hamster_hit_content_2",
+    "spriteKey": "specialHit",
+    "hits": 3,
+    "energy": 70,
+    "url": "hamster_hit_02.png"
+  },
+  {
+    "id": 3,
+    "nameKey": "hamster_hit_3",
+    "name": "連打四次的道具",
+    "contentKey": "hamster_hit_content_3",
+    "spriteKey": "specialHit",
+    "hits": 4,
+    "energy": 90,
+    "url": "hamster_hit_03.png"
+  },
+  {
+    "id": 4,
+    "nameKey": "hamster_hit_4",
+    "name": "連打五次的道具",
+    "contentKey": "hamster_hit_content_4",
+    "spriteKey": "specialHit",
+    "hits": 5,
+    "energy": 110,
+    "url": "hamster_hit_04.png"
+  }
+]

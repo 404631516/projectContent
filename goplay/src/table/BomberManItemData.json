@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "nameKey": "bomber_item_blast",
+    "contentKey": "bomber_item_content_blast",
+    "url": "ItemBlast.png",
+    "energy": 0,
+    "itemFunction": 1,
+    "isMapItem": 1,
+    "plusItemLv": 1,
+    "duration": 0
+  },
+  {
+    "id": 2,
+    "nameKey": "bomber_item_bombCount",
+    "contentKey": "bomber_item_content_bombCount",
+    "url": "ItemBombCount.png",
+    "energy": 0,
+    "itemFunction": 2,
+    "isMapItem": 1,
+    "plusItemLv": 1,
+    "duration": 0
+  },
+  {
+    "id": 3,
+    "nameKey": "bomber_item_rollerShoe",
+    "contentKey": "bomber_item_content_rollerShoe",
+    "url": "ItemRollerShoe.png",
+    "energy": 0,
+    "itemFunction": 3,
+    "isMapItem": 1,
+    "plusItemLv": 0.5,
+    "duration": 0
+  },
+  {
+    "id": 4,
+    "nameKey": "bomber_item_throughWall",
+    "contentKey": "bomber_item_content_throughWall",
+    "url": "ItemThroughWall.png",
+    "energy": 350,
+    "itemFunction": 4,
+    "isMapItem": 0,
+    "plusItemLv": 0,
+    "duration": 15
+  },
+  {
+    "id": 5,
+    "nameKey": "bomber_item_throughBomb",
+    "contentKey": "bomber_item_content_throughBomb",
+    "url": "ItemThroughBomb.png",
+    "energy": 200,
+    "itemFunction": 5,
+    "isMapItem": 0,
+    "plusItemLv": 0,
+    "duration": 30
+  },
+  {
+    "id": 6,
+    "nameKey": "bomber_item_antiBlast",
+    "contentKey": "bomber_item_content_antiBlast",
+    "url": "ItemAntiBlast.png",
+    "energy": 250,
+    "itemFunction": 6,
+    "isMapItem": 0,
+    "plusItemLv": 0,
+    "duration": 20
+  },
+  {
+    "id": 7,
+    "nameKey": "bomber_item_invincible",
+    "contentKey": "bomber_item_content_invincible",
+    "url": "ItemInvincible.png",
+    "energy": 400,
+    "itemFunction": 7,
+    "isMapItem": 0,
+    "plusItemLv": 0,
+    "duration": 15
+  }
+]

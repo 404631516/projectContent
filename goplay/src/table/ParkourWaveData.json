@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "mapList": [1],
+    "mapAmount": 1
+  },
+  {
+    "id": 2,
+    "mapList": [2, 2, 3, 3, 4],
+    "mapAmount": 5
+  },
+  {
+    "id": 3,
+    "mapList": [4, 4, 5, 5, 5, 6, 6, 6],
+    "mapAmount": 8
+  },
+  {
+    "id": 4,
+    "mapList": [7, 7, 7, 8, 8, 8, 2, 3],
+    "mapAmount": 8
+  },
+  {
+    "id": 5,
+    "mapList": [9],
+    "mapAmount": 1
+  },
+  {
+    "id": 6,
+    "mapList": [10],
+    "mapAmount": 1
+  }
+]

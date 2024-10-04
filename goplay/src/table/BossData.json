@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "bossName": "邏莉塔",
+    "bossNameKey": "boss_1",
+    "imgUrl": "boss_1",
+    "matchingCardScale": 0.6,
+    "matchingCardLeft": 835,
+    "matchingCardTop": 229
+  },
+  {
+    "id": 2,
+    "bossName": "爆爆娘",
+    "bossNameKey": "boss_2",
+    "imgUrl": "boss_2",
+    "matchingCardScale": 0.6,
+    "matchingCardLeft": 835,
+    "matchingCardTop": 229
+  },
+  {
+    "id": 3,
+    "bossName": "神射公",
+    "bossNameKey": "boss_3",
+    "imgUrl": "boss_3",
+    "matchingCardScale": 0.6,
+    "matchingCardLeft": 822,
+    "matchingCardTop": 244
+  },
+  {
+    "id": 4,
+    "bossName": "爆打王",
+    "bossNameKey": "boss_4",
+    "imgUrl": "boss_4",
+    "matchingCardScale": 0.6,
+    "matchingCardLeft": 842,
+    "matchingCardTop": 223
+  },
+  {
+    "id": 5,
+    "bossName": "魔化．孫悟空",
+    "bossNameKey": "boss_5",
+    "imgUrl": "boss_5",
+    "matchingCardScale": 0.6,
+    "matchingCardLeft": 822,
+    "matchingCardTop": 252
+  },
+  {
+    "id": 6,
+    "bossName": "魔化．紅孩兒",
+    "bossNameKey": "boss_6",
+    "imgUrl": "boss_6",
+    "matchingCardScale": 0.6,
+    "matchingCardLeft": 817,
+    "matchingCardTop": 234
+  },
+  {
+    "id": 7,
+    "bossName": "魔化．六耳",
+    "bossNameKey": "boss_7",
+    "imgUrl": "boss_7",
+    "matchingCardScale": 0.6,
+    "matchingCardLeft": 829,
+    "matchingCardTop": 265
+  },
+  {
+    "id": 8,
+    "bossName": "魔化阿努比斯",
+    "bossNameKey": "boss_8",
+    "imgUrl": "boss_8",
+    "matchingCardScale": 0.6,
+    "matchingCardLeft": 835,
+    "matchingCardTop": 252
+  },
+  {
+    "id": 9,
+    "bossName": "魔化瑞彼特",
+    "bossNameKey": "boss_9",
+    "imgUrl": "boss_9",
+    "matchingCardScale": 0.6,
+    "matchingCardLeft": 822,
+    "matchingCardTop": 244
+  }
+]

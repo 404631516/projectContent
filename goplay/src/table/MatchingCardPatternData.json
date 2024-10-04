@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "difficulty": 1,
+    "cardCount": 4,
+    "cardTypeCount": 2,
+    "obstructIDList": [
+      1
+    ],
+    "obstructRate": 0.1
+  },
+  {
+    "id": 2,
+    "difficulty": 2,
+    "cardCount": 8,
+    "cardTypeCount": 3,
+    "obstructIDList": [
+      2
+    ],
+    "obstructRate": 0.5
+  },
+  {
+    "id": 3,
+    "difficulty": 2,
+    "cardCount": 8,
+    "cardTypeCount": 3,
+    "obstructIDList": [
+      1,
+      2
+    ],
+    "obstructRate": 0.1
+  },
+  {
+    "id": 4,
+    "difficulty": 2,
+    "cardCount": 8,
+    "cardTypeCount": 4,
+    "obstructIDList": [
+      2,
+      3
+    ],
+    "obstructRate": 0.5
+  },
+  {
+    "id": 5,
+    "difficulty": 3,
+    "cardCount": 8,
+    "cardTypeCount": 4,
+    "obstructIDList": [
+      1,
+      4
+    ],
+    "obstructRate": 0.1
+  },
+  {
+    "id": 6,
+    "difficulty": 3,
+    "cardCount": 12,
+    "cardTypeCount": 5,
+    "obstructIDList": [
+      2,
+      5
+    ],
+    "obstructRate": 0.1
+  },
+  {
+    "id": 7,
+    "difficulty": 3,
+    "cardCount": 12,
+    "cardTypeCount": 5,
+    "obstructIDList": [
+      1,
+      6
+    ],
+    "obstructRate": 0.5
+  },
+  {
+    "id": 8,
+    "difficulty": 3,
+    "cardCount": 12,
+    "cardTypeCount": 6,
+    "obstructIDList": [
+      2,
+      5
+    ],
+    "obstructRate": 1
+  },
+  {
+    "id": 9,
+    "difficulty": 3,
+    "cardCount": 12,
+    "cardTypeCount": 6,
+    "obstructIDList": [
+      2,
+      6
+    ],
+    "obstructRate": 0.5
+  },
+  {
+    "id": 10,
+    "difficulty": 3,
+    "cardCount": 16,
+    "cardTypeCount": 6,
+    "obstructIDList": [
+      1,
+      2,
+      4
+    ],
+    "obstructRate": 1
+  },
+  {
+    "id": 11,
+    "difficulty": 3,
+    "cardCount": 16,
+    "cardTypeCount": 7,
+    "obstructIDList": [
+      3,
+      4
+    ],
+    "obstructRate": 1
+  },
+  {
+    "id": 12,
+    "difficulty": 3,
+    "cardCount": 16,
+    "cardTypeCount": 7,
+    "obstructIDList": [
+      3,
+      5
+    ],
+    "obstructRate": 0.1
+  },
+  {
+    "id": 13,
+    "difficulty": 3,
+    "cardCount": 16,
+    "cardTypeCount": 8,
+    "obstructIDList": [
+      3,
+      6
+    ],
+    "obstructRate": 0.5
+  },
+  {
+    "id": 14,
+    "difficulty": 3,
+    "cardCount": 16,
+    "cardTypeCount": 8,
+    "obstructIDList": [
+      1,
+      2,
+      3
+    ],
+    "obstructRate": 1
+  },
+  {
+    "id": 15,
+    "difficulty": 3,
+    "cardCount": 16,
+    "cardTypeCount": 8,
+    "obstructIDList": [
+      1,
+      3,
+      4
+    ],
+    "obstructRate": 0.1
+  },
+  {
+    "id": 16,
+    "difficulty": 3,
+    "cardCount": 16,
+    "cardTypeCount": 8,
+    "obstructIDList": [
+      1,
+      3,
+      6
+    ],
+    "obstructRate": 0.5
+  },
+  {
+    "id": 17,
+    "difficulty": 3,
+    "cardCount": 16,
+    "cardTypeCount": 8,
+    "obstructIDList": [
+      1,
+      3,
+      5
+    ],
+    "obstructRate": 0.5
+  }
+]

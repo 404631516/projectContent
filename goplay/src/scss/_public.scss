@@ -1,0 +1,295 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+font,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: baseline;
+  background: transparent;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+#game-container {
+  position: relative;
+  z-index: 99;
+}
+
+html {
+  font-family: 'PingFang SC', 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans GB', 'Heiti SC', 'Microsoft YaHei',
+    'WenQuanYi Micro Hei', sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  height: 100%;
+}
+
+body {
+  line-height: 1;
+  color: #fff;
+  height: 100%;
+  overflow: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+ol,
+ul,
+li {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+
+i,
+em {
+  font-style: normal;
+}
+
+input {
+  &::-webkit-outer-spin-button,
+  &::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+  }
+  &[type='number'] {
+    -moz-appearance: textfield;
+  }
+}
+
+textarea,
+input[type='text'] {
+  // -webkit-appearance: none;
+  // outline: none;
+  // //border:none;
+  // padding: 0 15px;
+}
+
+select {
+  //border: none;
+  background: none;
+  -webkit-appearance: none;
+}
+
+/* remember to define focus styles! */
+
+:focus {
+  outline: 0;
+}
+
+/* remember to highlight inserts somehow! */
+
+ins {
+  text-decoration: none;
+}
+
+del {
+  text-decoration: line-through;
+}
+
+/* tables still need 'cellspacing="0"' in the markup */
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+//flex 佈局
+.flex-box {
+  box-sizing: border-box;
+  height: 100%;
+}
+
+.flex-pos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  &.right {
+    justify-content: flex-end;
+  }
+  &.left {
+    justify-content: flex-start;
+  }
+  &.between {
+    justify-content: space-between;
+  }
+  &.column {
+    flex-direction: column;
+  }
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  .flex-item {
+    flex: 1;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 2rem;
+  }
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  &.right {
+    justify-content: flex-end;
+  }
+  &.center {
+    justify-content: center;
+  }
+  &.s-evenly {
+    justify-content: space-evenly;
+  }
+  &.no-wrap {
+    flex-wrap: nowrap;
+  }
+}
+
+// 最大寬度限制
+.max-width-limit {
+  max-width: 1920px;
+  margin: 0 auto;
+  @media (min-width: 426px) and (max-width: 1024px) {
+    max-width: 1024px;
+  }
+}
+
+// banner樣式
+.top-area {
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  &.top-sm-1 {
+    height: 8vh;
+  }
+  &.top-mid-1 {
+    height: 160px;
+  }
+  &.top-mid-2 {
+    height: 213px;
+    @media (min-width: 426px) and (max-width: 1024px) {
+      height: 205px;
+    }
+    @media (max-width: 435px) {
+      height: 188px;
+    }
+  }
+  &.top-lg-1 {
+    height: 500px;
+    @media (max-width: 435px) {
+      height: 354px;
+    }
+  }
+  &.top-lg-2 {
+    height: 710px;
+    @media (min-width: 426px) and (max-width: 1024px) {
+      height: 550px;
+    }
+    @media (max-width: 435px) {
+      height: 205px;
+    }
+  }
+}
+
+// 中間內頁樣式
+.middle-area {
+  display: grid;
+  align-items: center;
+  justify-items: center;
+}
+
+//捲軸
+.slide-scrollbar {
+  //捲軸底色
+  ::-webkit-scrollbar-track {
+    margin: 0 35px;
+    background-color: inherit;
+    border: 1px solid #d9d6be;
+    border-radius: 5px;
+  }
+  //捲軸寬度
+  ::-webkit-scrollbar {
+    height: 13px;
+  }
+  //捲軸本體顏色
+  ::-webkit-scrollbar-thumb {
+    background: #cbcbcb;
+  }
+}

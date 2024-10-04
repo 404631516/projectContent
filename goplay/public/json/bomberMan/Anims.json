@@ -1,0 +1,9 @@
+{
+    "anims": [
+        {
+            "key": "EnemyDeadAnim",
+            "frames": "EnemyDeadFX",
+            "frameRate": 9
+        }
+    ]
+}

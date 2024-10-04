@@ -1,0 +1,16 @@
+{
+    "anims": [
+        {
+            "key": "DestroyBrickWall",
+            "frames": "DestroyBrickWall",
+            "frameRate": 3,
+            "repeat": 0
+        },
+        {
+            "key": "DestroyGlassWall",
+            "frames": "DestroyGlassWall",
+            "frameRate": 3,
+            "repeat": 0
+        }
+    ]
+}

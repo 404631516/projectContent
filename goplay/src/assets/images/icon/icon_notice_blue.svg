@@ -1,0 +1,10 @@
+<svg id="i" xmlns="http://www.w3.org/2000/svg" width="46" height="46" viewBox="0 0 46 46">
+  <g id="Ellipse_4" data-name="Ellipse 4" fill="rgba(0,0,0,0.8)" stroke="#fff" stroke-width="3">
+    <circle cx="23" cy="23" r="23" stroke="none"/>
+    <circle cx="23" cy="23" r="21.5" fill="none"/>
+  </g>
+  <g id="i-2" data-name="i" transform="translate(18 10)">
+    <rect id="Rectangle_165" data-name="Rectangle 165" width="11" height="16" rx="3" transform="translate(0 7)" fill="#3cfafc"/>
+    <rect id="Rectangle_166" data-name="Rectangle 166" width="11" height="5" rx="2.5" fill="#3cfafc"/>
+  </g>
+</svg>

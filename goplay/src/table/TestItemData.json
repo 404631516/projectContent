@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "nameKey": "fishing_item_dropFish_lv1",
+    "contentKey": "fishing_content_dropFish_lv1",
+    "energy": 500,
+    "itemFunction": 0,
+    "duration": 1.5,
+    "appearTypeList": [1],
+    "multiply": 0,
+    "url": "item_dropFish_lv1.png"
+  },
+  {
+    "id": 2,
+    "nameKey": "fishing_item_dropFish_lv2",
+    "contentKey": "fishing_content_dropFish_lv2",
+    "energy": 550,
+    "itemFunction": 0,
+    "duration": 1.5,
+    "appearTypeList": [1, 2],
+    "multiply": 0,
+    "url": "item_dropFish_lv2.png"
+  },
+  {
+    "id": 3,
+    "nameKey": "fishing_item_dropFish_lv3",
+    "contentKey": "fishing_content_dropFish_lv3",
+    "energy": 600,
+    "itemFunction": 0,
+    "duration": 1.5,
+    "appearTypeList": [1, 2, 2, 3],
+    "multiply": 0,
+    "url": "item_dropFish_lv3.png"
+  },
+  {
+    "id": 4,
+    "nameKey": "fishing_item_speedUp_lv1",
+    "contentKey": "fishing_content_speedUp_lv1",
+    "energy": 200,
+    "itemFunction": 1,
+    "duration": 3,
+    "appearTypeList": [],
+    "multiply": 2,
+    "url": "item_speedUp_lv1.png"
+  },
+  {
+    "id": 5,
+    "nameKey": "fishing_item_speedUp_lv2",
+    "contentKey": "fishing_content_speedUp_lv2",
+    "energy": 250,
+    "itemFunction": 1,
+    "duration": 3.5,
+    "appearTypeList": [],
+    "multiply": 2.25,
+    "url": "item_speedUp_lv2.png"
+  },
+  {
+    "id": 6,
+    "nameKey": "fishing_item_speedUp_lv3",
+    "contentKey": "fishing_content_speedUp_lv3",
+    "energy": 300,
+    "itemFunction": 1,
+    "duration": 4,
+    "appearTypeList": [],
+    "multiply": 2.5,
+    "url": "item_speedUp_lv3.png"
+  },
+  {
+    "id": 7,
+    "nameKey": "fishing_item_invincible_lv1",
+    "contentKey": "fishing_content_invincible_lv1",
+    "energy": 300,
+    "itemFunction": 2,
+    "duration": 5,
+    "appearTypeList": [],
+    "multiply": 0,
+    "url": "item_invincible_lv1.png"
+  },
+  {
+    "id": 8,
+    "nameKey": "fishing_item_invincible_lv2",
+    "contentKey": "fishing_content_invincible_lv2",
+    "energy": 350,
+    "itemFunction": 2,
+    "duration": 5.5,
+    "appearTypeList": [],
+    "multiply": 0,
+    "url": "item_invincible_lv2.png"
+  },
+  {
+    "id": 9,
+    "nameKey": "fishing_item_invincible_lv3",
+    "contentKey": "fishing_content_invincible_lv3",
+    "energy": 400,
+    "itemFunction": 2,
+    "duration": 6,
+    "appearTypeList": [],
+    "multiply": 0,
+    "url": "item_invincible_lv3.png"
+  },
+  {
+    "id": 10,
+    "nameKey": "fishing_item_fishingNet_lv1",
+    "contentKey": "fishing_content_fishingNet_lv1",
+    "energy": 450,
+    "itemFunction": 3,
+    "duration": 0,
+    "appearTypeList": [],
+    "multiply": 0.7,
+    "url": "item_fishingNet_lv1.png"
+  },
+  {
+    "id": 11,
+    "nameKey": "fishing_item_fishingNet_lv2",
+    "contentKey": "fishing_content_fishingNet_lv2",
+    "energy": 500,
+    "itemFunction": 3,
+    "duration": 0,
+    "appearTypeList": [],
+    "multiply": 1.2,
+    "url": "item_fishingNet_lv2.png"
+  }
+]

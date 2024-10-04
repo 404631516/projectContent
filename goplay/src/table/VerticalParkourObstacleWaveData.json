@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "time": 1,
+    "interval": 2.5
+  },
+  {
+    "id": 2,
+    "time": 8,
+    "interval": 3.5
+  },
+  {
+    "id": 3,
+    "time": 20,
+    "interval": 6
+  },
+  {
+    "id": 4,
+    "time": 60,
+    "interval": 13.5
+  }
+]

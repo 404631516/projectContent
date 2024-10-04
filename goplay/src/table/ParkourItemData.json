@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nameKey": "parkour_item_magnet_lv1",
+    "contentKey": "parkour_content_magnet_lv1",
+    "energy": 600,
+    "itemFunction": 0,
+    "duration": 4,
+    "multiply": -1,
+    "url": "item_magnet_lv1.png"
+  },
+  {
+    "id": 2,
+    "nameKey": "parkour_item_magnet_lv2",
+    "contentKey": "parkour_content_magnet_lv2",
+    "energy": 650,
+    "itemFunction": 0,
+    "duration": 5,
+    "multiply": -1,
+    "url": "item_magnet_lv2.png"
+  },
+  {
+    "id": 3,
+    "nameKey": "parkour_item_fly_lv1",
+    "contentKey": "parkour_content_fly_lv1",
+    "energy": 450,
+    "itemFunction": 1,
+    "duration": 4,
+    "multiply": -1,
+    "url": "item_fly_lv1.png"
+  },
+  {
+    "id": 4,
+    "nameKey": "parkour_item_fly_lv2",
+    "contentKey": "parkour_content_fly_lv2",
+    "energy": 500,
+    "itemFunction": 1,
+    "duration": 5,
+    "multiply": -1,
+    "url": "item_fly_lv2.png"
+  },
+  {
+    "id": 5,
+    "nameKey": "parkour_item_giant_lv1",
+    "contentKey": "parkour_content_giant_lv1",
+    "energy": 400,
+    "itemFunction": 2,
+    "duration": 5,
+    "multiply": 1.8,
+    "url": "item_giant_lv1.png"
+  },
+  {
+    "id": 6,
+    "nameKey": "parkour_item_giant_lv2",
+    "contentKey": "parkour_content_giant_lv2",
+    "energy": 450,
+    "itemFunction": 2,
+    "duration": 6,
+    "multiply": 2.2,
+    "url": "item_giant_lv2.png"
+  },
+  {
+    "id": 7,
+    "nameKey": "parkour_item_speedUp_lv1",
+    "contentKey": "parkour_content_speedUp_lv1",
+    "energy": 200,
+    "itemFunction": 3,
+    "duration": 4,
+    "multiply": 1.5,
+    "url": "item_speedUp_lv1.png"
+  },
+  {
+    "id": 8,
+    "nameKey": "parkour_item_speedUp_lv2",
+    "contentKey": "parkour_content_speedUp_lv2",
+    "energy": 256,
+    "itemFunction": 3,
+    "duration": 5,
+    "multiply": 1.75,
+    "url": "item_speedUp_lv2.png"
+  }
+]

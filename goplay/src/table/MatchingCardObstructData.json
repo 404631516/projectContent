@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "obstructType": 1,
+    "obstructDurationSec": 0,
+    "obstructCardCount": 2
+  },
+  {
+    "id": 2,
+    "obstructType": 2,
+    "obstructDurationSec": 2,
+    "obstructCardCount": 2
+  },
+  {
+    "id": 3,
+    "obstructType": 1,
+    "obstructDurationSec": 0,
+    "obstructCardCount": 4
+  },
+  {
+    "id": 4,
+    "obstructType": 2,
+    "obstructDurationSec": 3,
+    "obstructCardCount": 4
+  },
+  {
+    "id": 5,
+    "obstructType": 1,
+    "obstructDurationSec": 0,
+    "obstructCardCount": 3
+  },
+  {
+    "id": 6,
+    "obstructType": 2,
+    "obstructDurationSec": 4,
+    "obstructCardCount": 6
+  }
+]

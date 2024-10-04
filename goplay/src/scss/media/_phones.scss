@@ -1,0 +1,345 @@
+/* phones */
+
+@media (max-width: 575.98px) {
+  // 星球大戰頁面
+  .planet-wrapper {
+    .hero-avatar-wrapper {
+      .level-area {
+        font-size: 20px !important;
+      }
+      .hero-text {
+        .small {
+          font-size: 16px !important;
+          line-height: 14px !important;
+        }
+        p {
+          font-size: 16px !important;
+        }
+      }
+      .hero-text {
+        .small {
+          font-size: 16px !important;
+          line-height: 14px !important;
+        }
+        p {
+          font-size: 16px !important;
+        }
+      }
+    }
+    .pointlist-wrapper {
+      .point-info-bottom {
+        bottom: -15vw !important;
+      }
+      ol {
+        li {
+          .point-box {
+            padding: 0 10vw !important;
+            .point-info-bottom {
+              width: 20vw !important;
+            }
+            .point-bg {
+              width: 20vw;
+            }
+            .friend-box {
+              .prompt {
+                width: 8vw;
+                height: 8vw;
+              }
+              .friend-img {
+                height: 10vw !important;
+                span {
+                  font-size: 10px;
+                }
+                &::after {
+                  width: 7vw !important;
+                  height: 7vw !important;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    .friend-pos {
+      position: relative;
+      top: -2vw;
+    }
+    .planetlist-bottom {
+      > .bottom-box {
+        .weapon-area {
+          display: none !important;
+        }
+        .el-row--flex {
+          display: table-row-group !important;
+        }
+        .weapon-title {
+          width: 100%;
+          height: 10vw;
+          line-height: 10vw;
+        }
+      }
+    }
+  }
+  .el-message-box__wrapper {
+    top: -20vh !important;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    .el-message-box {
+      width: 100%;
+    }
+  }
+
+  // 世界大賽
+  .game-card-wrapper {
+    padding: 0;
+  }
+  // 賽事資訊頁
+  $content-w: 90%; // 內容寬度
+  .game-detail-wrapper {
+    .world-contest-banner {
+      height: 40vw !important;
+    }
+    .content-area {
+      h2 {
+        font-size: 16px !important;
+      }
+      .dare-box {
+        width: $content-w !important;
+        padding: 2vw;
+        margin: 2vh auto !important;
+        // margin: 2vw;
+        .dare-wrapper {
+          width: 98%;
+          border-radius: 6vw !important;
+          background-size: cover !important;
+          .title-area {
+            font-size: 24px;
+            height: auto !important;
+          }
+        }
+      }
+      .hero-bar {
+        .hero-avatar-wrapper {
+          width: $content-w;
+          .hero-text {
+            .small {
+              font-size: 14px;
+            }
+            p {
+              font-size: 16px;
+            }
+          }
+          .level-area {
+            font-size: 24px;
+          }
+          .btn-area {
+            margin: 1vh 10vw 0 0;
+          }
+        }
+      }
+      .rank-box {
+        width: $content-w !important;
+        .myrank-box {
+          font-size: 16px !important;
+          overflow: auto;
+        }
+        .rank-new {
+          .rank-body {
+            .list {
+              font-size: 16px;
+            }
+          }
+        }
+      }
+      .note-adl-area {
+        width: 70%;
+        font-size: 16px;
+      }
+    }
+  }
+  // 導師專區
+  .backend-wrapper {
+    .tab-content {
+      overflow: auto;
+      margin-bottom: 10vh;
+    }
+    .tab-area {
+      margin: 2vw;
+    }
+    .game-card-wrapper .el-card,
+    .game-card-wrapper .add-card {
+      height: auto;
+    }
+    .add-box {
+      height: 35vh;
+      .add-card {
+        height: 35vh;
+      }
+    }
+  }
+  // 小遊戲
+  .h5-box {
+    .game-answer {
+      .item-box {
+        .item-pos {
+          width: 85%;
+          .btn-1 {
+            font-size: 14px;
+            > span {
+              &.set0,
+              &.set1,
+              &.set2,
+              &.set3 {
+                &::after {
+                  font-size: 24px;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  // 小遊戲結果頁Dialog
+  .game-rueslt-warpper {
+    .el-dialog__header {
+      font-size: 20px;
+    }
+  }
+  // 調整賽事資訊魔王資訊文字大小
+  .devil-board-wrapper {
+    .boss-info {
+      p {
+        font-size: 14px !important;
+      }
+    }
+    .boss-area {
+      p {
+        span {
+          font-size: 14px !important;
+        }
+      }
+    }
+  }
+  .game-info-wrapper {
+    li {
+      .contest-time {
+        font-size: 14px !important;
+      }
+    }
+  }
+  // 調整答題遊戲開場動畫文字
+  .trans-msg-warpper {
+    .arrow {
+      height: 6vh;
+      font-size: 38px !important;
+    }
+  }
+  // 隱藏賽事資訊前往因材網註解文字
+  .note-adl-area {
+    .text-note {
+      display: none;
+    }
+  }
+  // 答題結果獲得分數Dialog
+  .game-rueslt-warpper {
+    .rueslt-body {
+      li {
+        font-size: 18px !important;
+      }
+    }
+    .el-dialog__body {
+      padding: 0 !important;
+      .rueslt-body {
+        margin-top: 5vw;
+        font-size: 16px !important;
+      }
+    }
+  }
+  // 調整因材網題庫題目大小
+  .adledu-wrapper {
+    .topic-box {
+      padding: 0 2vw !important;
+      .img-box {
+        width: 100vw;
+        height: 100%;
+        overflow: auto;
+        // padding: 1vw;
+        img {
+          width: auto !important;
+          height: auto;
+          // object-fit: contain !important;
+          overflow: auto;
+        }
+      }
+    }
+    .item-pos {
+      img {
+        width: auto !important;
+        object-fit: cover !important;
+      }
+    }
+    .adledu-options-box {
+      position: relative;
+      .el-button {
+        position: absolute;
+        top: -10vw;
+        right: 0;
+      }
+    }
+  }
+  // 調整 排行榜Dialog
+  .list-msg-warpper {
+    .el-dialog {
+      width: 100% !important;
+    }
+    .rank-wrapper {
+      .rank-body {
+        .list {
+          li.no_1 {
+            background: none !important;
+          }
+        }
+      }
+      .rank-footer {
+        .myrank-box {
+          li {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+          }
+        }
+      }
+    }
+  }
+  // 生物兵器
+  .weapon-warpper {
+    .el-dialog {
+      width: 100%;
+    }
+    .weapon-item {
+      width: 22vw;
+      height: 22vw;
+    }
+    .weapon-place-area {
+      .weapon-area {
+        padding: 4vw !important;
+      }
+    }
+    .weapon-content-area {
+      .weapon-content {
+        width: 100%;
+      }
+    }
+    .weapon-buy-area {
+      .top-info {
+        height: auto !important;
+        padding: 5vw !important;
+        > .flex-row.no-wrap {
+          flex-wrap: wrap !important;
+        }
+      }
+    }
+  }
+}

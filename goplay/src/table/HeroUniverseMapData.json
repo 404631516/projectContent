@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1001,
+    "name": "因雄宇宙大地圖",
+    "nameKey": "1-hero-universe",
+    "url": "1-hero-universe.json",
+    "backgroundUrl": "1-hero-universe-bg.png",
+    "tilesetUrl": "tilesetPlanet.png"
+  },
+  {
+    "id": 2001,
+    "name": "魔王宇宙星團",
+    "nameKey": "2-boss-cluster",
+    "url": "2-boss-cluster.json",
+    "backgroundUrl": "2-boss-cluster-bg.png",
+    "tilesetUrl": "tilesetPlanet.png"
+  },
+  {
+    "id": 2002,
+    "name": "情境學習星團1",
+    "nameKey": "2-learning-cluster-1",
+    "url": "2-learning-cluster-1.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tileset.png"
+  },
+  {
+    "id": 3001,
+    "name": "獅子星系",
+    "nameKey": "3-boss-cluster-leo-galaxy",
+    "url": "3-boss-cluster-leo-galaxy.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tileset.png"
+  },
+  {
+    "id": 3002,
+    "name": "射手星系",
+    "nameKey": "3-boss-cluster-sagittarius-galaxy",
+    "url": "3-boss-cluster-sagittarius-galaxy.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tileset.png"
+  },
+  {
+    "id": 3003,
+    "name": "水瓶星系",
+    "nameKey": "3-boss-cluster-aquarius-galaxy",
+    "url": "3-boss-cluster-aquarius-galaxy.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tileset.png"
+  },
+  {
+    "id": 3004,
+    "name": "歷史星系",
+    "nameKey": "3-learning-cluster-1-history",
+    "url": "3-learning-cluster-1-history.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tileset.png"
+  },
+  {
+    "id": 3005,
+    "name": "生物星系",
+    "nameKey": "3-learning-cluster-1-biology",
+    "url": "3-learning-cluster-1-biology.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tileset.png"
+  },
+  {
+    "id": 3006,
+    "name": "白羊星系",
+    "nameKey": "3-boss-cluster-aries-galaxy",
+    "url": "3-boss-cluster-aries-galaxy.json",
+    "backgroundUrl": "3-boss-cluster-aries-galaxy-bg.png",
+    "tilesetUrl": "tilesetPlanet.png"
+  },
+  {
+    "id": 3007,
+    "name": "巨蟹星系",
+    "nameKey": "3-boss-cluster-cancer-galaxy",
+    "url": "3-boss-cluster-cancer-galaxy.json",
+    "backgroundUrl": "3-boss-cluster-cancer-galaxy-bg.png",
+    "tilesetUrl": "tilesetPlanet.png"
+  },
+  {
+    "id": 3008,
+    "name": "天坪星系",
+    "nameKey": "3-boss-cluster-libra-galaxy",
+    "url": "3-boss-cluster-libra-galaxy.json",
+    "backgroundUrl": "3-boss-cluster-libra-galaxy-bg.png",
+    "tilesetUrl": "tilesetPlanet.png"
+  },
+  {
+    "id": 4001,
+    "name": "熔岩之巔",
+    "nameKey": "4-aries-galaxy-volcano-1",
+    "url": "4-aries-galaxy-volcano-1.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tilesetVolcano.png"
+  },
+  {
+    "id": 4002,
+    "name": "火焰裂谷",
+    "nameKey": "4-aries-galaxy-volcano-2",
+    "url": "4-aries-galaxy-volcano-2.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tilesetVolcano.png"
+  },
+  {
+    "id": 4003,
+    "name": "冰封高原",
+    "nameKey": "4-aries-galaxy-Icefield-1",
+    "url": "4-aries-galaxy-Icefield-1.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tilesetIcefield.png"
+  },
+  {
+    "id": 4004,
+    "name": "冷酷冰川",
+    "nameKey": "4-aries-galaxy-Icefield-2",
+    "url": "4-aries-galaxy-Icefield-2.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tilesetIcefield.png"
+  },
+  {
+    "id": 4005,
+    "name": "草原曠野",
+    "nameKey": "4-aries-galaxy-wilderness-1",
+    "url": "4-aries-galaxy-wilderness-1.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tilesetWilderness.png"
+  },
+  {
+    "id": 4006,
+    "name": "平坦之地",
+    "nameKey": "4-aries-galaxy-wilderness-2",
+    "url": "4-aries-galaxy-wilderness-2.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tilesetWilderness.png"
+  },
+  {
+    "id": 4007,
+    "name": "風之平原",
+    "nameKey": "4-aries-galaxy-wilderness-3",
+    "url": "4-aries-galaxy-wilderness-3.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tilesetWilderness.png"
+  },
+  {
+    "id": 4008,
+    "name": "和風草原",
+    "nameKey": "4-aries-galaxy-wilderness-4",
+    "url": "4-aries-galaxy-wilderness-4.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tilesetWilderness.png"
+  },
+  {
+    "id": 4009,
+    "name": "悠悠大草原",
+    "nameKey": "4-aries-galaxy-wilderness-5",
+    "url": "4-aries-galaxy-wilderness-5.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tilesetWilderness.png",
+    "undefined": "等Tiled調整好會複製到欄位「tileset路徑」"
+  },
+  {
+    "id": 4010,
+    "name": "原野地形6",
+    "nameKey": "4-aries-galaxy-wilderness-6",
+    "url": "4-aries-galaxy-wilderness-6.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tileset.png",
+    "undefined": "tilesetWilderness.png"
+  },
+  {
+    "id": 4011,
+    "name": "原野地形7",
+    "nameKey": "4-aries-galaxy-wilderness-7",
+    "url": "4-aries-galaxy-wilderness-7.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tileset.png",
+    "undefined": "tilesetWilderness.png"
+  },
+  {
+    "id": 4012,
+    "name": "冰原地形3",
+    "nameKey": "4-aries-galaxy-Icefield-3",
+    "url": "4-aries-galaxy-Icefield-3.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tileset.png",
+    "undefined": "tilesetIcefield.png"
+  },
+  {
+    "id": 4013,
+    "name": "冰原地形4",
+    "nameKey": "4-aries-galaxy-Icefield-4",
+    "url": "4-aries-galaxy-Icefield-4.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tileset.png",
+    "undefined": "tilesetIcefield.png"
+  },
+  {
+    "id": 4014,
+    "name": "冰原地形5",
+    "nameKey": "4-aries-galaxy-Icefield-5",
+    "url": "4-aries-galaxy-Icefield-5.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tileset.png",
+    "undefined": "tilesetIcefield.png"
+  },
+  {
+    "id": 4015,
+    "name": "冰原地形6",
+    "nameKey": "4-aries-galaxy-Icefield-6",
+    "url": "4-aries-galaxy-Icefield-6.json",
+    "backgroundUrl": "None",
+    "tilesetUrl": "tileset.png",
+    "undefined": "tilesetIcefield.png"
+  },
+  {},
+  {}
+]

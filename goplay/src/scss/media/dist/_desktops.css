@@ -1,0 +1,58 @@
+/* desktops */
+@media (min-width: 992px) and (max-width: 1025px) {
+  .weapon-warpper .el-dialog {
+    width: 100%;
+  }
+  .weapon-warpper .weapon-item {
+    width: 15vw;
+    height: 15vw;
+  }
+  .weapon-warpper .weapon-place-area .weapon-area {
+    padding: 4vw !important;
+  }
+  .weapon-warpper .weapon-content-area .weapon-content {
+    width: 100%;
+  }
+  .weapon-warpper .weapon-buy-area .top-info {
+    height: auto !important;
+    padding: 5vw !important;
+  }
+  .weapon-warpper .weapon-buy-area .top-info > .flex-row.no-wrap {
+    flex-wrap: wrap !important;
+  }
+
+  .planet-wrapper .point-box .unlocked-box {
+    top: -6vh !important;
+  }
+  .planet-wrapper .planetlist-box .planetlist-bottom .bottom-box {
+    width: 90%;
+    height: auto;
+  }
+  .planet-wrapper .planetlist-box .planetlist-bottom .bottom-box .weapon-pos {
+    width: 90% !important;
+  }
+  .planet-wrapper .hero-avatar-wrapper .hero-text .small {
+    font-size: 16px !important;
+  }
+  .planet-wrapper .hero-avatar-wrapper .hero-text p {
+    font-size: 16px !important;
+  }
+  .planet-wrapper .pointlist-wrapper .point-info-bottom {
+    bottom: -5vw !important;
+  }
+  .planet-wrapper .pointlist-wrapper ol li .point-box .point-bg, .planet-wrapper .pointlist-wrapper ol li .point-box .lock-point-area {
+    height: 20vh !important;
+  }
+  .planet-wrapper .friend-pos {
+    position: relative;
+    top: -1vw;
+  }
+
+  .game-card-wrapper {
+    padding: 2vw !important;
+  }
+
+  .game-detail-wrapper .dare-wrapper {
+    height: auto !important;
+  }
+}

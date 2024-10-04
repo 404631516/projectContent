@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "type": 1,
+    "msg": [
+      {
+        "roleType": 2,
+        "key": "boss_talk_opening_1"
+      },
+      {
+        "roleType": 1,
+        "key": "boss_talk_opening_2"
+      },
+      {
+        "roleType": 2,
+        "key": "boss_talk_opening_3"
+      },
+      {
+        "roleType": 1,
+        "key": "boss_talk_opening_4"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": 2,
+    "msg": [
+      {
+        "roleType": 2,
+        "key": "boss_talk_ending_1"
+      },
+      {
+        "roleType": 1,
+        "key": "boss_talk_ending_2"
+      },
+      {
+        "roleType": 2,
+        "key": "boss_talk_ending_3"
+      },
+      {
+        "roleType": 1,
+        "key": "boss_talk_ending_4"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": 3,
+    "msg": [
+      {
+        "roleType": 2,
+        "key": "boss_talk_common_1_1"
+      },
+      {
+        "roleType": 1,
+        "key": "boss_talk_common_1_2"
+      },
+      {
+        "roleType": 2,
+        "key": "boss_talk_common_1_3"
+      },
+      {
+        "roleType": 1,
+        "key": "boss_talk_common_1_4"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "type": 3,
+    "msg": [
+      {
+        "roleType": 2,
+        "key": "boss_talk_common_2_1"
+      },
+      {
+        "roleType": 1,
+        "key": "boss_talk_common_2_2"
+      },
+      {
+        "roleType": 2,
+        "key": "boss_talk_common_2_3"
+      },
+      {
+        "roleType": 1,
+        "key": "boss_talk_common_2_4"
+      },
+      {
+        "roleType": 2,
+        "key": "boss_talk_common_2_5"
+      },
+      {
+        "roleType": 1,
+        "key": "boss_talk_common_2_6"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "type": 3,
+    "msg": [
+      {
+        "roleType": 2,
+        "key": "boss_talk_common_3_1"
+      },
+      {
+        "roleType": 1,
+        "key": "boss_talk_common_3_2"
+      },
+      {
+        "roleType": 2,
+        "key": "boss_talk_common_3_3"
+      },
+      {
+        "roleType": 1,
+        "key": "boss_talk_common_3_4"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "type": 3,
+    "msg": [
+      {
+        "roleType": 2,
+        "key": "boss_talk_common_4_1"
+      },
+      {
+        "roleType": 1,
+        "key": "boss_talk_common_4_2"
+      },
+      {
+        "roleType": 2,
+        "key": "boss_talk_common_4_3"
+      },
+      {
+        "roleType": 1,
+        "key": "boss_talk_common_4_4"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "type": 3,
+    "msg": [
+      {
+        "roleType": 1,
+        "key": "boss_talk_common_5_1"
+      },
+      {
+        "roleType": 2,
+        "key": "boss_talk_common_5_2"
+      },
+      {
+        "roleType": 1,
+        "key": "boss_talk_common_5_3"
+      },
+      {
+        "roleType": 2,
+        "key": "boss_talk_common_5_4"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "type": 3,
+    "msg": [
+      {
+        "roleType": 1,
+        "key": "boss_talk_common_6_1"
+      },
+      {
+        "roleType": 2,
+        "key": "boss_talk_common_6_2"
+      },
+      {
+        "roleType": 1,
+        "key": "boss_talk_common_6_3"
+      },
+      {
+        "roleType": 2,
+        "key": "boss_talk_common_6_4"
+      }
+    ]
+  }
+]

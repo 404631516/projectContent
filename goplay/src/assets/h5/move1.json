@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "zombie3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 68,
+				"h": 183
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "p_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 73,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 66,
+						"h": 90
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 66,
+						"h": 90
+					}
+				},
+				{
+					"filename": "p_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 71,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 7,
+						"w": 66,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 93,
+						"w": 66,
+						"h": 89
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7d49985a3c4d5d7b14fe615917345016:d33dbdfba9124c84b9f8cdbfb4e8226e:c64c553d91fd06bfee54f68bd32c3b70$"
+	}
+}

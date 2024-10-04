@@ -1,0 +1,27 @@
+[{
+        "id": 1,
+        "subject_groupings_id": 1,
+        "subject_groupings_name": "國語文"
+    },
+    {
+        "id": 2,
+        "subject_groupings_id": 2,
+        "subject_groupings_name": "數學"
+    },
+    {
+        "id": 3,
+        "subject_groupings_id": 3,
+        "subject_groupings_name": "自然"
+    },
+    {
+        "id": 4,
+        "subject_groupings_id": 4,
+        "subject_groupings_name": "英語"
+    },
+    {
+        "id": 8,
+        "subject_groupings_id": 8,
+        "subject_groupings_name": "自主學習"
+    }
+
+]

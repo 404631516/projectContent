@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nameKey": "shoot_target_1",
+    "name": "被咬過的蘋果",
+    "hp": 10,
+    "url": "block_01.png"
+  },
+  {
+    "id": 2,
+    "nameKey": "shoot_target_2",
+    "name": "爛掉的蘋果",
+    "hp": 20,
+    "url": "block_02.png"
+  },
+  {
+    "id": 3,
+    "nameKey": "shoot_target_3",
+    "name": "在木板上的蘋果",
+    "hp": 30,
+    "url": "block_03.png"
+  },
+  {
+    "id": 4,
+    "nameKey": "shoot_target_4",
+    "name": "正常橘南瓜",
+    "hp": 50,
+    "url": "block_04.png"
+  },
+  {
+    "id": 5,
+    "nameKey": "shoot_target_5",
+    "name": "拉長橘色南瓜",
+    "hp": 100,
+    "url": "block_05.png"
+  },
+  {
+    "id": 6,
+    "nameKey": "shoot_target_6",
+    "name": "銀色南瓜",
+    "hp": 200,
+    "url": "block_06.png"
+  },
+  {
+    "id": 7,
+    "nameKey": "shoot_target_7",
+    "name": "金蘋果",
+    "hp": 500,
+    "url": "block_07.png"
+  }
+]

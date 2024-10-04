@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nameKey": "spaceInvaders_item_explodeFullScreen",
+    "contentKey": "spaceInvaders_content_explodeFullScreen",
+    "energy": 650,
+    "functionType": 1,
+    "url": "item_explodeFullScreen.png"
+  },
+  {
+    "id": 2,
+    "nameKey": "spaceInvaders_item_explodeLine",
+    "contentKey": "spaceInvaders_item_explodeLine",
+    "energy": 350,
+    "functionType": 2,
+    "url": "item_explodeLine.png"
+  },
+  {
+    "id": 3,
+    "nameKey": "spaceInvaders_item_explodeCircle",
+    "contentKey": "spaceInvaders_item_explodeCircle",
+    "energy": 260,
+    "functionType": 3,
+    "url": "item_explodeCircle.png"
+  },
+  {
+    "id": 4,
+    "nameKey": "spaceInvaders_item_slowDownEnemies",
+    "contentKey": "spaceInvaders_content_slowDownEnemies",
+    "energy": 220,
+    "functionType": 4,
+    "url": "item_slowDownEnemies.png"
+  },
+  {
+    "id": 5,
+    "nameKey": "spaceInvaders_item_invincible",
+    "contentKey": "spaceInvaders_content_invincible",
+    "energy": 900,
+    "functionType": 5,
+    "url": "item_invincible.png"
+  }
+]

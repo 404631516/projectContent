@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "targetScore": 1000,
+    "energyScoreRatio": 0.3,
+    "destroyWallScore": 20,
+    "pickItemScore": 50,
+    "energyDropIntervalSec": 5,
+    "energyDropIncresePerInterVal": 1,
+    "maxEnergyAmount": 1000,
+    "reviveEnergy": 200,
+    "heroHitEnemyDamage": -50,
+    "heroHitBlastDamage": -50,
+    "heroPutBombCost": -10,
+    "killEnemyGainEnergy": 100,
+    "destroyWallGainEnergy": 10,
+    "heroSpawnTileX": 1,
+    "heroSpawnTileY": 1,
+    "heroBaseBlastLv": 1,
+    "heroBaseBombCountLv": 1,
+    "heroBaseMoveSpeed": 1.5,
+    "nextWavePromptSec": 5,
+    "spawnEnemyDistance": 3,
+    "killEnemyCoinRatio": 0.2,
+    "spawnMapObjectDistance": 1,
+    "bombExplosionSec": 3
+  }
+]

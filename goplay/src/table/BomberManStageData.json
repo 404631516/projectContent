@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "mapJsonId": 1,
+    "countDownSec": 180,
+    "waveIntervalSec": 22.5,
+    "waveEnemyIDList": [
+      40107002, 40107001, 40107003, 40107006, 40107002, 40107001, 40107013, 40107005, 40107010, 40107012
+    ],
+    "waveEnemyCountList": [3, 4, 4, 5, 6, 7, 4, 8, 9, 10],
+    "wallDensity": 0.3,
+    "bonusItemIDList": [1, 1, 2, 3, 3]
+  },
+  {
+    "id": 2,
+    "mapJsonId": 1,
+    "countDownSec": 180,
+    "waveIntervalSec": 22.5,
+    "waveEnemyIDList": [
+      40107002, 40107001, 40107003, 40107006, 40107002, 40107003, 40107014, 40107007, 40107010, 40107012
+    ],
+    "waveEnemyCountList": [3, 4, 4, 5, 6, 7, 4, 8, 9, 10],
+    "wallDensity": 0.3,
+    "bonusItemIDList": [1, 1, 2, 3, 3]
+  },
+  {
+    "id": 3,
+    "mapJsonId": 1,
+    "countDownSec": 180,
+    "waveIntervalSec": 22.5,
+    "waveEnemyIDList": [
+      40107002, 40107008, 40107010, 40107012, 40107002, 40107006, 40107013, 40107009, 40107003, 40107006
+    ],
+    "waveEnemyCountList": [3, 4, 4, 5, 6, 7, 4, 8, 9, 10],
+    "wallDensity": 0.3,
+    "bonusItemIDList": [1, 1, 2, 3, 3]
+  },
+  {
+    "id": 4,
+    "mapJsonId": 1,
+    "countDownSec": 180,
+    "waveIntervalSec": 22.5,
+    "waveEnemyIDList": [
+      40107002, 40107008, 40107010, 40107012, 40107002, 40107008, 40107014, 40107011, 40107003, 40107006
+    ],
+    "waveEnemyCountList": [3, 4, 4, 5, 6, 7, 4, 8, 9, 10],
+    "wallDensity": 0.3,
+    "bonusItemIDList": [1, 1, 2, 3, 3]
+  },
+  {
+    "id": 5,
+    "mapJsonId": 1,
+    "countDownSec": 180,
+    "waveIntervalSec": 22.5,
+    "waveEnemyIDList": [
+      40107002, 40107001, 40107006, 40107010, 40107002, 40107010, 40107013, 40107005, 40107008, 40107012
+    ],
+    "waveEnemyCountList": [3, 4, 4, 5, 6, 7, 4, 8, 9, 10],
+    "wallDensity": 0.3,
+    "bonusItemIDList": [1, 1, 2, 3, 3]
+  },
+  {
+    "id": 6,
+    "mapJsonId": 1,
+    "countDownSec": 180,
+    "waveIntervalSec": 22.5,
+    "waveEnemyIDList": [
+      40107004, 40107001, 40107006, 40107010, 40107004, 40107003, 40107014, 40107007, 40107008, 40107012
+    ],
+    "waveEnemyCountList": [3, 4, 4, 5, 6, 7, 4, 8, 9, 10],
+    "wallDensity": 0.3,
+    "bonusItemIDList": [1, 1, 2, 3, 3]
+  },
+  {
+    "id": 7,
+    "mapJsonId": 1,
+    "countDownSec": 180,
+    "waveIntervalSec": 22.5,
+    "waveEnemyIDList": [
+      40107004, 40107003, 40107008, 40107012, 40107004, 40107006, 40107013, 40107009, 40107006, 40107010
+    ],
+    "waveEnemyCountList": [3, 4, 4, 5, 6, 7, 4, 8, 9, 10],
+    "wallDensity": 0.3,
+    "bonusItemIDList": [1, 1, 2, 3, 3]
+  },
+  {
+    "id": 8,
+    "mapJsonId": 1,
+    "countDownSec": 180,
+    "waveIntervalSec": 22.5,
+    "waveEnemyIDList": [
+      40107004, 40107003, 40107008, 40107012, 40107004, 40107008, 40107014, 40107011, 40107006, 40107010
+    ],
+    "waveEnemyCountList": [3, 4, 4, 5, 6, 7, 4, 8, 9, 10],
+    "wallDensity": 0.3,
+    "bonusItemIDList": [1, 1, 2, 3, 3]
+  },
+  {
+    "id": 9,
+    "mapJsonId": 1,
+    "countDownSec": 180,
+    "waveIntervalSec": 22.5,
+    "waveEnemyIDList": [
+      40107004, 40107001, 40107006, 40107008, 40107004, 40107010, 40107013, 40107007, 40107003, 40107008
+    ],
+    "waveEnemyCountList": [3, 4, 4, 5, 6, 7, 4, 8, 9, 10],
+    "wallDensity": 0.3,
+    "bonusItemIDList": [1, 1, 2, 3, 3]
+  },
+  {
+    "id": 10,
+    "mapJsonId": 1,
+    "countDownSec": 180,
+    "waveIntervalSec": 22.5,
+    "waveEnemyIDList": [
+      40107004, 40107003, 40107010, 40107012, 40107004, 40107012, 40107014, 40107011, 40107003, 40107008
+    ],
+    "waveEnemyCountList": [3, 4, 4, 5, 6, 7, 4, 8, 9, 10],
+    "wallDensity": 0.3,
+    "bonusItemIDList": [1, 1, 2, 3, 3]
+  }
+]

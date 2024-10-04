@@ -1,0 +1,247 @@
+@mixin btn_style-1 {
+  // 白框灰底按鈕
+  background: #000000cc;
+  border: 3px solid #ffffff;
+  border-radius: 80px;
+  box-shadow: 0px 3px 6px #00000029;
+}
+@mixin btn_style-2 {
+  $msg-font-color: #fff;
+  $btn-bg-2: #ffde39;
+  // 黃底按鈕
+  font-size: 18px !important;
+  color: $msg-font-color !important;
+  background: linear-gradient(to top, #ff8330, 50%, #ffb92d) !important;
+  border: none !important;
+  border-radius: 20px !important;
+  box-shadow: 0px 5px 10px #0000004d !important;
+  &:hover {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+  &:active {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+  &:focus {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+}
+@mixin btn_style-3 {
+  $msg-font-color: #ffffff;
+  font-size: 18px !important;
+  $btn-bg-3: linear-gradient(to bottom, #1ae5de, 50%, #2faff9);
+  // 藍底按鈕
+  color: $msg-font-color !important;
+  background: $btn-bg-3 !important;
+  border: none !important;
+  box-shadow: 0px 5px 10px #0000004d !important;
+  border-radius: 20px;
+  &:hover {
+    background: $btn-bg-3;
+    color: $msg-font-color;
+  }
+  &:active {
+    background: $btn-bg-3;
+    color: $msg-font-color;
+  }
+  &:focus {
+    background: $btn-bg-3;
+    color: $msg-font-color;
+  }
+}
+@mixin btn_style-4 {
+  $msg-font-color: #1d6563;
+  $btn-bg-2: #39ffeb;
+  // 亮綠底按鈕
+  color: $msg-font-color !important;
+  background-color: $btn-bg-2 !important;
+  border: none !important;
+  box-shadow: 0px 5px 10px #0000004d !important;
+  border-radius: 20px;
+  &:hover {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+  &:active {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+  &:focus {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+}
+@mixin btn_style-5 {
+  $msg-font-color: #fff;
+  $btn-bg-2: #18cb18;
+  // 綠底白字按鈕
+  color: $msg-font-color !important;
+  background-color: $btn-bg-2 !important;
+  border: none !important;
+  box-shadow: 0px 5px 10px #0000004d !important;
+  border-radius: 20px;
+  &:hover {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+  &:active {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+  &:focus {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+}
+@mixin btn_style-6 {
+  $msg-font-color: #fff;
+  $btn-bg-2: #ff7777;
+  // 紅底白字按鈕
+  font-size: 18px !important;
+  color: $msg-font-color;
+  background-color: $btn-bg-2 !important;
+  border: none !important;
+  box-shadow: 0px 5px 10px #0000004d !important;
+  border-radius: 20px !important;
+  &:hover {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+  &:active {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+  &:focus {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+}
+@mixin btn_style-7 {
+  // 白框綠底
+  $msg-font-color: #fff;
+  $btn-bg-2: #47d800d9;
+  $border-color: 2px solid #ffffff;
+  color: $msg-font-color !important;
+  background-color: $btn-bg-2 !important;
+  border: none !important;
+  box-shadow: 0px 3px 6px #000000e0 !important;
+  border-radius: 30px !important;
+  border: $border-color;
+  &:hover {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+  &:active {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+  &:focus {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+}
+@mixin btn_style-8 {
+  // 白框綠底
+  $msg-font-color: #fff;
+  $btn-bg-2: #000000cc;
+  $border-color: 2px solid #ffffff;
+  color: #ffde39 !important;
+  background-color: $btn-bg-2 !important;
+  border: none !important;
+  // box-shadow: 0px 3px 6px #000000E0 !important;
+  border-radius: 30px !important;
+  border: $border-color;
+  &:hover {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+  &:active {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+  &:focus {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+}
+@mixin btn_style-9 {
+  // 深紅底(生物兵器移除)
+  $msg-font-color: #fff;
+  $btn-bg-2: #da3752cc;
+  $border-color: 2px solid #ffffff;
+  color: $msg-font-color !important;
+  background-color: $btn-bg-2 !important;
+  border: none !important;
+  // box-shadow: 0px 3px 6px #000000E0 !important;
+  border-radius: 30px !important;
+  border: $border-color;
+  &:hover {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+  &:active {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+  &:focus {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+}
+// 深綠底淺綠字
+@mixin btn_style-10 {
+  $msg-font-color: #155e26;
+  $btn-bg-2: #18cb18;
+  // $border-color: ;
+  color: $msg-font-color !important;
+  background-color: $btn-bg-2 !important;
+  // box-shadow: 0px 3px 6px #000000E0 !important;
+  border-radius: 15px !important;
+  border: none !important;
+  &:hover {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+  &:active {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+  &:focus {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+}
+@mixin btn_style-11 {
+  $msg-font-color: #a5a5a5;
+  $btn-bg-2: #fff;
+  // 紅底白字按鈕
+  font-size: 18px !important;
+  color: $msg-font-color;
+  background-color: $btn-bg-2 !important;
+  border: none !important;
+  box-shadow: 0px 5px 10px #0000004d !important;
+  border-radius: 20px !important;
+  &:hover {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+  &:active {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+  &:focus {
+    background: $btn-bg-2;
+    color: $msg-font-color;
+  }
+}
+@mixin title_style-1 {
+  background-color: #eea73d;
+  margin: auto 2vw;
+  font-size: 32px;
+  height: 62px;
+  line-height: 62px;
+  color: #fff;
+  border-radius: 30px;
+}

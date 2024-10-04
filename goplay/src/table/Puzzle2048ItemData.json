@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nameKey": "puzzle2048_item_multiple_random_lv1",
+    "contentKey": "puzzle2048_content_multiple_random_lv1",
+    "energy": 150,
+    "itemFunction": 0,
+    "value": 2,
+    "url": "item_multiple_random_lv1.png"
+  },
+  {
+    "id": 2,
+    "nameKey": "puzzle2048_item_multiple_random_lv2",
+    "contentKey": "puzzle2048_content_multiple_random_lv2",
+    "energy": 430,
+    "itemFunction": 0,
+    "value": 4,
+    "url": "item_multiple_random_lv2.png"
+  },
+  {
+    "id": 3,
+    "nameKey": "puzzle2048_item_multiple_select_lv1",
+    "contentKey": "puzzle2048_content_multiple_select_lv1",
+    "energy": 250,
+    "itemFunction": 1,
+    "value": 2,
+    "url": "item_multiple_select_lv1.png"
+  },
+  {
+    "id": 4,
+    "nameKey": "puzzle2048_item_multiple_select_lv2",
+    "contentKey": "puzzle2048_content_multiple_select_lv2",
+    "energy": 500,
+    "itemFunction": 1,
+    "value": 4,
+    "url": "item_multiple_select_lv2.png"
+  }
+]

@@ -1,0 +1,51 @@
+{
+    "platforms": [
+        {
+            "key": "platform",
+            "x": 750,
+            "y": 150
+        },
+        {
+            "key": "platform",
+            "x": 850,
+            "y": 270
+        },
+        {
+            "key": "platform",
+            "x": 800,
+            "y": 400
+        }
+    ],
+    "targets": [
+        {
+            "targetId": 1,
+            "x": 750,
+            "y": 50,
+            "scale": 0.4
+        },
+        {
+            "targetId": 1,
+            "x": 720,
+            "y": 50,
+            "scale": 0.3
+        },
+        {
+            "targetId": 2,
+            "x": 700,
+            "y": 50,
+            "scale": 0.5
+        },
+        {
+            "targetId": 1,
+            "x": 780,
+            "y": 50,
+            "scale": 0.6
+        },
+        {
+            "targetId": 1,
+            "x": 680,
+            "y": 0,
+            "scale": 0.3
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "一般聖誕老人",
+    "nameKey": "hamsterDisplay_1",
+    "url": "hamsterDisplay_1.png",
+    "dieNameKey": "hamsterDisplay_1_die",
+    "dieUrl": "hamsterDisplay_1_die.png"
+  },
+  {
+    "id": 2,
+    "name": "連擊多次的老聖誕老人",
+    "nameKey": "hamsterDisplay_2",
+    "url": "hamsterDisplay_2.png",
+    "dieNameKey": "hamsterDisplay_2_die",
+    "dieUrl": "hamsterDisplay_2_die.png"
+  },
+  {
+    "id": 3,
+    "name": "具有攻擊力的白雪公主",
+    "nameKey": "hamsterDisplay_3",
+    "url": "hamsterDisplay_3.png",
+    "dieNameKey": "hamsterDisplay_3_die",
+    "dieUrl": "hamsterDisplay_3_die.png"
+  },
+  {
+    "id": 4,
+    "name": "不能打的蘿蔔兔",
+    "nameKey": "hamsterDisplay_4",
+    "url": "hamsterDisplay_4.png",
+    "dieNameKey": "hamsterDisplay_4_die",
+    "dieUrl": "hamsterDisplay_4_die.png"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": 40107001,
+    "nameKey": "enemy_1",
+    "url": "enemy_P01",
+    "colorType": "default",
+    "killEnemyScore": 150,
+    "enemyMoveSpeedMin": 1,
+    "enemyMoveSpeedMax": 2,
+    "enemyMoveType": 1,
+    "enemyMovePreferArrow": 0
+  },
+  {
+    "id": 40107002,
+    "nameKey": "enemy_2",
+    "url": "enemy_P02",
+    "colorType": "default",
+    "killEnemyScore": 100,
+    "enemyMoveSpeedMin": 0.5,
+    "enemyMoveSpeedMax": 1,
+    "enemyMoveType": 3,
+    "enemyMovePreferArrow": 1
+  },
+  {
+    "id": 40107003,
+    "nameKey": "enemy_3",
+    "url": "enemy_P03",
+    "colorType": "default",
+    "killEnemyScore": 150,
+    "enemyMoveSpeedMin": 1,
+    "enemyMoveSpeedMax": 2,
+    "enemyMoveType": 1,
+    "enemyMovePreferArrow": 0
+  },
+  {
+    "id": 40107004,
+    "nameKey": "enemy_4",
+    "url": "enemy_P04",
+    "colorType": "default",
+    "killEnemyScore": 100,
+    "enemyMoveSpeedMin": 0.5,
+    "enemyMoveSpeedMax": 1,
+    "enemyMoveType": 3,
+    "enemyMovePreferArrow": 2
+  },
+  {
+    "id": 40107005,
+    "nameKey": "enemy_5",
+    "url": "enemy_P05",
+    "colorType": "default",
+    "killEnemyScore": 250,
+    "enemyMoveSpeedMin": 0.5,
+    "enemyMoveSpeedMax": 2,
+    "enemyMoveType": 4,
+    "enemyMovePreferArrow": 0
+  },
+  {
+    "id": 40107006,
+    "nameKey": "enemy_6",
+    "url": "enemy_P06",
+    "colorType": "default",
+    "killEnemyScore": 150,
+    "enemyMoveSpeedMin": 1,
+    "enemyMoveSpeedMax": 2,
+    "enemyMoveType": 1,
+    "enemyMovePreferArrow": 0
+  },
+  {
+    "id": 40107007,
+    "nameKey": "enemy_7",
+    "url": "enemy_P07",
+    "colorType": "default",
+    "killEnemyScore": 250,
+    "enemyMoveSpeedMin": 3,
+    "enemyMoveSpeedMax": 3,
+    "enemyMoveType": 2,
+    "enemyMovePreferArrow": 0
+  },
+  {
+    "id": 40107008,
+    "nameKey": "enemy_8",
+    "url": "enemy_P08",
+    "colorType": "default",
+    "killEnemyScore": 150,
+    "enemyMoveSpeedMin": 3,
+    "enemyMoveSpeedMax": 3,
+    "enemyMoveType": 1,
+    "enemyMovePreferArrow": 0
+  },
+  {
+    "id": 40107009,
+    "nameKey": "enemy_9",
+    "url": "enemy_P09",
+    "colorType": "default",
+    "killEnemyScore": 250,
+    "enemyMoveSpeedMin": 2,
+    "enemyMoveSpeedMax": 2,
+    "enemyMoveType": 1,
+    "enemyMovePreferArrow": 0
+  },
+  {
+    "id": 40107010,
+    "nameKey": "enemy_10",
+    "url": "enemy_P10",
+    "colorType": "default",
+    "killEnemyScore": 150,
+    "enemyMoveSpeedMin": 2,
+    "enemyMoveSpeedMax": 3,
+    "enemyMoveType": 4,
+    "enemyMovePreferArrow": 0
+  },
+  {
+    "id": 40107011,
+    "nameKey": "enemy_11",
+    "url": "enemy_P11",
+    "colorType": "default",
+    "killEnemyScore": 250,
+    "enemyMoveSpeedMin": 1,
+    "enemyMoveSpeedMax": 2,
+    "enemyMoveType": 1,
+    "enemyMovePreferArrow": 0
+  },
+  {
+    "id": 40107012,
+    "nameKey": "enemy_12",
+    "url": "enemy_P12",
+    "colorType": "default",
+    "killEnemyScore": 150,
+    "enemyMoveSpeedMin": 1,
+    "enemyMoveSpeedMax": 2,
+    "enemyMoveType": 2,
+    "enemyMovePreferArrow": 0
+  },
+  {
+    "id": 40107013,
+    "nameKey": "enemy_13",
+    "url": "enemy_P13",
+    "colorType": "default",
+    "killEnemyScore": 300,
+    "enemyMoveSpeedMin": 1,
+    "enemyMoveSpeedMax": 4,
+    "enemyMoveType": 0,
+    "enemyMovePreferArrow": 1
+  },
+  {
+    "id": 40107014,
+    "nameKey": "enemy_14",
+    "url": "enemy_P14",
+    "colorType": "default",
+    "killEnemyScore": 300,
+    "enemyMoveSpeedMin": 2,
+    "enemyMoveSpeedMax": 3,
+    "enemyMoveType": 4,
+    "enemyMovePreferArrow": 0
+  }
+]

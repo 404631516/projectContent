@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "target": "es6",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "strict": true,
+        "resolveJsonModule":true,
+        "outDir": "dist",
+        "baseUrl": "./src",
+        "paths": {
+            "@ionet/*": [
+                "../../../ionet/*"
+            ],
+        }
+    },
+    "lib": [
+        "es2015"
+    ],
+    "exclude":[
+        "src/Games/BrickBreaker/Map/Tileset.tsx"
+    ]
+}

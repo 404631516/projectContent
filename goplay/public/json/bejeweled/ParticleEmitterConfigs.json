@@ -1,0 +1,52 @@
+[
+  {
+    "name": "ParticleEmitterGem",
+    "emitting": false,
+    "frame": ["red", "blue"],
+    "alpha": {
+      "start": 0.5,
+      "end": 0
+    },
+    "scale": {
+      "start": 0.5,
+      "end": 0
+    },
+    "speed": {
+      "min": -800,
+      "max": 800
+    },
+    "angle": {
+      "min": 0,
+      "max": 360
+    },
+    "rotate": {
+      "min": -180,
+      "max": 180
+    },
+    "lifespan": 600,
+    "blendMode": "Phaser.BlendModes.NORMAL",
+    "gravityY": 800
+  },
+  {
+    "name": "ParticleEmitterGemBomb",
+    "emitting": false,
+    "frame": ["green", "white", "yellow"],
+    "alpha": {
+      "start": 0.5,
+      "end": 0
+    },
+    "scale": 0.4,
+    "speed": 300,
+    "angle": {
+      "min": 0,
+      "max": 360
+    },
+    "rotate": {
+      "min": -180,
+      "max": 180
+    },
+    "lifespan": 800,
+    "blendMode": "Phaser.BlendModes.NORMAL",
+    "gravityY": 400
+  }
+]

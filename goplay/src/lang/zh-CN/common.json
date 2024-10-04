@@ -1,0 +1,22 @@
+{
+  "backMenu": "返回选单",
+  "back": "返回",
+  "signIn": "登入",
+  "confirm": "确认",
+  "cancel": "取消",
+  "warning": "警告",
+  "errorMsg": "错误讯息",
+  "message": "讯息",
+  "QuizInfo": "资讯区",
+  "QuizRule": "游戏规则",
+  "QuizInfoContent": "规则说明",
+  "Question": "题",
+  "Score": "得分",
+  "Close": "关闭",
+  "pleaseAccount": "请输入帐号",
+  "pleasePwd": "请输入密码",
+  "suceesSign": "登入成功",
+  "signPage": "登入页面",
+  "account": "帐号",
+  "pwd": "密码"
+}

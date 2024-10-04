@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nameKey": "snake_item_brocoliGenerator",
+    "contentKey": "snake_content_brocoliGenerator",
+    "energy": 900,
+    "generateSnakeFoodId": 5,
+    "url": "item_brocoliGenerator.png"
+  },
+  {
+    "id": 2,
+    "nameKey": "snake_item_trashCanGenerator",
+    "contentKey": "snake_content_trashCanGenerator",
+    "energy": 600,
+    "generateSnakeFoodId": 6,
+    "url": "item_trashCanGenerator.png"
+  },
+  {
+    "id": 3,
+    "nameKey": "snake_item_sportTicketGenerator",
+    "contentKey": "snake_content_sportTicketGenerator",
+    "energy": 400,
+    "generateSnakeFoodId": 7,
+    "url": "item_sportTicketGenerator.png"
+  },
+  {
+    "id": 4,
+    "nameKey": "snake_item_slowMotionGenerator",
+    "contentKey": "snake_content_slowMotionGenerator",
+    "energy": 200,
+    "generateSnakeFoodId": 8,
+    "url": "item_slowMotionGenerator.png"
+  }
+]

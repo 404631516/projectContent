@@ -1,0 +1,224 @@
+.btn-game-back {
+  color: #061f74 !important;
+  background-color: #6599ff !important;
+  border: none !important;
+  box-shadow: 0px 5px 10px #0000004d !important;
+  border-radius: 20px !important;
+  width: 80%;
+  height: 37px;
+}
+.btn-game-back:hover {
+  background: #6599ff;
+  color: #061f74;
+}
+.btn-game-back:active {
+  background: #6599ff;
+  color: #061f74;
+}
+.btn-game-back:focus {
+  background: #6599ff;
+  color: #061f74;
+}
+
+.btn-game-again {
+  color: #613c0a !important;
+  background-color: #ffde39 !important;
+  border: none !important;
+  border-radius: 20px !important;
+  box-shadow: 0px 5px 10px #0000004d !important;
+  width: 80%;
+  height: 37px;
+}
+.btn-game-again:hover {
+  background: #ffde39;
+  color: #613c0a;
+}
+.btn-game-again:active {
+  background: #ffde39;
+  color: #613c0a;
+}
+.btn-game-again:focus {
+  background: #ffde39;
+  color: #613c0a;
+}
+
+.btn-game-detail {
+  color: #1d6563 !important;
+  background-color: #39ffeb !important;
+  border: none !important;
+  box-shadow: 0px 5px 10px #0000004d !important;
+  border-radius: 20px !important;
+  height: 37px;
+}
+.btn-game-detail:hover {
+  background: #39ffeb;
+  color: #1d6563;
+}
+.btn-game-detail:active {
+  background: #39ffeb;
+  color: #1d6563;
+}
+.btn-game-detail:focus {
+  background: #39ffeb;
+  color: #1d6563;
+}
+
+.btn-info-view {
+  color: #fff !important;
+  background-color: #3b8f95 !important;
+  border: none !important;
+  box-shadow: 0px 5px 10px #0000004d !important;
+  border-radius: 20px !important;
+  width: 80%;
+  height: 30px;
+}
+.btn-info-view:hover {
+  background: #3b8f95;
+  color: #fff;
+}
+.btn-info-view:active {
+  background: #3b8f95;
+  color: #fff;
+}
+.btn-info-view:focus {
+  background: #3b8f95;
+  color: #fff;
+}
+
+.btn-info-cancel {
+  color: #8f1b1b !important;
+  background-color: #ff7777 !important;
+  border: none !important;
+  box-shadow: 0px 5px 10px #0000004d !important;
+  border-radius: 20px !important;
+  width: 80%;
+  height: 37px;
+}
+.btn-info-cancel:hover {
+  background: #ff7777;
+  color: #8f1b1b;
+}
+.btn-info-cancel:active {
+  background: #ff7777;
+  color: #8f1b1b;
+}
+.btn-info-cancel:focus {
+  background: #ff7777;
+  color: #8f1b1b;
+}
+
+.btn-info-chang {
+  color: #fff !important;
+  background-color: #47d800d9 !important;
+  border: none !important;
+  box-shadow: 0px 3px 6px #000000e0 !important;
+  border-radius: 30px !important;
+  border: 2px solid #ffffff;
+  width: 88%;
+  height: 32px;
+  line-height: 32px;
+}
+.btn-info-chang:hover {
+  background: #47d800d9;
+  color: #fff;
+}
+.btn-info-chang:active {
+  background: #47d800d9;
+  color: #fff;
+}
+.btn-info-chang:focus {
+  background: #47d800d9;
+  color: #fff;
+}
+
+.btn-info-chang-active {
+  color: #ffde39 !important;
+  background-color: #000000cc !important;
+  border: none !important;
+  border-radius: 30px !important;
+  border: 2px solid #ffffff;
+  width: 88%;
+  height: 32px;
+  line-height: 32px;
+}
+.btn-info-chang-active:hover {
+  background: #000000cc;
+  color: #fff;
+}
+.btn-info-chang-active:active {
+  background: #000000cc;
+  color: #fff;
+}
+.btn-info-chang-active:focus {
+  background: #000000cc;
+  color: #fff;
+}
+
+.btn-go-adl {
+  color: #155e26 !important;
+  background-color: #18cb18 !important;
+  border-radius: 30px !important;
+}
+.btn-go-adl:hover {
+  background: #18cb18;
+  color: #155e26;
+}
+.btn-go-adl:active {
+  background: #18cb18;
+  color: #155e26;
+}
+.btn-go-adl:focus {
+  background: #18cb18;
+  color: #155e26;
+}
+
+.btn-weapon-remove {
+  color: #fff !important;
+  background-color: #da3752cc !important;
+  border: none !important;
+  border-radius: 30px !important;
+  border: 2px solid #ffffff;
+  width: 80%;
+  height: 37px;
+}
+.btn-weapon-remove:hover {
+  background: #da3752cc;
+  color: #fff;
+}
+.btn-weapon-remove:active {
+  background: #da3752cc;
+  color: #fff;
+}
+.btn-weapon-remove:focus {
+  background: #da3752cc;
+  color: #fff;
+}
+
+.yellow-btn-style {
+  cursor: pointer;
+  height: 72px;
+  line-height: 72px;
+  background-color: #ffde39;
+  box-shadow: 0px 5px 10px #0000004d;
+  border-radius: 20px;
+  color: #613c0a;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 23px;
+}
+@media (min-width: 426px) and (max-width: 1024px) {
+  .yellow-btn-style {
+    height: 43px;
+    line-height: 43px;
+    font-size: 24px;
+    margin-bottom: 12px;
+  }
+}
+@media (max-width: 435px) {
+  .yellow-btn-style {
+    height: 28px;
+    line-height: 28px;
+    font-size: 14px;
+    margin-bottom: 16px;
+  }
+}

@@ -1,0 +1,8 @@
+<svg id="move" xmlns="http://www.w3.org/2000/svg" width="27" height="16" viewBox="0 0 27 16">
+  <circle id="Ellipse_40" data-name="Ellipse 40" cx="3.5" cy="3.5" r="3.5" fill="#cfcfcf"/>
+  <circle id="Ellipse_45" data-name="Ellipse 45" cx="3.5" cy="3.5" r="3.5" transform="translate(0 9)" fill="#cfcfcf"/>
+  <circle id="Ellipse_41" data-name="Ellipse 41" cx="3.5" cy="3.5" r="3.5" transform="translate(10)" fill="#cfcfcf"/>
+  <circle id="Ellipse_44" data-name="Ellipse 44" cx="3.5" cy="3.5" r="3.5" transform="translate(10 9)" fill="#cfcfcf"/>
+  <circle id="Ellipse_42" data-name="Ellipse 42" cx="3.5" cy="3.5" r="3.5" transform="translate(20)" fill="#cfcfcf"/>
+  <circle id="Ellipse_43" data-name="Ellipse 43" cx="3.5" cy="3.5" r="3.5" transform="translate(20 9)" fill="#cfcfcf"/>
+</svg>

@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1000,
+    "nameKey": "hamster_defense_item_1",
+    "name": "盾牌",
+    "contentKey": "hamster_defense_content_1",
+    "energy": 75,
+    "url": "hamster_defense_01.png"
+  }
+]

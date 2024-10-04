@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nameKey": "章魚",
+    "hp": "1",
+    "hurtScaleToWidth": "2"
+  },
+  {
+    "id": 2,
+    "nameKey": "機器人",
+    "hp": "2",
+    "hurtScaleToWidth": "2"
+  },
+  {
+    "id": 3,
+    "nameKey": "蟲",
+    "hp": "3",
+    "hurtScaleToWidth": "3"
+  },
+  {
+    "id": 4,
+    "nameKey": "章魚",
+    "hp": "4",
+    "hurtScaleToWidth": "2"
+  },
+  {
+    "id": 5,
+    "nameKey": "機器人",
+    "hp": "5",
+    "hurtScaleToWidth": "2"
+  },
+  {
+    "id": 6,
+    "nameKey": "蟲",
+    "hp": "6",
+    "hurtScaleToWidth": "3"
+  }
+]

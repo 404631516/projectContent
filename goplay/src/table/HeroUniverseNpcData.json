@@ -1,0 +1,267 @@
+[
+  {
+    "id": 9999,
+    "name": "每日任務小精靈",
+    "effectId": 9999
+  },
+  {
+    "id": 1,
+    "name": "魔化紅孩兒",
+    "effectId": 1
+  },
+  {
+    "id": 2,
+    "name": "蝙蝠巧巧",
+    "effectId": 2
+  },
+  {
+    "id": 3,
+    "name": "魔化六耳",
+    "effectId": 3
+  },
+  {
+    "id": 4,
+    "name": "神秘導師",
+    "effectId": 4
+  },
+  {
+    "id": 5,
+    "name": "靈魂守護者",
+    "effectId": 5
+  },
+  {
+    "id": 6,
+    "name": "表演者奧斯卡",
+    "effectId": 6
+  },
+  {
+    "id": 7,
+    "name": "魔化孫悟空",
+    "effectId": 7
+  },
+  {
+    "id": 8,
+    "name": "兔兔冬冬",
+    "effectId": 8
+  },
+  {
+    "id": 9,
+    "name": "長老艾琳娜",
+    "effectId": 9
+  },
+  {
+    "id": 10,
+    "name": "幽冥霸主",
+    "effectId": 10
+  },
+  {
+    "id": 11,
+    "name": "甜心女巫",
+    "effectId": 11
+  },
+  {
+    "id": 12,
+    "name": "南瓜女王",
+    "effectId": 12
+  },
+  {
+    "id": 13,
+    "name": "龜龜賽車手",
+    "effectId": 13
+  },
+  {
+    "id": 14,
+    "name": "宇宙多基",
+    "effectId": 14
+  },
+  {
+    "id": 15,
+    "name": "宇宙桃鬼太郎",
+    "effectId": 15
+  },
+  {
+    "id": 16,
+    "name": "宇宙芭蕉女",
+    "effectId": 16
+  },
+  {
+    "id": 17,
+    "name": "宇宙普蘭婆婆",
+    "effectId": 17
+  },
+  {
+    "id": 18,
+    "name": "宇宙普拉迪博士",
+    "effectId": 18
+  },
+  {
+    "id": 19,
+    "name": "宇宙木偶貓小雪",
+    "effectId": 19
+  },
+  {
+    "id": 20,
+    "name": "宇宙年獸",
+    "effectId": 20
+  },
+  {
+    "id": 21,
+    "name": "宇宙牛魔王",
+    "effectId": 21
+  },
+  {
+    "id": 22,
+    "name": "宇宙男孩拉賈特",
+    "effectId": 22
+  },
+  {
+    "id": 23,
+    "name": "宇宙灰狼阿塔爾",
+    "effectId": 23
+  },
+  {
+    "id": 24,
+    "name": "宇宙兔兔迪拉吉",
+    "effectId": 24
+  },
+  {
+    "id": 25,
+    "name": "宇宙聖誕精靈",
+    "effectId": 25
+  },
+  {
+    "id": 26,
+    "name": "宇宙聖誕隊長",
+    "effectId": 26
+  },
+  {
+    "id": 27,
+    "name": "宇宙孫悟空",
+    "effectId": 27
+  },
+  {
+    "id": 28,
+    "name": "宇宙紅孩兒",
+    "effectId": 28
+  },
+  {
+    "id": 29,
+    "name": "宇宙光輝悟空",
+    "effectId": 29
+  },
+  {
+    "id": 30,
+    "name": "宇宙阿努比斯",
+    "effectId": 30
+  },
+  {
+    "id": 31,
+    "name": "宇宙雪兔瑞彼特",
+    "effectId": 31
+  },
+  {
+    "id": 32,
+    "name": "宇宙麋鹿女神",
+    "effectId": 32
+  },
+  {
+    "id": 33,
+    "name": "紫影婆婆",
+    "effectId": 33
+  },
+  {
+    "id": 34,
+    "name": "紅髮海盜羅傑",
+    "effectId": 34
+  },
+  {
+    "id": 35,
+    "name": "小勇士艾瑞克",
+    "effectId": 35
+  },
+  {
+    "id": 36,
+    "name": "法師莫格",
+    "effectId": 36
+  },
+  {
+    "id": 37,
+    "name": "礦工漢克",
+    "effectId": 37
+  },
+  {
+    "id": 38,
+    "name": "農場主露西",
+    "effectId": 38
+  },
+  {
+    "id": 39,
+    "name": "海洋之子",
+    "effectId": 39
+  },
+  {
+    "id": 40,
+    "name": "修女瑪麗安",
+    "effectId": 40
+  },
+  {
+    "id": 41,
+    "name": "女僕艾瑪",
+    "effectId": 41
+  },
+  {
+    "id": 42,
+    "name": "美食大廚",
+    "effectId": 42
+  },
+  {
+    "id": 43,
+    "name": "飛行少年艾德",
+    "effectId": 43
+  },
+  {
+    "id": 44,
+    "name": "狂刃小狼",
+    "effectId": 44
+  },
+  {
+    "id": 45,
+    "name": "勇士亞瑟",
+    "effectId": 45
+  },
+  {
+    "id": 46,
+    "name": "牛仔傑克",
+    "effectId": 46
+  },
+  {
+    "id": 47,
+    "name": "雪燈女孩",
+    "effectId": 47
+  },
+  {
+    "id": 48,
+    "name": "和平王子",
+    "effectId": 48
+  },
+  {
+    "id": 49,
+    "name": "暗影醫者",
+    "effectId": 49
+  },
+  {
+    "id": 50,
+    "name": "畫家莉娜",
+    "effectId": 50
+  },
+  {
+    "id": 51,
+    "name": "夫人薇薇安",
+    "effectId": 51
+  },
+  {
+    "id": 52,
+    "name": "紳士埃德加",
+    "effectId": 52
+  }
+]

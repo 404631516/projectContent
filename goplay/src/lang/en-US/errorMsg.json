@@ -1,0 +1,7 @@
+{
+  "noPage": "cannot find page",
+  "serveError": "serve error",
+  "serveFail": "serve fail",
+  "connectError": "connection error",
+  "connectFail": "connection fail"
+}

@@ -1,0 +1,22 @@
+.weapon-content .el-popover {
+  background-color: #060606fa !important;
+  border: none;
+  color: #fff !important;
+}
+
+.weapon-item-content-wrapper {
+  border: none !important;
+  border-radius: 30px !important;
+  font-size: 32px !important;
+}
+.weapon-item-content-wrapper .el-dialog__header {
+  color: #ffde39;
+  text-align: center;
+  border-bottom: 1px solid #808080;
+  margin: 0 15px;
+}
+.weapon-item-content-wrapper .el-dialog {
+  min-height: auto !important;
+  background-color: #4b4b4b;
+  border-radius: 30px;
+}

@@ -1,0 +1,201 @@
+/* desktops */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .planet-wrapper .point-box .unlocked-box {
+    top: -6vh !important;
+  }
+  .planet-wrapper .planetlist-box .planetlist-bottom .bottom-box .weapon-pos {
+    width: 90% !important;
+  }
+
+  .game-card-wrapper {
+    padding: 2vw !important;
+  }
+
+  .game-detail-wrapper .dare-wrapper {
+    height: auto !important;
+  }
+}
+/* tablets */
+@media (max-width: 768px) {
+  .planet-wrapper .point-box .unlocked-box {
+    top: -6vh !important;
+  }
+  .planet-wrapper .planetlist-box .planetlist-bottom .bottom-box .weapon-pos {
+    width: 90% !important;
+  }
+  .planet-wrapper .hero-avatar-wrapper .hero-text {
+    font-size: 20px;
+  }
+
+  .game-detail-wrapper .dare-wrapper {
+    background-size: contain !important;
+    padding: 0 !important;
+    border-radius: 4vw !important;
+  }
+  .game-detail-wrapper .content-area .note-adl-area {
+    width: 70%;
+    font-size: 16px;
+  }
+
+  .list-msg-warpper .btn-box .el-button {
+    width: 100%;
+  }
+
+  .flash-shop-footer .place-props-area {
+    width: 100% !important;
+  }
+
+  .devil-board-wrapper .title-area {
+    font-size: initial !important;
+  }
+  .devil-board-wrapper .title-area p {
+    font-size: 16px !important;
+  }
+  .devil-board-wrapper .title-area p span {
+    font-size: 20px !important;
+  }
+
+  .flash-shop-wapper .el-dialog {
+    width: 100% !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .game-detail-wrapper .dare-box {
+    width: 100%;
+  }
+  .game-detail-wrapper .dare-box .dare-wrapper {
+    height: auto !important;
+    padding: 0 !important;
+    background-size: contain !important;
+    border-radius: 4vw !important;
+  }
+  .game-detail-wrapper .content-area .rank-box {
+    width: 90% !important;
+  }
+  .game-detail-wrapper .content-area .rank-box .myrank-box {
+    font-size: 16px !important;
+    overflow: auto;
+  }
+  .game-detail-wrapper .content-area .rank-box .rank-new .rank-body .list {
+    font-size: 16px;
+  }
+  .game-detail-wrapper .content-area .note-adl-area {
+    width: 70%;
+    font-size: 16px;
+  }
+
+  .list-msg-warpper .btn-box .el-button {
+    width: 100%;
+  }
+
+  .flash-shop-footer .place-props-area {
+    width: 100% !important;
+  }
+
+  .devil-board-wrapper .title-area {
+    font-size: initial !important;
+  }
+  .devil-board-wrapper .title-area p {
+    font-size: 16px !important;
+  }
+  .devil-board-wrapper .title-area p span {
+    font-size: 20px !important;
+  }
+}
+/* phones */
+@media (max-width: 575.98px) {
+  .planet-wrapper .hero-avatar-wrapper .hero-text {
+    font-size: 20px;
+  }
+
+  .el-message-box__wrapper {
+    top: 40vh !important;
+  }
+
+  .menu-warpper .el-drawer__open .el-drawer.ltr {
+    width: 100% !important;
+  }
+
+  .game-card-wrapper {
+    padding: 0;
+  }
+
+  .game-detail-wrapper .content-area h2 {
+    font-size: 16px !important;
+  }
+  .game-detail-wrapper .content-area .dare-box {
+    width: 90% !important;
+    padding: 2vw;
+    margin: 2vh auto !important;
+  }
+  .game-detail-wrapper .content-area .dare-box .dare-wrapper {
+    width: 98%;
+    border-radius: 6vw !important;
+    background-size: cover !important;
+  }
+  .game-detail-wrapper .content-area .dare-box .dare-wrapper .title-area {
+    font-size: 24px;
+    height: auto !important;
+  }
+  .game-detail-wrapper .content-area .hero-bar .hero-avatar-wrapper {
+    width: 90%;
+  }
+  .game-detail-wrapper .content-area .hero-bar .hero-avatar-wrapper .hero-text .small {
+    font-size: 14px;
+  }
+  .game-detail-wrapper .content-area .hero-bar .hero-avatar-wrapper .hero-text p {
+    font-size: 16px;
+  }
+  .game-detail-wrapper .content-area .hero-bar .hero-avatar-wrapper .level-area {
+    font-size: 24px;
+  }
+  .game-detail-wrapper .content-area .hero-bar .hero-avatar-wrapper .btn-area {
+    margin: 1vh 10vw 0 0;
+  }
+  .game-detail-wrapper .content-area .rank-box {
+    width: 90% !important;
+  }
+  .game-detail-wrapper .content-area .rank-box .myrank-box {
+    font-size: 16px !important;
+    overflow: auto;
+  }
+  .game-detail-wrapper .content-area .rank-box .rank-new .rank-body .list {
+    font-size: 16px;
+  }
+  .game-detail-wrapper .content-area .note-adl-area {
+    width: 70%;
+    font-size: 16px;
+  }
+
+  .backend-wrapper .tab-content {
+    overflow: auto;
+    margin-bottom: 10vh;
+  }
+  .backend-wrapper .tab-area {
+    margin: 2vw;
+  }
+  .backend-wrapper .game-card-wrapper .el-card,
+.backend-wrapper .game-card-wrapper .add-card {
+    height: auto;
+  }
+  .backend-wrapper .add-box {
+    height: 35vh;
+  }
+  .backend-wrapper .add-box .add-card {
+    height: 35vh;
+  }
+
+  .h5-box .game-answer .item-box .item-pos {
+    width: 85%;
+  }
+  .h5-box .game-answer .item-box .item-pos .btn-1 {
+    font-size: 14px;
+  }
+  .h5-box .game-answer .item-box .item-pos .btn-1 > span.set0::after, .h5-box .game-answer .item-box .item-pos .btn-1 > span.set1::after, .h5-box .game-answer .item-box .item-pos .btn-1 > span.set2::after, .h5-box .game-answer .item-box .item-pos .btn-1 > span.set3::after {
+    font-size: 24px;
+  }
+
+  .game-rueslt-warpper .el-dialog__header {
+    font-size: 20px;
+  }
+}

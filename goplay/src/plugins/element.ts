@@ -1,0 +1,109 @@
+import Vue from 'vue';
+import {
+  Button,
+  ButtonGroup,
+  Container,
+  Header,
+  Footer,
+  Aside,
+  Main,
+  Row,
+  Col,
+  Menu,
+  Submenu,
+  MenuItem,
+  MenuItemGroup,
+  Breadcrumb,
+  BreadcrumbItem,
+  Message,
+  MessageBox,
+  Table,
+  TableColumn,
+  Tabs,
+  TabPane,
+  Tooltip,
+  Dialog,
+  Checkbox,
+  Collapse,
+  CollapseItem,
+  Divider,
+  CheckboxGroup,
+  Popover,
+  Form,
+  FormItem,
+  Input,
+  Select,
+  Option,
+  DatePicker,
+  TimeSelect,
+  TimePicker,
+  Switch,
+  Radio,
+  RadioGroup,
+  Loading,
+  Pagination,
+  Drawer,
+  Card,
+  Carousel,
+  CarouselItem,
+  Progress,
+  Upload,
+  ColorPicker,
+  InputNumber,
+} from 'element-ui';
+Vue.use(Card);
+Vue.use(Button);
+Vue.use(ButtonGroup);
+Vue.use(Container);
+Vue.use(Header);
+Vue.use(Footer);
+Vue.use(Aside);
+Vue.use(Main);
+Vue.use(Row);
+Vue.use(Col);
+Vue.use(Menu);
+Vue.use(Submenu);
+Vue.use(MenuItem);
+Vue.use(MenuItemGroup);
+Vue.use(Breadcrumb);
+Vue.use(BreadcrumbItem);
+Vue.use(Table);
+Vue.use(TableColumn);
+Vue.use(Tooltip);
+Vue.use(Dialog);
+Vue.use(Checkbox);
+Vue.use(Collapse);
+Vue.use(CollapseItem);
+Vue.use(Divider);
+Vue.use(Drawer);
+Vue.use(CheckboxGroup);
+Vue.use(Tabs);
+Vue.use(TabPane);
+Vue.use(Popover);
+Vue.use(Form);
+Vue.use(FormItem);
+Vue.use(Input);
+Vue.use(Select);
+Vue.use(Option);
+Vue.use(DatePicker);
+Vue.use(Switch);
+Vue.use(Radio);
+Vue.use(RadioGroup);
+Vue.use(Loading);
+Vue.use(Pagination);
+Vue.use(Carousel);
+Vue.use(CarouselItem);
+Vue.use(Progress);
+Vue.use(TimeSelect);
+Vue.use(Loading.directive);
+Vue.use(Upload);
+Vue.use(TimePicker);
+Vue.use(ColorPicker);
+Vue.use(InputNumber);
+
+Vue.prototype.$msgbox = MessageBox;
+Vue.prototype.$message = Message;
+Vue.prototype.$alert = MessageBox.alert;
+Vue.prototype.$confirm = MessageBox.confirm;
+Vue.prototype.$prompt = MessageBox.prompt;
+Vue.prototype.$loading = Loading.service;

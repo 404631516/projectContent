@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "playerDefaultHealth": 3,
+    "targetScore": 800,
+    "normalAttackInterval": 200,
+    "playerStartPositionY": 300,
+    "playerVelocity": 250,
+    "slowDownTimeScale": 0.5,
+    "slowDownEnemiesSeconds": 10,
+    "enemyFireIntervalMin": 4000,
+    "enemyFireIntervalMax": 10000,
+    "enemyBulletSpeed": 120,
+    "playerBulletSpeed": 420,
+    "scorePerEnemy": 20,
+    "invincibleTimeOnHit": 3,
+    "invincibleTimeUseItem": 15,
+    "circleExplodeRange": 200,
+    "lineExplodeWidth": 100
+  }
+]

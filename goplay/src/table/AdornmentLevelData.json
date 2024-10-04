@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "nextLevelPoint": 0,
+    "unlockBigRoomQuota": 1,
+    "unlockSmallRoomQuota": 0
+  },
+  {
+    "id": 2,
+    "nextLevelPoint": 3000,
+    "unlockBigRoomQuota": 0,
+    "unlockSmallRoomQuota": 1
+  },
+  {
+    "id": 3,
+    "nextLevelPoint": 36000,
+    "unlockBigRoomQuota": 0,
+    "unlockSmallRoomQuota": 1
+  },
+  {
+    "id": 4,
+    "nextLevelPoint": 72000,
+    "unlockBigRoomQuota": 1,
+    "unlockSmallRoomQuota": 0
+  },
+  {
+    "id": 5,
+    "nextLevelPoint": 132000,
+    "unlockBigRoomQuota": 0,
+    "unlockSmallRoomQuota": 1
+  },
+  {
+    "id": 6,
+    "nextLevelPoint": 300000,
+    "unlockBigRoomQuota": 0,
+    "unlockSmallRoomQuota": 1
+  },
+  {
+    "id": 7,
+    "nextLevelPoint": 408000,
+    "unlockBigRoomQuota": 1,
+    "unlockSmallRoomQuota": 0
+  },
+  {
+    "id": 8,
+    "nextLevelPoint": 480000,
+    "unlockBigRoomQuota": 0,
+    "unlockSmallRoomQuota": 1
+  },
+  {
+    "id": 9,
+    "nextLevelPoint": 528000,
+    "unlockBigRoomQuota": 0,
+    "unlockSmallRoomQuota": 1
+  },
+  {
+    "id": 10,
+    "nextLevelPoint": 576000,
+    "unlockBigRoomQuota": 1,
+    "unlockSmallRoomQuota": 0
+  },
+  {
+    "id": 11,
+    "nextLevelPoint": 624000,
+    "unlockBigRoomQuota": 0,
+    "unlockSmallRoomQuota": 1
+  },
+  {
+    "id": 12,
+    "nextLevelPoint": 672000,
+    "unlockBigRoomQuota": 0,
+    "unlockSmallRoomQuota": 1
+  },
+  {
+    "id": 13,
+    "nextLevelPoint": 720000,
+    "unlockBigRoomQuota": 1,
+    "unlockSmallRoomQuota": 0
+  },
+  {
+    "id": 14,
+    "nextLevelPoint": 780000,
+    "unlockBigRoomQuota": 0,
+    "unlockSmallRoomQuota": 1
+  },
+  {
+    "id": 15,
+    "nextLevelPoint": 840000,
+    "unlockBigRoomQuota": 0,
+    "unlockSmallRoomQuota": 1
+  },
+  {
+    "id": 16,
+    "nextLevelPoint": 900000,
+    "unlockBigRoomQuota": 1,
+    "unlockSmallRoomQuota": 0
+  },
+  {
+    "id": 17,
+    "nextLevelPoint": 960000,
+    "unlockBigRoomQuota": 0,
+    "unlockSmallRoomQuota": 1
+  },
+  {
+    "id": 18,
+    "nextLevelPoint": 1020000,
+    "unlockBigRoomQuota": 0,
+    "unlockSmallRoomQuota": 1
+  },
+  {
+    "id": 19,
+    "nextLevelPoint": 1080000,
+    "unlockBigRoomQuota": 1,
+    "unlockSmallRoomQuota": 0
+  },
+  {
+    "id": 20,
+    "nextLevelPoint": 1140000,
+    "unlockBigRoomQuota": 0,
+    "unlockSmallRoomQuota": 1
+  },
+  {
+    "id": 21,
+    "nextLevelPoint": 1200000,
+    "unlockBigRoomQuota": 0,
+    "unlockSmallRoomQuota": 1
+  },
+  {
+    "id": 22,
+    "nextLevelPoint": 1260000,
+    "unlockBigRoomQuota": 1,
+    "unlockSmallRoomQuota": 0
+  },
+  {
+    "id": 23,
+    "nextLevelPoint": 1320000,
+    "unlockBigRoomQuota": 0,
+    "unlockSmallRoomQuota": 1
+  },
+  {
+    "id": 24,
+    "nextLevelPoint": 1380000,
+    "unlockBigRoomQuota": 0,
+    "unlockSmallRoomQuota": 1
+  }
+]

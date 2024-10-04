@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ParticleEmitterSpray",
+    "speed": 50,
+    "lifespan": 500,
+    "scale": {
+      "start": 0.3,
+      "end": 0
+    },
+    "blendMode": "ADD",
+    "gravityX": 980,
+    "visible": false
+  }
+]

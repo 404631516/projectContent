@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "nameKey": "brickBreaker_mapItem_breakableBrick",
+    "itemType": 1,
+    "contentKey": "brickBreaker_mapItem_breakableBrick_content",
+    "imgUrl": "breakableBrick.png"
+  },
+  {
+    "id": 2,
+    "nameKey": "brickBreaker_mapItem_unbreakableBrick",
+    "itemType": 1,
+    "contentKey": "brickBreaker_mapItem_unbreakableBrick_content",
+    "imgUrl": "unbreakableBrick.png"
+  },
+  {
+    "id": 3,
+    "nameKey": "brickBreaker_mapItem_bossTentacle",
+    "itemType": 2,
+    "contentKey": "brickBreaker_mapItem_bossTentacle_content",
+    "imgUrl": "bossTentacle.png"
+  },
+  {
+    "id": 4,
+    "nameKey": "brickBreaker_mapItem_treasureBox",
+    "itemType": 2,
+    "contentKey": "brickBreaker_mapItem_treasureBox_content",
+    "imgUrl": "treasureBox.png"
+  },
+  {
+    "id": 5,
+    "nameKey": "brickBreaker_mapItem_ballista",
+    "itemType": 3,
+    "contentKey": "brickBreaker_mapItem_ballista_content",
+    "imgUrl": "ballista.png"
+  },
+  {
+    "id": 6,
+    "nameKey": "brickBreaker_mapItem_teleportProtect",
+    "itemType": 4,
+    "contentKey": "brickBreaker_mapItem_teleportProtect_content",
+    "imgUrl": "teleportProtect.png"
+  },
+  {
+    "id": 7,
+    "nameKey": "brickBreaker_mapItem_horn",
+    "itemType": 4,
+    "contentKey": "brickBreaker_mapItem_horn_content",
+    "imgUrl": "horn.png"
+  },
+  {
+    "id": 8,
+    "nameKey": "brickBreaker_mapItem_shuriken",
+    "itemType": 4,
+    "contentKey": "brickBreaker_mapItem_shuriken_content",
+    "imgUrl": "shuriken.png"
+  },
+  {
+    "id": 9,
+    "nameKey": "brickBreaker_mapItem_powerUp",
+    "itemType": 4,
+    "contentKey": "brickBreaker_mapItem_powerUp_content",
+    "imgUrl": "powerUp.png"
+  },
+  {
+    "id": 10,
+    "nameKey": "brickBreaker_mapItem_powerUp9",
+    "itemType": 4,
+    "contentKey": "brickBreaker_mapItem_powerUp9_content",
+    "imgUrl": "powerUp9.png"
+  },
+  {
+    "id": 11,
+    "nameKey": "brickBreaker_mapItem_powerUpAll",
+    "itemType": 4,
+    "contentKey": "brickBreaker_mapItem_powerUpAll_content",
+    "imgUrl": "powerUpAll.png"
+  },
+  {
+    "id": 12,
+    "nameKey": "brickBreaker_mapItem_freezeProtect",
+    "itemType": 4,
+    "contentKey": "brickBreaker_mapItem_freezeProtect_content",
+    "imgUrl": "freezeProtect.png"
+  }
+]

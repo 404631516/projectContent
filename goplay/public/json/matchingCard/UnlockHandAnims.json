@@ -1,0 +1,10 @@
+{
+    "anims": [
+        {
+            "key": "UnlockHandClick",
+            "frames": "UnlockHandSprite",
+            "frameRate": 38,
+            "repeat": -1
+        }
+    ]
+}

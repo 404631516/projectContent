@@ -1,0 +1,39 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "strict": true,
+    "jsx": "preserve",
+    "importHelpers": true,
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "strictPropertyInitialization": false,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "baseUrl": ".",
+    "types": ["webpack-env"],
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "lib": ["esnext", "dom", "dom.iterable", "scripthost"]
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "src/**/*.vue",
+    "tests/**/*.ts",
+    "tests/**/*.tsx",
+    "src/lang/en-US/en-US.js",
+    "src/common/config/i18n/ch.js",
+    "src/common/config/i18n/en.js",
+    "src/common/config/i18n/tw.js",
+    "src/common/plugins/i18n.js"
+  ],
+  "exclude": ["node_modules", "cypress/*.*"],
+  "vueCompilerOptions": {
+    "experimentalUseElementAccessInTemplate": true
+  },
+  "compilerOptions.resolvejsonModule": true
+}

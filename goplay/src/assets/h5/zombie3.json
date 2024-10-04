@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "zombie3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 37,
+				"h": 97
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Walk2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 35,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 35,
+						"h": 47
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 35,
+						"h": 47
+					}
+				},
+				{
+					"filename": "Walk1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 35,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 35,
+						"h": 46
+					},
+					"frame": {
+						"x": 1,
+						"y": 50,
+						"w": 35,
+						"h": 46
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c9d351173434a0d86a0eb713bfc78e6d:3004dfb7d73d443b39fec8e8863c9600:c9d435c2141e27e1da19e861ee2bb860$"
+	}
+}

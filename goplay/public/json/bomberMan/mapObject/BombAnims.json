@@ -1,0 +1,10 @@
+{
+    "anims": [
+        {
+            "key": "BombIdle",
+            "frames": "BombSprite",
+            "frameRate": 4,
+            "repeat": -1
+        }
+    ]
+}

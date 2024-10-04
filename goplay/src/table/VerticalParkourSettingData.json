@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "targetScore": 1700,
+    "initEnergy": 500,
+    "heroMoveSpeed": 400,
+    "obstacleDamage": 100,
+    "treasureInterval": 10,
+    "treasureUnlockTime": 1,
+    "treasureEnergy": 150,
+    "treasureScore": 50,
+    "keyInterval": 8,
+    "coinInterval": 1.5,
+    "coinScore": 10,
+    "baseConsumption": 5,
+    "progressiveConsumption": 0,
+    "reviveEnergy": 200
+  }
+]

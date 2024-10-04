@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "targetScore": 1000,
+    "maxEnergy": 1000,
+    "countDown": 180,
+    "gainScorePerSecond": 5,
+    "fallDamage": 100,
+    "heroJumpForce": 500,
+    "heroRunSpeed": 275,
+    "heroFlySpeed": 500,
+    "heroRespawnSpeed": 150,
+    "heroRespawnRecoverySpeed": 125,
+    "baseConsumption": 3,
+    "progressiveConsumption": 0,
+    "diamondAmountGap": 30,
+    "reviveEnergy": 200
+  }
+]

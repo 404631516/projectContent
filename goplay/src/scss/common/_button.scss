@@ -1,0 +1,81 @@
+@import './mixin';
+
+.btn-game-back {
+  // 藍色底
+  @include btn_style-3;
+  width: 80%;
+  height: 37px;
+}
+.btn-game-again {
+  // 黃色底
+  @include btn_style-2;
+  width: 80%;
+  height: 37px;
+}
+.btn-game-detail {
+  // 綠底白字
+  @include btn_style-5;
+  height: 37px;
+}
+.btn-info-view {
+  // 黃色底
+  @include btn_style-2;
+  width: 80%;
+  height: 30px;
+}
+.btn-info-cancel {
+  // 紅底白字
+  @include btn_style-6;
+  width: 80%;
+  height: 37px;
+}
+.btn-info-chang {
+  // 白框綠底
+  @include btn_style-7;
+  width: 88%;
+  height: 32px;
+  line-height: 32px;
+}
+.btn-info-chang-active {
+  // 白框綠底
+  @include btn_style-8;
+  width: 88%;
+  height: 32px;
+  line-height: 32px;
+}
+.btn-go-adl {
+  // 前往因材網按鈕 綠底白字
+  @include btn_style-5;
+}
+// 生物兵器卸下按鈕
+.btn-weapon-remove {
+  // 深紅底
+  @include btn_style-9;
+  width: 80%;
+  height: 37px;
+}
+// 常用黃色按鈕樣式
+.yellow-btn-style {
+  cursor: pointer;
+  height: 72px;
+  line-height: 72px;
+  background-color: #ffde39;
+  box-shadow: 0px 5px 10px #0000004d;
+  border-radius: 20px;
+  color: #613c0a;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 23px;
+  @media (min-width: 426px) and (max-width: 1024px) {
+    height: 43px;
+    line-height: 43px;
+    font-size: 24px;
+    margin-bottom: 12px;
+  }
+  @media (max-width: 435px) {
+    height: 28px;
+    line-height: 28px;
+    font-size: 14px;
+    margin-bottom: 16px;
+  }
+}

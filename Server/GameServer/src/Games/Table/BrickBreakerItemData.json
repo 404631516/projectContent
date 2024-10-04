@@ -1,0 +1,5 @@
+﻿{
+"1":{"nameKey":"Shield","name":"盾牌","descript":"阻擋回重生點","numberMax":1}
+,"2":{"nameKey":"Axe","name":"威力上升","descript":"下一次攻擊魔王傷害加倍","numberMax":1}
+,"3":{"nameKey":"FreezePrevent","name":"防止凍結","descript":"上一個可以不被凍結一次的狀態(被動發動)","numberMax":1}
+}

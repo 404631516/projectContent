@@ -1,0 +1,11 @@
+{
+  "gameType": 19,
+  "contestId": 4774,
+  "roomCount": 1,
+  "roomPlayerCount": 30,
+  "roundTime": 45,
+  "gatewayServerUrl": "http://localhost:8081",
+  "jwtSalt": "adlfwebr.w",
+  "mssrUrl": "https://tp.enable-ets.com/devAdlHeroApi/",
+  "teacherToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaWQiOjEsInJvbGUiOiJhZG1pbiIsImRldmljZSI6MywiYXBwSWQiOjAsImRldmljZU1vZGVsIjoiIiwiYWdlbnRJZCI6MSwic2Nob29sSWQiOjEsImFjY291bnQiOiJzdXBlciIsImlhdCI6MTY2Nzc4NDY2N30.-mV3h9oXADmkv7CO3x3LWGbL0S5x8Qat3FOC3zhZ_yQ"
+}

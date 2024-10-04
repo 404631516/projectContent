@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "nameKey": "state_1",
+    "normalCount": 6,
+    "raidCount": 0,
+    "enemyCount": 0,
+    "countMin": 1,
+    "countMax": 2,
+    "appearMin": 2,
+    "appearMax": 3
+  },
+  {
+    "id": 2,
+    "nameKey": "state_2",
+    "normalCount": 8,
+    "raidCount": 0,
+    "enemyCount": 2,
+    "countMin": 2,
+    "countMax": 3,
+    "appearMin": 1.5,
+    "appearMax": 2
+  },
+  {
+    "id": 3,
+    "nameKey": "state_3",
+    "normalCount": 12,
+    "raidCount": 4,
+    "enemyCount": 4,
+    "countMin": 2,
+    "countMax": 4,
+    "appearMin": 1.2,
+    "appearMax": 1.7
+  },
+  {
+    "id": 4,
+    "nameKey": "state_4",
+    "normalCount": 16,
+    "raidCount": 8,
+    "enemyCount": 6,
+    "countMin": 3,
+    "countMax": 4,
+    "appearMin": 1,
+    "appearMax": 1.5
+  },
+  {
+    "id": 5,
+    "nameKey": "state_5",
+    "normalCount": 20,
+    "raidCount": 13,
+    "enemyCount": 8,
+    "countMin": 4,
+    "countMax": 5,
+    "appearMin": 1,
+    "appearMax": 1.5
+  },
+  {
+    "id": 6,
+    "nameKey": "state_6",
+    "normalCount": 30,
+    "raidCount": 19,
+    "enemyCount": 10,
+    "countMin": 3,
+    "countMax": 5,
+    "appearMin": 1,
+    "appearMax": 1.5
+  },
+  {
+    "id": 7,
+    "nameKey": "state_7",
+    "normalCount": 35,
+    "raidCount": 25,
+    "enemyCount": 14,
+    "countMin": 4,
+    "countMax": 6,
+    "appearMin": 1,
+    "appearMax": 1.5
+  },
+  {
+    "id": 8,
+    "nameKey": "state_8",
+    "normalCount": 45,
+    "raidCount": 31,
+    "enemyCount": 16,
+    "countMin": 3,
+    "countMax": 7,
+    "appearMin": 1,
+    "appearMax": 1.5
+  },
+  {
+    "id": 9,
+    "nameKey": "state_9",
+    "normalCount": 45,
+    "raidCount": 31,
+    "enemyCount": 16,
+    "countMin": 3,
+    "countMax": 7,
+    "appearMin": 1,
+    "appearMax": 1.5
+  }
+]

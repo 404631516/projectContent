@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "spawnDataList": [{ "time": 0, "spawnPointList": [0] }]
+  },
+  {
+    "id": 2,
+    "spawnDataList": [{ "time": 0, "spawnPointList": [1] }]
+  },
+  {
+    "id": 3,
+    "spawnDataList": [{ "time": 0, "spawnPointList": [2] }]
+  },
+  {
+    "id": 4,
+    "spawnDataList": [{ "time": 0, "spawnPointList": [3] }]
+  },
+  {
+    "id": 5,
+    "spawnDataList": [{ "time": 0, "spawnPointList": [4] }]
+  },
+  {
+    "id": 6,
+    "spawnDataList": [
+      { "time": 0, "spawnPointList": [3] },
+      { "time": 1, "spawnPointList": [4] },
+      { "time": 2, "spawnPointList": [3] }
+    ]
+  },
+  {
+    "id": 7,
+    "spawnDataList": [
+      { "time": 0, "spawnPointList": [2] },
+      { "time": 1, "spawnPointList": [3] },
+      { "time": 2, "spawnPointList": [4] }
+    ]
+  },
+  {
+    "id": 8,
+    "spawnDataList": [
+      { "time": 0, "spawnPointList": [3] },
+      { "time": 1, "spawnPointList": [2] },
+      { "time": 2, "spawnPointList": [1] }
+    ]
+  },
+  {
+    "id": 9,
+    "spawnDataList": [
+      { "time": 0, "spawnPointList": [2] },
+      { "time": 1, "spawnPointList": [1, 2, 3] },
+      { "time": 2, "spawnPointList": [2] }
+    ]
+  },
+  {
+    "id": 10,
+    "spawnDataList": [
+      { "time": 0, "spawnPointList": [2] },
+      { "time": 1, "spawnPointList": [2] },
+      { "time": 2, "spawnPointList": [1, 2, 3] }
+    ]
+  },
+  {
+    "id": 11,
+    "spawnDataList": [
+      { "time": 0, "spawnPointList": [1, 3] },
+      { "time": 1, "spawnPointList": [2] },
+      { "time": 2, "spawnPointList": [1, 3] }
+    ]
+  },
+  {
+    "id": 12,
+    "spawnDataList": [
+      { "time": 0, "spawnPointList": [0, 4] },
+      { "time": 1, "spawnPointList": [1, 3] },
+      { "time": 2, "spawnPointList": [2] },
+      { "time": 3, "spawnPointList": [1, 3] },
+      { "time": 4, "spawnPointList": [0, 4] }
+    ]
+  },
+  {
+    "id": 13,
+    "spawnDataList": [
+      { "time": 0, "spawnPointList": [2] },
+      { "time": 1, "spawnPointList": [1, 3] },
+      { "time": 2, "spawnPointList": [0, 4] },
+      { "time": 3, "spawnPointList": [1, 3] },
+      { "time": 4, "spawnPointList": [2] }
+    ]
+  },
+  {
+    "id": 14,
+    "spawnDataList": [
+      { "time": 0, "spawnPointList": [1, 4] },
+      { "time": 1, "spawnPointList": [0, 3] },
+      { "time": 2, "spawnPointList": [1, 4] },
+      { "time": 3, "spawnPointList": [0, 3] },
+      { "time": 4, "spawnPointList": [1, 4] }
+    ]
+  }
+]

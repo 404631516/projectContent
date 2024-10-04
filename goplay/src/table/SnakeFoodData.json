@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nameKey": "snake_food_apple",
+    "contentKey": "紅蘋果",
+    "score": 20,
+    "functionType": 0,
+    "isJunkFood": false,
+    "appearSeconds": 15,
+    "url": "food_apple.png"
+  },
+  {
+    "id": 2,
+    "nameKey": "snake_food_goldenApple",
+    "contentKey": "金蘋果",
+    "score": 30,
+    "functionType": 0,
+    "isJunkFood": false,
+    "appearSeconds": 15,
+    "url": "food_goldenApple.png"
+  },
+  {
+    "id": 3,
+    "nameKey": "snake_food_banana",
+    "contentKey": "香蕉",
+    "score": 15,
+    "functionType": 0,
+    "isJunkFood": false,
+    "appearSeconds": 15,
+    "url": "food_banana.png"
+  },
+  {
+    "id": 4,
+    "nameKey": "snake_food_chickenBreast",
+    "contentKey": "雞胸肉",
+    "score": 15,
+    "functionType": 0,
+    "isJunkFood": false,
+    "appearSeconds": 15,
+    "url": "food_chickenBreast.png"
+  },
+  {
+    "id": 5,
+    "nameKey": "snake_food_brocoli",
+    "contentKey": "青花椰菜",
+    "score": 50,
+    "functionType": 0,
+    "isJunkFood": false,
+    "appearSeconds": 15,
+    "url": "food_brocoli.png"
+  },
+  {
+    "id": 6,
+    "nameKey": "snake_food_trashCan",
+    "contentKey": "垃圾桶",
+    "score": 10,
+    "functionType": 4,
+    "isJunkFood": false,
+    "appearSeconds": 15,
+    "url": "food_trashCan.png"
+  },
+  {
+    "id": 7,
+    "nameKey": "snake_food_sportTicket",
+    "contentKey": "運動卷",
+    "score": 10,
+    "functionType": 3,
+    "isJunkFood": false,
+    "appearSeconds": 15,
+    "url": "food_sportTicket.png"
+  },
+  {
+    "id": 8,
+    "nameKey": "snake_food_slowMotion",
+    "contentKey": "慢動作鏡頭",
+    "score": 10,
+    "functionType": 2,
+    "isJunkFood": false,
+    "appearSeconds": 15,
+    "url": "food_slowMotion.png"
+  },
+  {
+    "id": 9,
+    "nameKey": "snake_food_burger",
+    "contentKey": "漢堡",
+    "score": -20,
+    "functionType": 0,
+    "isJunkFood": true,
+    "appearSeconds": 15,
+    "url": "food_burger.png"
+  },
+  {
+    "id": 10,
+    "nameKey": "snake_food_frenchFries",
+    "contentKey": "薯條",
+    "score": -10,
+    "functionType": 1,
+    "isJunkFood": true,
+    "appearSeconds": 15,
+    "url": "food_frenchFries.png"
+  },
+  {
+    "id": 11,
+    "nameKey": "snake_food_friedChicken",
+    "contentKey": "炸雞",
+    "score": -10,
+    "functionType": 1,
+    "isJunkFood": true,
+    "appearSeconds": 15,
+    "url": "food_friedChicken.png"
+  },
+  {
+    "id": 12,
+    "nameKey": "snake_food_bubbleTea",
+    "contentKey": "珍珠奶茶",
+    "score": -10,
+    "functionType": 1,
+    "isJunkFood": true,
+    "appearSeconds": 15,
+    "url": "food_bubbleTea.png"
+  }
+]

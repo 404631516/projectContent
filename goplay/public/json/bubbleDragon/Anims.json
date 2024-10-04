@@ -1,0 +1,9 @@
+{
+  "anims": [
+    {
+      "key": "AnimBubbleRemove",
+      "frames": "bubbleRemoveFX",
+      "frameRate": 11
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "nameKey": "matchingCard_item_1",
+    "contentKey": "matchingCard_item_content_1",
+    "url": "unlock.png",
+    "energy": 400,
+    "itemFunction": 1,
+    "value": 2,
+    "duration": 0,
+    "cooldownSec": 5
+  },
+  {
+    "id": 2,
+    "nameKey": "matchingCard_item_2",
+    "contentKey": "matchingCard_item_content_2",
+    "url": "seeThrough.png",
+    "energy": 600,
+    "itemFunction": 2,
+    "value": 1,
+    "duration": 10,
+    "cooldownSec": 5
+  },
+  {
+    "id": 3,
+    "nameKey": "matchingCard_item_3",
+    "contentKey": "matchingCard_item_content_3",
+    "url": "frozenEnemy.png",
+    "energy": 500,
+    "itemFunction": 3,
+    "value": 0,
+    "duration": 10,
+    "cooldownSec": 5
+  },
+  {
+    "id": 4,
+    "nameKey": "matchingCard_item_4",
+    "contentKey": "matchingCard_item_content_4",
+    "url": "exileEnemy.png",
+    "energy": 900,
+    "itemFunction": 4,
+    "value": 0,
+    "duration": 0,
+    "cooldownSec": 5
+  },
+  {
+    "id": 5,
+    "nameKey": "matchingCard_item_5",
+    "contentKey": "matchingCard_item_content_5",
+    "url": "speedUp.png",
+    "energy": 200,
+    "itemFunction": 5,
+    "value": -0.2,
+    "duration": 10,
+    "cooldownSec": 5
+  }
+]

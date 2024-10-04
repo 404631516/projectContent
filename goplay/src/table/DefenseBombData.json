@@ -1,0 +1,884 @@
+[
+  {
+    "id": 1,
+    "nameKey": "bomb_1",
+    "name": "大野狼LV0",
+    "url": "bomb_1.png"
+  },
+  {
+    "id": 2,
+    "nameKey": "bomb_2",
+    "name": "大野狼LV1",
+    "url": "bomb_2.png"
+  },
+  {
+    "id": 3,
+    "nameKey": "bomb_3",
+    "name": "大野狼LV2",
+    "url": "bomb_3.png"
+  },
+  {
+    "id": 4,
+    "nameKey": "bomb_4",
+    "name": "大野狼LV3",
+    "url": "bomb_4.png"
+  },
+  {
+    "id": 5,
+    "nameKey": "bomb_5",
+    "name": "大野狼LV4",
+    "url": "bomb_5.png"
+  },
+  {
+    "id": 6,
+    "nameKey": "bomb_6",
+    "name": "大野狼LV5",
+    "url": "bomb_6.png"
+  },
+  {
+    "id": 7,
+    "nameKey": "bomb_7",
+    "name": "赤鬼LV0",
+    "url": "bomb_7.png"
+  },
+  {
+    "id": 8,
+    "nameKey": "bomb_8",
+    "name": "赤鬼LV1",
+    "url": "bomb_8.png"
+  },
+  {
+    "id": 9,
+    "nameKey": "bomb_9",
+    "name": "赤鬼LV2",
+    "url": "bomb_9.png"
+  },
+  {
+    "id": 10,
+    "nameKey": "bomb_10",
+    "name": "赤鬼LV3",
+    "url": "bomb_10.png"
+  },
+  {
+    "id": 11,
+    "nameKey": "bomb_11",
+    "name": "赤鬼LV4",
+    "url": "bomb_11.png"
+  },
+  {
+    "id": 12,
+    "nameKey": "bomb_12",
+    "name": "赤鬼LV5",
+    "url": "bomb_12.png"
+  },
+  {
+    "id": 13,
+    "nameKey": "bomb_13",
+    "name": "蜘蛛精LV0",
+    "url": "bomb_13.png"
+  },
+  {
+    "id": 14,
+    "nameKey": "bomb_14",
+    "name": "蜘蛛精LV1",
+    "url": "bomb_14.png"
+  },
+  {
+    "id": 15,
+    "nameKey": "bomb_15",
+    "name": "蜘蛛精LV2",
+    "url": "bomb_15.png"
+  },
+  {
+    "id": 16,
+    "nameKey": "bomb_16",
+    "name": "蜘蛛精LV3",
+    "url": "bomb_16.png"
+  },
+  {
+    "id": 17,
+    "nameKey": "bomb_17",
+    "name": "蜘蛛精LV4",
+    "url": "bomb_17.png"
+  },
+  {
+    "id": 18,
+    "nameKey": "bomb_18",
+    "name": "蜘蛛精LV5",
+    "url": "bomb_18.png"
+  },
+  {
+    "id": 19,
+    "nameKey": "bomb_19",
+    "name": "蘑菇婆婆LV0",
+    "url": "bomb_19.png"
+  },
+  {
+    "id": 20,
+    "nameKey": "bomb_20",
+    "name": "蘑菇婆婆LV1",
+    "url": "bomb_20.png"
+  },
+  {
+    "id": 21,
+    "nameKey": "bomb_21",
+    "name": "蘑菇婆婆LV2",
+    "url": "bomb_21.png"
+  },
+  {
+    "id": 22,
+    "nameKey": "bomb_22",
+    "name": "蘑菇婆婆LV3",
+    "url": "bomb_22.png"
+  },
+  {
+    "id": 23,
+    "nameKey": "bomb_23",
+    "name": "蘑菇婆婆LV4",
+    "url": "bomb_23.png"
+  },
+  {
+    "id": 24,
+    "nameKey": "bomb_24",
+    "name": "蘑菇婆婆LV5",
+    "url": "bomb_24.png"
+  },
+  {
+    "id": 25,
+    "nameKey": "bomb_25",
+    "name": "獨眼巨人LV0",
+    "url": "bomb_25.png"
+  },
+  {
+    "id": 26,
+    "nameKey": "bomb_26",
+    "name": "獨眼巨人LV1",
+    "url": "bomb_26.png"
+  },
+  {
+    "id": 27,
+    "nameKey": "bomb_27",
+    "name": "獨眼巨人LV2",
+    "url": "bomb_27.png"
+  },
+  {
+    "id": 28,
+    "nameKey": "bomb_28",
+    "name": "獨眼巨人LV3",
+    "url": "bomb_28.png"
+  },
+  {
+    "id": 29,
+    "nameKey": "bomb_29",
+    "name": "獨眼巨人LV4",
+    "url": "bomb_29.png"
+  },
+  {
+    "id": 30,
+    "nameKey": "bomb_30",
+    "name": "獨眼巨人LV5",
+    "url": "bomb_30.png"
+  },
+  {
+    "id": 31,
+    "nameKey": "bomb_31",
+    "name": "貓LV0",
+    "url": "bomb_31.png"
+  },
+  {
+    "id": 32,
+    "nameKey": "bomb_32",
+    "name": "貓LV1",
+    "url": "bomb_32.png"
+  },
+  {
+    "id": 33,
+    "nameKey": "bomb_33",
+    "name": "貓LV2",
+    "url": "bomb_33.png"
+  },
+  {
+    "id": 34,
+    "nameKey": "bomb_34",
+    "name": "貓LV3",
+    "url": "bomb_34.png"
+  },
+  {
+    "id": 35,
+    "nameKey": "bomb_35",
+    "name": "貓LV4",
+    "url": "bomb_35.png"
+  },
+  {
+    "id": 36,
+    "nameKey": "bomb_36",
+    "name": "貓LV5",
+    "url": "bomb_36.png"
+  },
+  {
+    "id": 37,
+    "nameKey": "bomb_37",
+    "name": "年獸LV0",
+    "url": "bomb_37.png"
+  },
+  {
+    "id": 38,
+    "nameKey": "bomb_38",
+    "name": "年獸LV1",
+    "url": "bomb_38.png"
+  },
+  {
+    "id": 39,
+    "nameKey": "bomb_39",
+    "name": "年獸LV2",
+    "url": "bomb_39.png"
+  },
+  {
+    "id": 40,
+    "nameKey": "bomb_40",
+    "name": "年獸LV3",
+    "url": "bomb_40.png"
+  },
+  {
+    "id": 41,
+    "nameKey": "bomb_41",
+    "name": "年獸LV4",
+    "url": "bomb_41.png"
+  },
+  {
+    "id": 42,
+    "nameKey": "bomb_42",
+    "name": "年獸LV5",
+    "url": "bomb_42.png"
+  },
+  {
+    "id": 43,
+    "nameKey": "bomb_43",
+    "name": "牛魔王LV0",
+    "url": "bomb_43.png"
+  },
+  {
+    "id": 44,
+    "nameKey": "bomb_44",
+    "name": "牛魔王LV1",
+    "url": "bomb_44.png"
+  },
+  {
+    "id": 45,
+    "nameKey": "bomb_45",
+    "name": "牛魔王LV2",
+    "url": "bomb_45.png"
+  },
+  {
+    "id": 46,
+    "nameKey": "bomb_46",
+    "name": "牛魔王LV3",
+    "url": "bomb_46.png"
+  },
+  {
+    "id": 47,
+    "nameKey": "bomb_47",
+    "name": "牛魔王LV4",
+    "url": "bomb_47.png"
+  },
+  {
+    "id": 48,
+    "nameKey": "bomb_48",
+    "name": "牛魔王LV5",
+    "url": "bomb_48.png"
+  },
+  {
+    "id": 49,
+    "nameKey": "bomb_49",
+    "name": "放羊小孩LV0",
+    "url": "bomb_49.png"
+  },
+  {
+    "id": 50,
+    "nameKey": "bomb_50",
+    "name": "放羊小孩LV1",
+    "url": "bomb_50.png"
+  },
+  {
+    "id": 51,
+    "nameKey": "bomb_51",
+    "name": "放羊小孩LV2",
+    "url": "bomb_51.png"
+  },
+  {
+    "id": 52,
+    "nameKey": "bomb_52",
+    "name": "放羊小孩LV3",
+    "url": "bomb_52.png"
+  },
+  {
+    "id": 53,
+    "nameKey": "bomb_53",
+    "name": "放羊小孩LV4",
+    "url": "bomb_53.png"
+  },
+  {
+    "id": 54,
+    "nameKey": "bomb_54",
+    "name": "放羊小孩LV5",
+    "url": "bomb_54.png"
+  },
+  {
+    "id": 55,
+    "nameKey": "bomb_55",
+    "name": "批羊皮狼LV0",
+    "url": "bomb_55.png"
+  },
+  {
+    "id": 56,
+    "nameKey": "bomb_56",
+    "name": "批羊皮狼LV1",
+    "url": "bomb_56.png"
+  },
+  {
+    "id": 57,
+    "nameKey": "bomb_57",
+    "name": "批羊皮狼LV2",
+    "url": "bomb_57.png"
+  },
+  {
+    "id": 58,
+    "nameKey": "bomb_58",
+    "name": "批羊皮狼LV3",
+    "url": "bomb_58.png"
+  },
+  {
+    "id": 59,
+    "nameKey": "bomb_59",
+    "name": "批羊皮狼LV4",
+    "url": "bomb_59.png"
+  },
+  {
+    "id": 60,
+    "nameKey": "bomb_60",
+    "name": "批羊皮狼LV5",
+    "url": "bomb_60.png"
+  },
+  {
+    "id": 61,
+    "nameKey": "bomb_61",
+    "name": "蔔蔔兔LV0",
+    "url": "bomb_61.png"
+  },
+  {
+    "id": 62,
+    "nameKey": "bomb_62",
+    "name": "蔔蔔兔LV1",
+    "url": "bomb_62.png"
+  },
+  {
+    "id": 63,
+    "nameKey": "bomb_63",
+    "name": "蔔蔔兔LV2",
+    "url": "bomb_63.png"
+  },
+  {
+    "id": 64,
+    "nameKey": "bomb_64",
+    "name": "蔔蔔兔LV3",
+    "url": "bomb_64.png"
+  },
+  {
+    "id": 65,
+    "nameKey": "bomb_65",
+    "name": "蔔蔔兔LV4",
+    "url": "bomb_65.png"
+  },
+  {
+    "id": 66,
+    "nameKey": "bomb_66",
+    "name": "蔔蔔兔LV5",
+    "url": "bomb_66.png"
+  },
+  {
+    "id": 67,
+    "nameKey": "bomb_67",
+    "name": "小遊戲鉛筆",
+    "url": "bomb_67.png"
+  },
+  {
+    "id": 68,
+    "nameKey": "bomb_68",
+    "name": "小遊戲自動筆",
+    "url": "bomb_68.png"
+  },
+  {
+    "id": 69,
+    "nameKey": "bomb_69",
+    "name": "小遊戲紅色砲彈",
+    "url": "bomb_69.png"
+  },
+  {
+    "id": 70,
+    "nameKey": "bomb_70",
+    "name": "聖誕雙雄LV0",
+    "url": "bomb_70.png"
+  },
+  {
+    "id": 71,
+    "nameKey": "bomb_71",
+    "name": "聖誕雙雄LV1",
+    "url": "bomb_71.png"
+  },
+  {
+    "id": 72,
+    "nameKey": "bomb_72",
+    "name": "聖誕雙雄LV2",
+    "url": "bomb_72.png"
+  },
+  {
+    "id": 73,
+    "nameKey": "bomb_73",
+    "name": "聖誕雙雄LV3",
+    "url": "bomb_73.png"
+  },
+  {
+    "id": 74,
+    "nameKey": "bomb_74",
+    "name": "聖誕雙雄LV4",
+    "url": "bomb_74.png"
+  },
+  {
+    "id": 75,
+    "nameKey": "bomb_75",
+    "name": "聖誕雙雄LV5",
+    "url": "bomb_75.png"
+  },
+  {
+    "id": 76,
+    "nameKey": "bomb_76",
+    "name": "孫悟空LV0",
+    "url": "bomb_76.png"
+  },
+  {
+    "id": 77,
+    "nameKey": "bomb_77",
+    "name": "孫悟空LV1",
+    "url": "bomb_77.png"
+  },
+  {
+    "id": 78,
+    "nameKey": "bomb_78",
+    "name": "孫悟空LV2",
+    "url": "bomb_78.png"
+  },
+  {
+    "id": 79,
+    "nameKey": "bomb_79",
+    "name": "孫悟空LV3",
+    "url": "bomb_79.png"
+  },
+  {
+    "id": 80,
+    "nameKey": "bomb_80",
+    "name": "孫悟空LV4",
+    "url": "bomb_80.png"
+  },
+  {
+    "id": 81,
+    "nameKey": "bomb_81",
+    "name": "孫悟空LV5",
+    "url": "bomb_81.png"
+  },
+  {
+    "id": 82,
+    "nameKey": "bomb_82",
+    "name": "紅孩兒LV0",
+    "url": "bomb_82.png"
+  },
+  {
+    "id": 83,
+    "nameKey": "bomb_83",
+    "name": "紅孩兒LV1",
+    "url": "bomb_83.png"
+  },
+  {
+    "id": 84,
+    "nameKey": "bomb_84",
+    "name": "紅孩兒LV2",
+    "url": "bomb_84.png"
+  },
+  {
+    "id": 85,
+    "nameKey": "bomb_85",
+    "name": "紅孩兒LV3",
+    "url": "bomb_85.png"
+  },
+  {
+    "id": 86,
+    "nameKey": "bomb_86",
+    "name": "紅孩兒LV4",
+    "url": "bomb_86.png"
+  },
+  {
+    "id": 87,
+    "nameKey": "bomb_87",
+    "name": "紅孩兒LV5",
+    "url": "bomb_87.png"
+  },
+  {
+    "id": 88,
+    "nameKey": "bomb_88",
+    "name": "光輝悟空LV0",
+    "url": "bomb_88.png"
+  },
+  {
+    "id": 89,
+    "nameKey": "bomb_89",
+    "name": "光輝悟空LV1",
+    "url": "bomb_89.png"
+  },
+  {
+    "id": 90,
+    "nameKey": "bomb_90",
+    "name": "光輝悟空LV2",
+    "url": "bomb_90.png"
+  },
+  {
+    "id": 91,
+    "nameKey": "bomb_91",
+    "name": "光輝悟空LV3",
+    "url": "bomb_91.png"
+  },
+  {
+    "id": 92,
+    "nameKey": "bomb_92",
+    "name": "光輝悟空LV4",
+    "url": "bomb_92.png"
+  },
+  {
+    "id": 93,
+    "nameKey": "bomb_93",
+    "name": "光輝悟空LV5",
+    "url": "bomb_93.png"
+  },
+  {
+    "id": 94,
+    "nameKey": "bomb_94",
+    "name": "阿努比斯LV0",
+    "url": "bomb_94.png"
+  },
+  {
+    "id": 95,
+    "nameKey": "bomb_95",
+    "name": "阿努比斯LV1",
+    "url": "bomb_95.png"
+  },
+  {
+    "id": 96,
+    "nameKey": "bomb_96",
+    "name": "阿努比斯LV2",
+    "url": "bomb_96.png"
+  },
+  {
+    "id": 97,
+    "nameKey": "bomb_97",
+    "name": "阿努比斯LV3",
+    "url": "bomb_97.png"
+  },
+  {
+    "id": 98,
+    "nameKey": "bomb_98",
+    "name": "阿努比斯LV4",
+    "url": "bomb_98.png"
+  },
+  {
+    "id": 99,
+    "nameKey": "bomb_99",
+    "name": "阿努比斯LV5",
+    "url": "bomb_99.png"
+  },
+  {
+    "id": 100,
+    "nameKey": "bomb_100",
+    "name": "雪兔瑞彼特LV0",
+    "url": "bomb_100.png"
+  },
+  {
+    "id": 101,
+    "nameKey": "bomb_101",
+    "name": "雪兔瑞彼特LV1",
+    "url": "bomb_101.png"
+  },
+  {
+    "id": 102,
+    "nameKey": "bomb_102",
+    "name": "雪兔瑞彼特LV2",
+    "url": "bomb_102.png"
+  },
+  {
+    "id": 103,
+    "nameKey": "bomb_103",
+    "name": "雪兔瑞彼特LV3",
+    "url": "bomb_103.png"
+  },
+  {
+    "id": 104,
+    "nameKey": "bomb_104",
+    "name": "雪兔瑞彼特LV4",
+    "url": "bomb_104.png"
+  },
+  {
+    "id": 105,
+    "nameKey": "bomb_105",
+    "name": "雪兔瑞彼特LV5",
+    "url": "bomb_105.png"
+  },
+  {
+    "id": 106,
+    "nameKey": "bomb_106",
+    "name": "麋鹿女神LV0",
+    "url": "bomb_106.png"
+  },
+  {
+    "id": 107,
+    "nameKey": "bomb_107",
+    "name": "麋鹿女神LV1",
+    "url": "bomb_107.png"
+  },
+  {
+    "id": 108,
+    "nameKey": "bomb_108",
+    "name": "麋鹿女神LV2",
+    "url": "bomb_108.png"
+  },
+  {
+    "id": 109,
+    "nameKey": "bomb_109",
+    "name": "麋鹿女神LV3",
+    "url": "bomb_109.png"
+  },
+  {
+    "id": 110,
+    "nameKey": "bomb_110",
+    "name": "麋鹿女神LV4",
+    "url": "bomb_110.png"
+  },
+  {
+    "id": 111,
+    "nameKey": "bomb_111",
+    "name": "麋鹿女神LV5",
+    "url": "bomb_111.png"
+  },
+  {
+    "id": 112,
+    "nameKey": "bomb_112",
+    "name": "小丑LV0",
+    "url": "bomb_112.png"
+  },
+  {
+    "id": 113,
+    "nameKey": "bomb_113",
+    "name": "小丑LV1",
+    "url": "bomb_113.png"
+  },
+  {
+    "id": 114,
+    "nameKey": "bomb_114",
+    "name": "小丑LV2",
+    "url": "bomb_114.png"
+  },
+  {
+    "id": 115,
+    "nameKey": "bomb_115",
+    "name": "小丑LV3",
+    "url": "bomb_115.png"
+  },
+  {
+    "id": 116,
+    "nameKey": "bomb_116",
+    "name": "小丑LV4",
+    "url": "bomb_116.png"
+  },
+  {
+    "id": 117,
+    "nameKey": "bomb_117",
+    "name": "小丑LV5",
+    "url": "bomb_117.png"
+  },
+  {
+    "id": 118,
+    "nameKey": "bomb_118",
+    "name": "雷神索爾LV1",
+    "url": "bomb_118.png"
+  },
+  {
+    "id": 119,
+    "nameKey": "bomb_119",
+    "name": "雷神索爾LV2",
+    "url": "bomb_119.png"
+  },
+  {
+    "id": 120,
+    "nameKey": "bomb_120",
+    "name": "雷神索爾LV3",
+    "url": "bomb_120.png"
+  },
+  {
+    "id": 121,
+    "nameKey": "bomb_121",
+    "name": "雷神索爾LV4",
+    "url": "bomb_121.png"
+  },
+  {
+    "id": 122,
+    "nameKey": "bomb_122",
+    "name": "雷神索爾LV5",
+    "url": "bomb_122.png"
+  },
+  {
+    "id": 123,
+    "nameKey": "bomb_123",
+    "name": "雷神索爾LV6",
+    "url": "bomb_123.png"
+  },
+  {
+    "id": 124,
+    "nameKey": "bomb_124",
+    "name": "嫦娥LV1",
+    "url": "bomb_124.png"
+  },
+  {
+    "id": 125,
+    "nameKey": "bomb_125",
+    "name": "嫦娥LV2",
+    "url": "bomb_125.png"
+  },
+  {
+    "id": 126,
+    "nameKey": "bomb_126",
+    "name": "嫦娥LV3",
+    "url": "bomb_126.png"
+  },
+  {
+    "id": 127,
+    "nameKey": "bomb_127",
+    "name": "嫦娥LV4",
+    "url": "bomb_127.png"
+  },
+  {
+    "id": 128,
+    "nameKey": "bomb_128",
+    "name": "嫦娥LV5",
+    "url": "bomb_128.png"
+  },
+  {
+    "id": 129,
+    "nameKey": "bomb_129",
+    "name": "嫦娥LV6",
+    "url": "bomb_129.png"
+  },
+  {
+    "id": 130,
+    "nameKey": "bomb_130",
+    "name": "佐佐木小次郎LV1",
+    "url": "bomb_130.png"
+  },
+  {
+    "id": 131,
+    "nameKey": "bomb_131",
+    "name": "佐佐木小次郎LV2",
+    "url": "bomb_131.png"
+  },
+  {
+    "id": 132,
+    "nameKey": "bomb_132",
+    "name": "佐佐木小次郎LV3",
+    "url": "bomb_132.png"
+  },
+  {
+    "id": 133,
+    "nameKey": "bomb_133",
+    "name": "佐佐木小次郎LV4",
+    "url": "bomb_133.png"
+  },
+  {
+    "id": 134,
+    "nameKey": "bomb_134",
+    "name": "佐佐木小次郎LV5",
+    "url": "bomb_134.png"
+  },
+  {
+    "id": 135,
+    "nameKey": "bomb_135",
+    "name": "佐佐木小次郎LV6",
+    "url": "bomb_135.png"
+  },
+  {
+    "id": 136,
+    "nameKey": "bomb_136",
+    "name": "貂蟬LV1",
+    "url": "bomb_136.png"
+  },
+  {
+    "id": 137,
+    "nameKey": "bomb_137",
+    "name": "貂蟬LV2",
+    "url": "bomb_137.png"
+  },
+  {
+    "id": 138,
+    "nameKey": "bomb_138",
+    "name": "貂蟬LV3",
+    "url": "bomb_138.png"
+  },
+  {
+    "id": 139,
+    "nameKey": "bomb_139",
+    "name": "貂蟬LV4",
+    "url": "bomb_139.png"
+  },
+  {
+    "id": 140,
+    "nameKey": "bomb_140",
+    "name": "貂蟬LV5",
+    "url": "bomb_140.png"
+  },
+  {
+    "id": 141,
+    "nameKey": "bomb_141",
+    "name": "貂蟬LV6",
+    "url": "bomb_141.png"
+  },
+  {
+    "id": 142,
+    "nameKey": "bomb_142",
+    "name": "女媧LV1",
+    "url": "bomb_142.png"
+  },
+  {
+    "id": 143,
+    "nameKey": "bomb_143",
+    "name": "女媧LV2",
+    "url": "bomb_143.png"
+  },
+  {
+    "id": 144,
+    "nameKey": "bomb_144",
+    "name": "女媧LV3",
+    "url": "bomb_144.png"
+  },
+  {
+    "id": 145,
+    "nameKey": "bomb_145",
+    "name": "女媧LV4",
+    "url": "bomb_145.png"
+  },
+  {
+    "id": 146,
+    "nameKey": "bomb_146",
+    "name": "女媧LV5",
+    "url": "bomb_146.png"
+  },
+  {
+    "id": 147,
+    "nameKey": "bomb_147",
+    "name": "女媧LV6",
+    "url": "bomb_147.png"
+  }
+]

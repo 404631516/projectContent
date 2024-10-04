@@ -1,0 +1,20 @@
+﻿{
+"1":{"nameKey":"TriggerFailed","descript":"觸發失敗","brickTriggerChance":0,"treasureTriggerChance":0,"answerTreasureTriggerChance":0,"isAnswer":false}
+,"2":{"nameKey":"NormalMove","descript":"走上空地","brickTriggerChance":0,"treasureTriggerChance":0,"answerTreasureTriggerChance":0,"isAnswer":false}
+,"3":{"nameKey":"UnbreakableBrick","descript":"不可破壞磚塊, 玩家停留在原地","brickTriggerChance":0,"treasureTriggerChance":0,"answerTreasureTriggerChance":0,"isAnswer":false}
+,"4":{"nameKey":"Attack","descript":"遠程武器, 答題後攻擊魔王","brickTriggerChance":0.3,"treasureTriggerChance":0,"answerTreasureTriggerChance":0,"isAnswer":true}
+,"5":{"nameKey":"Defense","descript":"魔王觸手, 答題後防禦來自魔王的攻擊","brickTriggerChance":0.45,"treasureTriggerChance":0,"answerTreasureTriggerChance":0,"isAnswer":true}
+,"6":{"nameKey":"AnswerTreasure","descript":"寶箱, 答題後獲得寶物","brickTriggerChance":0,"treasureTriggerChance":0,"answerTreasureTriggerChance":0,"isAnswer":true}
+,"7":{"nameKey":"Bomb","descript":"炸彈, 直接死亡, 回到起始點","brickTriggerChance":0.03,"treasureTriggerChance":0,"answerTreasureTriggerChance":0,"isAnswer":false}
+,"8":{"nameKey":"Portal","descript":"傳送到整張地圖上的其他空地","brickTriggerChance":0.05,"treasureTriggerChance":0,"answerTreasureTriggerChance":0,"isAnswer":false}
+,"9":{"nameKey":"Boss","descript":"魔王","brickTriggerChance":0,"treasureTriggerChance":0,"answerTreasureTriggerChance":0,"isAnswer":true}
+,"10":{"nameKey":"CrossBrickBreak","descript":"一次破壞上下左右磚塊","brickTriggerChance":0.07,"treasureTriggerChance":0,"answerTreasureTriggerChance":0,"isAnswer":false}
+,"11":{"nameKey":"Shuriken","descript":"手裡劍, 直接攻擊魔王","brickTriggerChance":0,"treasureTriggerChance":0,"answerTreasureTriggerChance":0.1,"isAnswer":false}
+,"12":{"nameKey":"Freeze","descript":"凍結","brickTriggerChance":0.1,"treasureTriggerChance":0,"answerTreasureTriggerChance":0,"isAnswer":false}
+,"13":{"nameKey":"Horn","descript":"號角, 解凍全體","brickTriggerChance":0,"treasureTriggerChance":0.5,"answerTreasureTriggerChance":0.25,"isAnswer":false}
+,"14":{"nameKey":"GetShield","descript":"獲得道具 盾牌","brickTriggerChance":0,"treasureTriggerChance":0.15,"answerTreasureTriggerChance":0.25,"isAnswer":false}
+,"15":{"nameKey":"GetAxeSelf","descript":"獲得道具 威力上升(自身)","brickTriggerChance":0,"treasureTriggerChance":0.15,"answerTreasureTriggerChance":0.15,"isAnswer":false}
+,"16":{"nameKey":"GetAxeAround","descript":"獲得道具 威力上升(九宮格)","brickTriggerChance":0,"treasureTriggerChance":0.1,"answerTreasureTriggerChance":0.1,"isAnswer":false}
+,"17":{"nameKey":"GetAxeAll","descript":"獲得道具 威力上升(全體)","brickTriggerChance":0,"treasureTriggerChance":0.05,"answerTreasureTriggerChance":0.05,"isAnswer":false}
+,"18":{"nameKey":"GetFreezePrevent","descript":"獲得道具 防止凍結","brickTriggerChance":0,"treasureTriggerChance":0.05,"answerTreasureTriggerChance":0.1,"isAnswer":false}
+}

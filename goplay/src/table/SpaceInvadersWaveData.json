@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "time": 5,
+    "movementPattern": 1,
+    "enemyId": 1,
+    "enemyCount": 3,
+    "patrolSeconds": 5,
+    "patrolType": 1,
+    "enemySpeed": 1,
+    "enemySize": 1
+  },
+  {
+    "id": 2,
+    "time": 10,
+    "movementPattern": 4,
+    "enemyId": 1,
+    "enemyCount": 4,
+    "patrolSeconds": 4,
+    "patrolType": 2,
+    "enemySpeed": 1,
+    "enemySize": 1
+  },
+  {
+    "id": 3,
+    "time": 15,
+    "movementPattern": 6,
+    "enemyId": 2,
+    "enemyCount": 2,
+    "patrolSeconds": 3,
+    "patrolType": 2,
+    "enemySpeed": 1,
+    "enemySize": 1
+  },
+  {
+    "id": 4,
+    "time": 20,
+    "movementPattern": 2,
+    "enemyId": 3,
+    "enemyCount": 3,
+    "patrolSeconds": 5,
+    "patrolType": 2,
+    "enemySpeed": 1,
+    "enemySize": 1
+  },
+  {
+    "id": 5,
+    "time": 25,
+    "movementPattern": 3,
+    "enemyId": 1,
+    "enemyCount": 3,
+    "patrolSeconds": 7,
+    "patrolType": 1,
+    "enemySpeed": 0.8,
+    "enemySize": 1
+  },
+  {
+    "id": 6,
+    "time": 30,
+    "movementPattern": 5,
+    "enemyId": 3,
+    "enemyCount": 4,
+    "patrolSeconds": 3,
+    "patrolType": 1,
+    "enemySpeed": 1.5,
+    "enemySize": 1
+  },
+  {
+    "id": 7,
+    "time": 40,
+    "movementPattern": 2,
+    "enemyId": 1,
+    "enemyCount": 5,
+    "patrolSeconds": 5,
+    "patrolType": 1,
+    "enemySpeed": 0.8,
+    "enemySize": 1
+  },
+  {
+    "id": 8,
+    "time": 50,
+    "movementPattern": 4,
+    "enemyId": 1,
+    "enemyCount": 3,
+    "patrolSeconds": 7,
+    "patrolType": 1,
+    "enemySpeed": 1.2,
+    "enemySize": 1
+  },
+  {
+    "id": 9,
+    "time": 60,
+    "movementPattern": 1,
+    "enemyId": 3,
+    "enemyCount": 4,
+    "patrolSeconds": 3,
+    "patrolType": 2,
+    "enemySpeed": 1.2,
+    "enemySize": 1
+  },
+  {
+    "id": 10,
+    "time": 70,
+    "movementPattern": 6,
+    "enemyId": 2,
+    "enemyCount": 4,
+    "patrolSeconds": 3,
+    "patrolType": 1,
+    "enemySpeed": 1.5,
+    "enemySize": 1
+  },
+  {
+    "id": 11,
+    "time": 80,
+    "movementPattern": 3,
+    "enemyId": 5,
+    "enemyCount": 3,
+    "patrolSeconds": 8,
+    "patrolType": 2,
+    "enemySpeed": 1.5,
+    "enemySize": 1
+  },
+  {
+    "id": 12,
+    "time": 90,
+    "movementPattern": 5,
+    "enemyId": 2,
+    "enemyCount": 5,
+    "patrolSeconds": 4,
+    "patrolType": 1,
+    "enemySpeed": 0.8,
+    "enemySize": 1
+  },
+  {
+    "id": 13,
+    "time": 100,
+    "movementPattern": 2,
+    "enemyId": 6,
+    "enemyCount": 4,
+    "patrolSeconds": 5,
+    "patrolType": 1,
+    "enemySpeed": 0.8,
+    "enemySize": 1
+  },
+  {
+    "id": 14,
+    "time": 110,
+    "movementPattern": 4,
+    "enemyId": 2,
+    "enemyCount": 3,
+    "patrolSeconds": 7,
+    "patrolType": 1,
+    "enemySpeed": 1,
+    "enemySize": 1
+  },
+  {
+    "id": 15,
+    "time": 120,
+    "movementPattern": 6,
+    "enemyId": 6,
+    "enemyCount": 5,
+    "patrolSeconds": 3,
+    "patrolType": 1,
+    "enemySpeed": 0.8,
+    "enemySize": 1
+  },
+  {
+    "id": 16,
+    "time": 130,
+    "movementPattern": 1,
+    "enemyId": 3,
+    "enemyCount": 5,
+    "patrolSeconds": 8,
+    "patrolType": 2,
+    "enemySpeed": 1.2,
+    "enemySize": 1
+  },
+  {
+    "id": 17,
+    "time": 140,
+    "movementPattern": 5,
+    "enemyId": 4,
+    "enemyCount": 3,
+    "patrolSeconds": 6,
+    "patrolType": 2,
+    "enemySpeed": 1,
+    "enemySize": 1
+  },
+  {
+    "id": 18,
+    "time": 150,
+    "movementPattern": 3,
+    "enemyId": 4,
+    "enemyCount": 3,
+    "patrolSeconds": 6,
+    "patrolType": 2,
+    "enemySpeed": 1.5,
+    "enemySize": 1
+  },
+  {
+    "id": 19,
+    "time": 160,
+    "movementPattern": 2,
+    "enemyId": 1,
+    "enemyCount": 4,
+    "patrolSeconds": 7,
+    "patrolType": 1,
+    "enemySpeed": 1.2,
+    "enemySize": 1
+  },
+  {
+    "id": 20,
+    "time": 170,
+    "movementPattern": 4,
+    "enemyId": 1,
+    "enemyCount": 5,
+    "patrolSeconds": 7,
+    "patrolType": 2,
+    "enemySpeed": 1,
+    "enemySize": 1
+  },
+  {
+    "id": 21,
+    "time": 180,
+    "movementPattern": 3,
+    "enemyId": 3,
+    "enemyCount": 3,
+    "patrolSeconds": 3,
+    "patrolType": 1,
+    "enemySpeed": 1,
+    "enemySize": 1
+  }
+]

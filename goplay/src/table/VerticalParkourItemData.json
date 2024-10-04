@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nameKey": "vertical_parkour_item_invincible_lv1",
+    "contentKey": "vertical_parkour_content_invincible_lv1",
+    "energy": 500,
+    "itemFunction": 0,
+    "value": 4,
+    "url": "item_invincible_lv1.png"
+  },
+  {
+    "id": 2,
+    "nameKey": "vertical_parkour_item_invincible_lv2",
+    "contentKey": "vertical_parkour_content_invincible_lv2",
+    "energy": 550,
+    "itemFunction": 0,
+    "value": 5,
+    "url": "item_invincible_lv2.png"
+  },
+  {
+    "id": 3,
+    "nameKey": "vertical_parkour_item_magnet_lv1",
+    "contentKey": "vertical_parkour_content_magnet_lv1",
+    "energy": 400,
+    "itemFunction": 1,
+    "value": 4,
+    "url": "item_magnet_lv1.png"
+  },
+  {
+    "id": 4,
+    "nameKey": "vertical_parkour_item_magnet_lv2",
+    "contentKey": "vertical_parkour_content_magnet_lv2",
+    "energy": 450,
+    "itemFunction": 1,
+    "value": 5,
+    "url": "item_magnet_lv2.png"
+  },
+  {
+    "id": 5,
+    "nameKey": "vertical_parkour_item_avatar_lv1",
+    "contentKey": "vertical_parkour_content_avatar_lv1",
+    "energy": 300,
+    "itemFunction": 2,
+    "value": 100,
+    "url": "item_avatar_lv1.png"
+  },
+  {
+    "id": 6,
+    "nameKey": "vertical_parkour_item_avatar_lv2",
+    "contentKey": "vertical_parkour_content_avatar_lv2",
+    "energy": 350,
+    "itemFunction": 2,
+    "value": 120,
+    "url": "item_avatar_lv2.png"
+  },
+  {
+    "id": 7,
+    "nameKey": "vertical_parkour_item_bomb_lv1",
+    "contentKey": "vertical_parkour_content_bomb_lv1",
+    "energy": 550,
+    "itemFunction": 3,
+    "value": 300,
+    "url": "item_bomb_lv1.png"
+  },
+  {
+    "id": 8,
+    "nameKey": "vertical_parkour_item_bomb_lv2",
+    "contentKey": "vertical_parkour_content_bomb_lv2",
+    "energy": 600,
+    "itemFunction": 3,
+    "value": 600,
+    "url": "item_bomb_lv2.png"
+  }
+]

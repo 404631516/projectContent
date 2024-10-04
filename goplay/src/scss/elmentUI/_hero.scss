@@ -1,0 +1,142 @@
+// 英雄角色說明輪播圖
+.carousel-wapper {
+    .el-carousel {
+        height: 570px;
+        .el-carousel__container {
+            height: 570px;
+            .el-carousel__arrow {
+                background-color: inherit;
+                width: 69px;
+                height: 109px;
+            }
+            .el-carousel__arrow--left {
+                left: 463px;
+                .el-icon-arrow-left:before {
+                    content: "";
+                }
+            }
+            .el-carousel__arrow--right {
+                right: 463px;
+                .el-icon-arrow-right:before {
+                    content: "";
+                }
+            }
+        }
+        .el-carousel__button {
+            width: 24px;
+            height: 24px;
+            border-radius: 24px;
+        }
+    }
+    @media (min-width: 426px) and (max-width: 1024px) {
+        .el-carousel {
+            .el-carousel__container {
+                .el-carousel__arrow--left {
+                    left: 13px;
+                }
+                .el-carousel__arrow--right {
+                    right: 13px;
+                }
+            }
+            .el-carousel__button {
+                width: 18px;
+                height: 18px;
+                border-radius: 18px;
+            }
+        }
+    }
+    &.carousel-phonestyle {
+        .el-carousel {
+            min-height: 750px;
+            .el-carousel__container {
+                min-height: 750px;
+                .el-carousel__arrow {
+                    background-color: inherit;
+                    width: 54px;
+                    height: 150px;
+                }
+                .el-carousel__arrow--left {
+                    top: 170px;
+                    left: 16px;
+                    .el-icon-arrow-left:before {
+                        content: "";
+                    }
+                }
+                .el-carousel__arrow--right {
+                    top: 170px;
+                    right: 16px;
+                    .el-icon-arrow-right:before {
+                        content: "";
+                    }
+                }
+            }
+            .el-carousel__button {
+                width: 14px;
+                height: 4px;
+                border-radius: 2px;
+            }
+        }
+    }
+}
+
+// 英雄解鎖進度條
+.el-progress-bar {
+    &__outer {
+        height: 13px !important;
+        background-color: #000 !important;
+    }
+    &__inner {
+        background-color: #ffde39 !important;
+    }
+}
+
+// 英雄替換彈窗
+.hero-chang-wrapper {
+    background-color: #0d0d0d80;
+    .el-icon-close:before{
+        font-weight: 700;
+    }
+    .el-dialog {
+        background-color: #ffffff;
+        border-radius: 30px;
+        width: 65%;
+        @media (max-width: 1024px) {
+            width: 95%;
+        }
+    }
+    .el-dialog__header {
+        padding: 10px 35px;
+        .top-area {
+            padding-top: 2vw;
+            border-bottom: none;
+        }
+        .hero-avatar-wrapper {
+            width: 100%;
+            height: auto;
+            background-color: transparent;
+            border: 3px solid #ffde39;
+            border-radius: 60px;
+        }
+        .el-dialog__headerbtn {
+            i {
+                color: #808080;
+                font-size: 32px;
+            }
+        }
+    }
+    .el-dialog__body {
+        padding: 15px 35px 20px 35px;
+    }
+}
+
+// 英雄首抽
+.first-hero-wrapper {
+    .el-dialog {
+        width: 100%;
+        height: auto !important;
+        background-color: transparent !important;
+    }
+    .el-dialog__body {
+        padding: 1vh 0 !important;
+    }
+}

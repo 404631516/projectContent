@@ -1,0 +1,39 @@
+// 排行榜 tab 組件
+$tab-color: #fff;
+$tab-color-active: #3db5ce;
+.ranking-tab {
+  .el-tabs__header {
+    margin: 0;
+  }
+  .el-tabs__item {
+    width: 300px;
+    height: 60px;
+    line-height: 60px;
+    color: #686868;
+    background-color: #fff;
+    font-size: 30px !important;
+    text-align: center;
+    padding: 0;
+    margin-left: 20px;
+    // border-radius: 5px 5px 0px 0px;
+    // transform: skew(-15deg);
+    clip-path: polygon(10% 0, 100% 0, 90% 100%, 0% 100%);
+    box-sizing: border-box;
+    @media (max-width: 435px) {
+      width: 180px;
+    }
+    &.is-active {
+      background-color: $tab-color-active;
+      color: #fff !important;
+    }
+    &:hover {
+      color: $tab-color-active;
+    }
+  }
+  .el-tabs__active-bar {
+    display: none;
+  }
+  .el-tabs__nav-wrap::after {
+    background-color: transparent;
+  }
+}

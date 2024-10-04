@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nameKey": "bubbleDragon_item_track",
+    "contentKey": "bubbleDragon_content_track",
+    "energy": 100,
+    "itemLevel": -1,
+    "itemFunction": 0,
+    "url": "item_track.png"
+  },
+  {
+    "id": 2,
+    "nameKey": "bubbleDragon_item_rainbow",
+    "contentKey": "bubbleDragon_content_rainbow",
+    "energy": 220,
+    "itemLevel": -1,
+    "itemFunction": 1,
+    "bubbleImage": "rainbowBubble",
+    "url": "item_rainbow.png"
+  },
+  {
+    "id": 3,
+    "nameKey": "bubbleDragon_item_bomb_lv1",
+    "contentKey": "bubbleDragon_content_bomb_lv1",
+    "energy": 260,
+    "itemLevel": 1,
+    "itemFunction": 2,
+    "bubbleImage": "bombBubble",
+    "url": "item_bomb_Lv1.png"
+  },
+  {
+    "id": 4,
+    "nameKey": "bubbleDragon_item_bomb_lv2",
+    "contentKey": "bubbleDragon_content_bomb_lv2",
+    "energy": 350,
+    "itemLevel": 2,
+    "itemFunction": 3,
+    "bubbleImage": "bombBubble",
+    "url": "item_bomb_Lv2.png"
+  },
+  {
+    "id": 5,
+    "nameKey": "bubbleDragon_item_penetrate",
+    "contentKey": "bubbleDragon_content_penetrate",
+    "energy": 650,
+    "itemLevel": -1,
+    "itemFunction": 4,
+    "bubbleImage": "penetrateBubble",
+    "url": "item_penetrate.png"
+  }
+]

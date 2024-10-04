@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ParticleEmitterFly",
+    "speed": 200,
+    "lifespan": 4000,
+    "scale": {
+      "start": 1.2,
+      "end": 0
+    },
+    "blendMode": "ADD",
+    "gravityX": -980,
+    "visible": false
+  },
+  {
+    "name": "ParticleEmitterSpeedUp",
+    "speed": 10,
+    "lifespan": {
+      "min": 0,
+      "max": 2000
+    },
+    "alpha": {
+      "min": 0,
+      "max": 1
+    },
+    "scale": {
+      "start": 3,
+      "end": 0
+    },
+    "y": {
+      "min": -25,
+      "max": 25
+    },
+    "blendMode": "ADD",
+    "gravityX": -980,
+    "visible": false
+  }
+]

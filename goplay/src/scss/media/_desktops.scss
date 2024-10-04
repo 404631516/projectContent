@@ -1,0 +1,88 @@
+/* desktops */
+@media (min-width: 992px) and (max-width: 1025px) {  
+  // 生物兵器
+  .weapon-warpper {
+    .el-dialog {
+      width: 100%;
+    }
+    .weapon-item {
+      width: 15vw;
+      height: 15vw;
+    }
+    .weapon-place-area {
+      .weapon-area {
+        padding: 4vw !important;
+      }
+    }
+    .weapon-content-area {
+      .weapon-content {
+        width: 100%;
+      }
+    }
+    .weapon-buy-area {
+      .top-info {
+        height: 2vh !important;
+        padding: 5vw !important;
+        > .flex-row.no-wrap {
+          flex-wrap: wrap !important;
+        }
+      }
+    }
+  }  
+  // 星球大戰頁面
+  .planet-wrapper {
+    .point-box {
+      .unlocked-box {
+        top: -6vh !important;
+      }
+    }
+    .planetlist-box {
+      .planetlist-bottom {
+        .bottom-box {
+          width: 90%;
+          height: auto;          
+          .weapon-pos {
+              width: 90% !important;
+          }
+        }
+      }
+    }
+    .hero-avatar-wrapper .hero-text
+    {
+      .small {
+        font-size: 16px !important;
+      }
+      p {
+        font-size: 16px !important;
+      }
+    } 
+    .pointlist-wrapper {
+      .point-info-bottom {
+        bottom: -5vw !important;
+      }  
+      ol {
+        li {
+          .point-box {
+            .point-bg, .lock-point-area {
+              height: 20vh !important;
+            }
+          }
+        }
+      }      
+    }
+    .friend-pos {
+      position: relative;
+      top: -1vw;      
+    }       
+  }   
+  // 世界大賽卡片篩選
+  .game-card-wrapper {
+    padding: 2vw !important;
+  }  
+  // 賽事資訊頁
+  .game-detail-wrapper {
+    .dare-wrapper {
+      height: auto !important;
+    }
+  }
+}

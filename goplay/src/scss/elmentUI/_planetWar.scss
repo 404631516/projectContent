@@ -1,0 +1,96 @@
+@import "../common/mixin";
+// 星球大戰關卡資訊
+.pointinfo-wrapper {
+    .el-dialog {
+        width: 30%;
+        background-color: #ffffff !important;
+        border-radius: 30px;
+    }
+    .el-dialog__header {
+        color: #ebb030;
+        font-size: 32px;
+        border-bottom: 30px;
+        margin: 0 15px;
+    }
+    .btn-box {
+        position: relative;
+        width: 100%;
+        height: auto;
+        vertical-align: middle;
+        margin: 0 auto;
+        .el-button {
+            position: relative;
+            width: 90%;
+            height: 74px;
+            font-size: 24px;
+            color: #fff;
+            @include btn_style-1;
+            span {
+                display: flex;
+                justify-content: center;
+                align-content: center;
+                flex-wrap: wrap;
+                margin-right: 1vw;
+                &.icon {
+                    position: absolute;
+                    top: 13px;
+                    right: 4%;
+                    width: 55px;
+                    height: 40px;
+                    display: inline-block;
+                    background-size: contain !important;
+                }
+                &.note {
+                    position: absolute;
+                    top: 12px;
+                    left: 39%;
+                    font-size: 16px;
+                    color: #f1d103;
+                }
+            }
+        }
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .pointinfo-wrapper {
+        .el-dialog {
+            width: 70%;
+            background-color: #ffffff !important;
+            border-radius: 30px;
+        }
+    }
+}
+
+// 星球大戰關卡編輯
+.planetwar-wrapper {
+    .el-table {
+        border-radius: 10px;
+        box-shadow: 0 2px 12px 0 rgb(0 0 0 / 10%);
+    }
+    .el-table th {
+        background-color: #3b3939;
+        &:hover {
+            // color: #fff;
+            & > td {
+                background-color: transparent;
+            }
+        }
+    }
+    .el-table tr {
+        background-color: #4b4b4b;
+        color: #fff;
+        &:hover {
+            color: #fff;
+            & > td {
+                background-color: transparent;
+            }
+        }
+    }
+    .el-table,
+    .el-table__expanded-cell {
+        background-color: #ffffff47;
+    }
+    .el-table--enable-row-hover .el-table__body tr:hover > td {
+        background-color: transparent;
+    }
+}

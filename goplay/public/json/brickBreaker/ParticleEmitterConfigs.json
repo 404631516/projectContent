@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ParticleEmitterBreakBrick",
+    "emitting": false,
+    "frame": ["blue"],
+    "alpha": {
+      "start": 0.5,
+      "end": 0
+    },
+    "scale": {
+      "start": 0.5,
+      "end": 0
+    },
+    "speed": {
+      "min": -800,
+      "max": 800
+    },
+    "angle": {
+      "min": 0,
+      "max": 360
+    },
+    "rotate": {
+      "min": -180,
+      "max": 180
+    },
+    "lifespan": 600,
+    "blendMode": "Phaser.BlendModes.NORMAL",
+    "gravityY": 800
+  },
+  {
+    "name": "ParticleEmitterUnfreeze",
+    "emitting": false,
+    "frame": ["blue"],
+    "alpha": {
+      "start": 0.5,
+      "end": 0
+    },
+    "scale": {
+      "start": 0.5,
+      "end": 0
+    },
+    "speed": {
+      "min": -800,
+      "max": 800
+    },
+    "angle": {
+      "min": 0,
+      "max": 360
+    },
+    "rotate": {
+      "min": -180,
+      "max": 180
+    },
+    "lifespan": 600,
+    "blendMode": "Phaser.BlendModes.NORMAL",
+    "gravityY": 800
+  }
+]

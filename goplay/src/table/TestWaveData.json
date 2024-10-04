@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "speedMultiply": 0.5,
+    "appearTypeList": [1],
+    "amountPerSecond": 1,
+    "duration": 20,
+    "delayAfterFinish": 5
+  },
+  {
+    "id": 2,
+    "speedMultiply": 0.7,
+    "appearTypeList": [1, 1, 2],
+    "amountPerSecond": 2,
+    "duration": 35,
+    "delayAfterFinish": 5
+  },
+  {
+    "id": 3,
+    "speedMultiply": 1,
+    "appearTypeList": [1, 1, 2, 3, 4],
+    "amountPerSecond": 2,
+    "duration": 35,
+    "delayAfterFinish": 5
+  },
+  {
+    "id": 4,
+    "speedMultiply": 1.2,
+    "appearTypeList": [1, 1, 2, 2, 3, 4, 4, 5, 6],
+    "amountPerSecond": 2,
+    "duration": 35,
+    "delayAfterFinish": 5
+  },
+  {
+    "id": 5,
+    "speedMultiply": 1.5,
+    "appearTypeList": [1, 2, 3, 4, 4, 4, 5, 6],
+    "amountPerSecond": 3,
+    "duration": 35,
+    "delayAfterFinish": 0
+  }
+]

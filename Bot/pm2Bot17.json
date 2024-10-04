@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "bot17",
+      "cwd": ".",
+      "script": "dist/app.js",
+      "args": [17],
+      "node_args": [],
+      "log_date_format": "MM-DD HH:mm:ss.SSS",
+      "autorestart": false,
+      "exec_mode": "cluster"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+"1":{"nameKey":"Empty","name":"空地","gridDestroyType":0,"regenerateTime":0}
+,"2":{"nameKey":"BreakableBrick1","name":"可破壞磚塊","gridDestroyType":1,"regenerateTime":40}
+,"3":{"nameKey":"BreakableBrick2","name":"可破壞磚塊","gridDestroyType":1,"regenerateTime":60}
+,"4":{"nameKey":"BreakableBrick3","name":"可破壞磚塊","gridDestroyType":1,"regenerateTime":80}
+,"5":{"nameKey":"UnbreakableBrick1","name":"不可破壞磚塊","gridDestroyType":0,"regenerateTime":0}
+,"6":{"nameKey":"UnbreakableBrick2","name":"不可破壞磚塊","gridDestroyType":0,"regenerateTime":0}
+,"7":{"nameKey":"UnbreakableBrick3","name":"不可破壞磚塊","gridDestroyType":0,"regenerateTime":0}
+,"8":{"nameKey":"Attack","name":"遠程武器","gridDestroyType":2,"regenerateTime":0}
+,"9":{"nameKey":"Defense","name":"魔王怪爪","gridDestroyType":2,"regenerateTime":0}
+,"10":{"nameKey":"Treature","name":"寶物","gridDestroyType":2,"regenerateTime":0}
+,"11":{"nameKey":"AnswerTreasure","name":"答題寶箱","gridDestroyType":2,"regenerateTime":0}
+,"12":{"nameKey":"RespawnPoint","name":"出生點","gridDestroyType":0,"regenerateTime":0}
+,"13":{"nameKey":"Boss","name":"魔王","gridDestroyType":0,"regenerateTime":0}
+,"14":{"nameKey":"DisposableBrick","name":"一次性可破壞磚","gridDestroyType":2,"regenerateTime":0}
+}

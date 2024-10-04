@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nameKey": "parkour_mapObject_diamond1",
+    "contentKey": "低分鑽石",
+    "score": 1,
+    "energy": 1,
+    "tileType": "Diamond_1",
+    "url": "Diamond1.png"
+  },
+  {
+    "id": 2,
+    "nameKey": "parkour_mapObject_diamond2",
+    "contentKey": "高分鑽石",
+    "score": 3,
+    "energy": 3,
+    "tileType": "Diamond_2",
+    "url": "Diamond2.png"
+  },
+  {
+    "id": 3,
+    "nameKey": "parkour_mapObject_obstacle1",
+    "contentKey": "木箱",
+    "score": 0,
+    "energy": -10,
+    "tileType": "Obstacle_1",
+    "url": "Obstacle1.png"
+  },
+  {
+    "id": 4,
+    "nameKey": "parkour_mapObject_obstacle2",
+    "contentKey": "鐵箱",
+    "score": 0,
+    "energy": -15,
+    "tileType": "Obstacle_2",
+    "url": "Obstacle2.png"
+  },
+  {
+    "id": 5,
+    "nameKey": "parkour_mapObject_monster1",
+    "contentKey": "紅色怪物",
+    "score": 0,
+    "energy": -20,
+    "tileType": "Monster_1",
+    "url": "Monster1.png"
+  },
+  {
+    "id": 6,
+    "nameKey": "parkour_mapObject_monster2",
+    "contentKey": "藍色怪物",
+    "score": 0,
+    "energy": -20,
+    "tileType": "Monster_2",
+    "url": "Monster2.png"
+  },
+  {
+    "id": 7,
+    "nameKey": "parkour_mapObject_breakableWall1",
+    "contentKey": "可破壞牆",
+    "score": 0,
+    "energy": -5,
+    "tileType": "BreakableWall_1",
+    "url": "BreakableWall1.png"
+  },
+  {
+    "id": 8,
+    "nameKey": "parkour_mapObject_breakableWall2",
+    "contentKey": "可破壞牆",
+    "score": 0,
+    "energy": -5,
+    "tileType": "BreakableWall_2",
+    "url": "BreakableWall2.png"
+  },
+  {
+    "id": 9,
+    "nameKey": "parkour_mapObject_breakableWall3",
+    "contentKey": "可破壞牆",
+    "score": 0,
+    "energy": -5,
+    "tileType": "BreakableWall_3",
+    "url": "BreakableWall3.png"
+  },
+  {
+    "id": 10,
+    "nameKey": "parkour_mapObject_breakableWall4",
+    "contentKey": "可破壞牆",
+    "score": 0,
+    "energy": -5,
+    "tileType": "BreakableWall_4",
+    "url": "BreakableWall4.png"
+  }
+]
